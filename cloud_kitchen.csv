@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_age,city,subscription_type,meal_type,num_of_meals,delivery_date,delivery_time,order_amount,delivery_status,payment_method,prep_time_minutes,customer_rating
+1,5546,40,Pagangan,basic,breakfast,1,10/28/2025,10:16 PM,431,in transit,credit card,38,3
+2,9055,55,Pran Buri,gold,snack,8,3/15/2026,8:23 AM,2872,delivered,credit card,42,5
+3,5307,49,Stetseva,gold,dinner,3,5/11/2025,5:59 AM,870,delivered,credit card,49,3
+4,1304,62,La Reforma,gold,dinner,3,1/10/2026,7:43 PM,1359,out for delivery,credit card,54,5
+5,8925,52,Zastron,basic,snack,2,12/26/2025,12:56 AM,742,out for delivery,Venmo,59,3
+6,1438,30,Qijiang,premium,dinner,10,5/21/2025,10:53 AM,3180,out for delivery,PayPal,20,1
+7,9721,26,Litibakul,premium,breakfast,6,11/25/2025,3:37 PM,2226,out for delivery,credit card,11,3
+8,6667,61,Rusip,basic,snack,10,1/13/2026,11:53 PM,3970,delivered,PayPal,26,4
+9,1016,76,Hikkaduwa,gold,breakfast,5,6/8/2025,5:50 AM,1265,delivered,credit card,44,3
+10,2092,45,Muramatsu,basic,lunch,10,6/17/2025,11:50 PM,2470,delivered,PayPal,52,1
+11,4388,19,Beibei,basic,breakfast,3,7/7/2025,8:26 PM,786,delivered,credit card,13,2
+12,7132,52,Garunggang,basic,breakfast,6,11/4/2025,6:39 AM,1386,in transit,PayPal,39,4
+13,8732,46,HanHuang,gold,breakfast,7,3/29/2026,8:28 PM,3458,delivered,PayPal,60,4
+14,4759,31,Goragorskiy,gold,breakfast,10,9/19/2025,7:41 PM,3180,delivered,credit card,38,2
+15,8060,25,Nikel’,basic,lunch,4,4/10/2026,7:32 AM,880,out for delivery,PayPal,53,2
+16,7781,34,Phu Phiang,basic,snack,4,4/20/2026,6:43 AM,1116,delivered,credit card,26,4
+17,6843,20,La Esmeralda,premium,lunch,10,6/22/2025,10:13 AM,2470,in transit,PayPal,36,3
+18,1733,72,Batanamang,basic,lunch,10,3/17/2026,10:10 PM,4970,out for delivery,credit card,34,3
+19,3523,40,Jiatou,gold,breakfast,9,1/26/2026,4:49 AM,2808,in transit,PayPal,28,4
+20,4974,66,Edsbyn,basic,breakfast,4,2/9/2026,2:19 PM,864,out for delivery,PayPal,43,1
+21,4172,75,Kesambilerenkrajan,gold,dinner,3,3/12/2026,6:24 AM,777,delivered,credit card,40,2
+22,5290,58,Klang,premium,snack,1,7/24/2025,5:55 AM,212,in transit,PayPal,10,3
+23,9163,32,Ouranoupolis,premium,dinner,5,7/10/2025,2:56 PM,2495,out for delivery,PayPal,15,4
+24,6533,72,Al Ḩazm,premium,lunch,2,7/12/2025,8:28 PM,444,in transit,PayPal,47,1
+25,7417,69,Kefar Yona,premium,dinner,2,12/17/2025,4:50 PM,406,delivered,PayPal,58,1
+26,9071,37,Kuantan,gold,lunch,7,9/10/2025,1:03 AM,2394,in transit,Venmo,15,5
+27,5799,48,Calanogas,gold,lunch,2,1/20/2026,11:09 PM,804,in transit,Venmo,17,1
+28,9857,21,Madolenihm Municipality Government,basic,lunch,6,1/24/2026,2:33 PM,2838,delivered,PayPal,51,1
+29,9560,53,Liski,premium,lunch,5,2/12/2026,1:17 PM,1300,out for delivery,PayPal,11,1
+30,1659,72,Mikulintsy,premium,breakfast,5,9/1/2025,8:12 AM,1440,in transit,credit card,28,2
+31,9930,39,Kasempa,basic,lunch,6,5/8/2025,3:30 AM,1332,out for delivery,PayPal,11,1
+32,8686,27,Kochetok,gold,breakfast,5,5/6/2025,8:01 PM,2420,delivered,PayPal,15,1
+33,9653,68,Salamanca,basic,breakfast,7,11/10/2025,8:29 AM,3248,delivered,PayPal,16,1
+34,6922,55,Dawu,gold,dinner,7,2/6/2026,12:11 PM,2772,in transit,credit card,23,3
+35,2085,67,Al Ḩawātah,basic,breakfast,6,10/8/2025,12:15 AM,2418,out for delivery,credit card,45,2
+36,3918,52,Yangmiao,premium,dinner,4,8/1/2025,8:46 PM,1360,out for delivery,credit card,15,2
+37,3554,41,Ushibuka,premium,lunch,3,9/14/2025,6:46 AM,1179,out for delivery,Venmo,31,2
+38,4273,65,Dambarta,basic,dinner,6,10/4/2025,2:12 AM,1578,delivered,credit card,44,4
+39,8044,41,Lameira,basic,lunch,10,11/10/2025,7:48 PM,2680,delivered,Venmo,36,1
+40,4458,69,Xiongbei,gold,snack,9,4/10/2026,4:00 AM,2799,delivered,credit card,26,1
+41,7393,23,Tasböget,basic,breakfast,1,5/27/2025,8:13 AM,361,delivered,credit card,32,5
+42,6821,62,Hudson,premium,dinner,6,11/14/2025,3:33 PM,1380,delivered,credit card,24,2
+43,6916,58,Maulavi Bāzār,basic,snack,5,2/7/2026,4:47 PM,2010,in transit,Venmo,59,5
+44,1823,24,Kowary,basic,dinner,8,4/16/2026,7:01 PM,2128,out for delivery,Venmo,46,5
+45,6307,20,Chenggan,gold,breakfast,4,9/7/2025,12:17 AM,1484,delivered,PayPal,16,4
+46,1115,26,Santo Amaro da Imperatriz,premium,snack,4,2/24/2026,5:34 PM,1200,delivered,Venmo,47,1
+47,9322,69,Tiaong,premium,lunch,2,12/15/2025,3:54 AM,894,delivered,Venmo,57,4
+48,7277,32,Pisão,gold,lunch,10,3/18/2026,9:02 AM,2020,out for delivery,credit card,19,4
+49,3826,77,Naḥf,basic,dinner,7,7/10/2025,7:25 PM,1813,out for delivery,credit card,17,3
+50,8703,52,Satita,premium,breakfast,4,1/19/2026,1:36 AM,1760,delivered,PayPal,24,5
+51,6138,49,Tucupido,premium,snack,5,2/3/2026,7:29 PM,2275,delivered,PayPal,53,2
+52,1702,45,Cruz Alta,gold,snack,6,1/9/2026,9:19 PM,2124,in transit,Venmo,51,4
+53,1724,49,Dolo,basic,dinner,8,7/6/2025,6:38 PM,3520,in transit,credit card,43,4
+54,8933,48,Yingtou,gold,lunch,3,3/19/2026,7:03 PM,1011,in transit,PayPal,20,2
+55,5694,64,Toungo,gold,lunch,2,11/26/2025,2:38 PM,894,in transit,PayPal,37,5
+56,6462,65,Luntas,basic,breakfast,10,10/9/2025,3:23 PM,3810,in transit,PayPal,31,1
+57,5119,18,Longfeng,premium,snack,4,2/6/2026,1:11 PM,1580,out for delivery,Venmo,14,3
+58,8469,80,Miaoshi,gold,lunch,2,8/23/2025,8:31 PM,840,out for delivery,PayPal,58,1
+59,4633,56,São Mateus,basic,dinner,6,4/19/2026,12:52 PM,2148,delivered,PayPal,56,2
+60,4669,33,Boliden,premium,breakfast,9,8/21/2025,5:56 AM,3978,delivered,Venmo,24,3
+61,6626,40,Babakandesa,gold,lunch,1,12/1/2025,10:28 AM,424,delivered,PayPal,26,4
+62,7706,75,Crumlin,gold,snack,1,3/27/2026,10:06 PM,310,delivered,credit card,30,3
+63,7382,24,Imielin,basic,dinner,9,9/18/2025,5:22 AM,2295,in transit,Venmo,39,4
+64,8763,20,Williamsfield,gold,snack,10,11/10/2025,1:41 PM,4660,delivered,Venmo,44,1
+65,9334,76,Los Angeles,premium,lunch,1,1/21/2026,7:08 AM,454,out for delivery,credit card,40,3
+66,5745,74,Mali Iđoš,premium,breakfast,4,10/14/2025,10:08 PM,1844,delivered,credit card,19,1
+67,8209,57,La Esperanza,premium,snack,1,7/22/2025,1:28 PM,374,delivered,credit card,32,1
+68,3932,18,Itaparica,basic,lunch,4,11/30/2025,6:24 PM,1200,delivered,credit card,10,5
+69,9633,46,Concepción del Uruguay,basic,breakfast,5,11/12/2025,11:24 PM,2210,out for delivery,credit card,45,3
+70,5735,32,Matão,premium,breakfast,3,12/21/2025,6:53 AM,810,in transit,credit card,52,2
+71,8271,55,Xiaoyan,gold,dinner,6,11/5/2025,3:03 PM,1956,delivered,Venmo,30,2
+72,6000,74,Jangkungkusumo,premium,lunch,9,12/7/2025,5:45 AM,3456,out for delivery,credit card,49,3
+73,2704,44,Okotoks,basic,breakfast,6,5/23/2025,8:21 AM,2856,out for delivery,credit card,17,4
+74,3632,25,Yambol,gold,dinner,4,11/10/2025,3:32 PM,872,out for delivery,Venmo,39,4
+75,1786,80,Druzhny,gold,dinner,4,12/4/2025,12:42 PM,864,out for delivery,PayPal,59,4
+76,8515,61,Dijon,premium,snack,4,12/17/2025,6:37 PM,832,in transit,Venmo,48,4
+77,2562,59,Taozhuang,basic,lunch,6,1/4/2026,7:42 AM,2712,delivered,PayPal,11,2
+78,7049,64,Vaxholm,basic,snack,3,2/24/2026,4:20 AM,933,delivered,credit card,49,1
+79,1482,51,Kasina Wielka,basic,dinner,7,10/23/2025,4:44 AM,1988,in transit,PayPal,45,1
+80,3892,21,Talun,gold,lunch,2,3/26/2026,9:23 AM,870,delivered,credit card,54,3
+81,1300,78,Kelungkung,gold,breakfast,2,6/26/2025,2:42 PM,792,in transit,Venmo,17,4
+82,5362,72,Mpulungu,basic,snack,2,11/21/2025,12:40 PM,408,in transit,PayPal,11,5
+83,8041,44,Jatisari,premium,snack,1,1/1/2026,2:46 PM,362,in transit,PayPal,50,1
+84,4445,35,Hödrögö,premium,snack,4,6/30/2025,7:32 PM,1508,delivered,credit card,10,3
+85,8153,31,Ancol,gold,lunch,7,11/13/2025,10:03 AM,2758,out for delivery,credit card,56,4
+86,2379,30,Ar Ru’ays,gold,lunch,2,10/10/2025,2:06 PM,746,delivered,PayPal,19,4
+87,6036,59,Trzebinia,basic,breakfast,6,8/31/2025,4:22 AM,1590,out for delivery,Venmo,43,2
+88,3681,24,Hrvace,premium,breakfast,3,6/6/2025,4:26 AM,1452,out for delivery,PayPal,26,5
+89,7061,69,Yinglong,premium,snack,8,4/6/2026,3:25 PM,3568,in transit,PayPal,23,4
+90,2683,53,Kėdainiai,basic,dinner,5,4/29/2025,1:22 AM,1435,delivered,credit card,12,2
+91,6376,50,Bayt ‘Ūr at Taḩtā,premium,snack,5,2/27/2026,8:59 PM,1645,out for delivery,Venmo,16,1
+92,2322,33,Kansas City,premium,breakfast,2,8/1/2025,8:49 PM,436,in transit,Venmo,12,2
+93,7012,63,Pak Thong Chai,premium,lunch,5,2/28/2026,6:24 PM,2275,delivered,credit card,50,2
+94,1570,18,Zhanggongmiao,gold,lunch,8,1/16/2026,1:57 PM,2368,out for delivery,Venmo,51,2
+95,7277,38,Roma,gold,breakfast,4,9/18/2025,1:51 AM,1800,out for delivery,credit card,27,5
+96,6862,70,Nomhon,basic,dinner,8,10/18/2025,8:32 AM,3048,delivered,Venmo,53,2
+97,6071,23,San Rafael Arriba,premium,dinner,7,2/11/2026,3:10 PM,3157,in transit,PayPal,14,4
+98,3523,62,Gaïtánion,basic,snack,2,11/3/2025,12:42 PM,530,delivered,credit card,38,3
+99,7564,26,Vetrino,gold,snack,10,7/22/2025,7:15 PM,4890,delivered,PayPal,31,1
+100,6513,77,Rzyki,premium,lunch,4,1/18/2026,9:45 AM,1444,delivered,credit card,34,3
+101,7724,42,Gorzyce,basic,dinner,6,6/19/2025,3:22 PM,2094,out for delivery,PayPal,33,4
+102,9442,21,Sali,basic,snack,4,6/22/2025,10:32 AM,1916,delivered,PayPal,30,4
+103,8620,52,Trojanów,premium,dinner,7,3/12/2026,11:19 AM,1953,in transit,credit card,29,5
+104,4633,60,Jiaoba,premium,lunch,1,1/28/2026,5:51 PM,217,delivered,Venmo,59,2
+105,3706,25,Cachimayo,gold,dinner,6,4/17/2026,5:16 AM,1878,out for delivery,credit card,26,1
+106,7488,62,Temyasovo,premium,lunch,2,10/10/2025,1:04 PM,536,delivered,credit card,27,5
+107,3967,40,Lipov,gold,breakfast,6,8/26/2025,8:58 PM,2160,delivered,credit card,46,3
+108,1566,58,Bakuriani,basic,snack,1,11/14/2025,9:56 PM,446,in transit,PayPal,58,4
+109,4237,21,Tigbaw,gold,snack,1,12/14/2025,2:09 AM,440,out for delivery,credit card,12,3
+110,5668,25,Esperantina,basic,dinner,2,6/14/2025,6:33 PM,444,in transit,PayPal,42,2
+111,7094,44,Kembangkerang Satu,gold,snack,3,11/12/2025,6:46 PM,1083,in transit,Venmo,54,1
+112,3583,42,Sangke,gold,lunch,10,12/2/2025,11:16 AM,5000,in transit,Venmo,35,2
+113,3657,67,Biała,gold,snack,9,9/29/2025,8:10 AM,2331,out for delivery,PayPal,25,2
+114,9981,65,Yushu,gold,breakfast,9,3/28/2026,4:08 PM,2619,in transit,Venmo,28,2
+115,2924,56,Xialiao,gold,snack,6,8/13/2025,8:18 AM,2778,out for delivery,PayPal,28,4
+116,2252,58,Shimeitang,basic,snack,9,8/7/2025,6:02 AM,1818,out for delivery,Venmo,44,3
+117,2070,19,Tāndo Mittha Khān,basic,breakfast,8,2/25/2026,8:32 AM,3616,out for delivery,Venmo,31,1
+118,9373,69,Radzyń Chełmiński,basic,breakfast,5,7/16/2025,9:33 AM,1580,out for delivery,credit card,58,2
+119,7103,58,Lautaro,premium,dinner,10,10/21/2025,11:10 PM,2430,delivered,credit card,52,2
+120,8520,57,Pondokaso,basic,breakfast,3,4/28/2025,4:37 PM,1458,in transit,Venmo,44,2
+121,3052,30,Jeding,gold,lunch,5,5/26/2025,8:47 AM,2420,delivered,Venmo,12,1
+122,5035,63,Jiangfeng,basic,lunch,3,11/16/2025,5:54 PM,870,in transit,Venmo,16,1
+123,3977,74,Okinawa Número Uno,gold,snack,1,1/25/2026,10:06 AM,209,out for delivery,Venmo,23,5
+124,6776,72,Yanas,premium,snack,8,1/22/2026,10:06 AM,3040,delivered,PayPal,16,1
+125,5238,48,El Monte,premium,snack,7,8/29/2025,5:14 PM,2296,out for delivery,PayPal,22,5
+126,6613,41,Ciénaga,basic,lunch,4,2/5/2026,1:06 AM,1656,in transit,PayPal,39,4
+127,6207,68,Jaraguá,premium,snack,1,8/29/2025,4:33 PM,382,out for delivery,Venmo,41,1
+128,5123,33,Krajan Satu,basic,snack,3,2/18/2026,5:50 AM,702,out for delivery,Venmo,24,1
+129,6037,44,Gucheng,gold,lunch,4,11/15/2025,7:46 AM,944,delivered,Venmo,35,2
+130,5492,49,Yasenevo,basic,snack,1,9/7/2025,4:24 AM,292,in transit,Venmo,52,1
+131,6056,42,Didi Lilo,gold,snack,10,7/29/2025,3:22 PM,2980,out for delivery,Venmo,45,5
+132,1192,54,Ettal,premium,dinner,7,4/5/2026,1:00 AM,3325,delivered,Venmo,34,1
+133,2391,77,Leping,premium,breakfast,1,9/27/2025,6:26 AM,436,delivered,credit card,47,5
+134,6671,22,Bureng,basic,lunch,7,3/12/2026,7:35 AM,2422,in transit,credit card,24,5
+135,7007,62,Dobra,premium,lunch,4,8/25/2025,9:55 AM,1944,out for delivery,credit card,40,1
+136,6361,19,Kobylin,gold,breakfast,5,11/23/2025,12:58 PM,2460,out for delivery,Venmo,32,3
+137,7717,66,Mondokan,premium,snack,1,6/24/2025,2:13 PM,295,delivered,credit card,13,4
+138,5795,69,Arlington,basic,snack,1,6/3/2025,1:47 PM,339,out for delivery,Venmo,42,5
+139,1571,62,Trondheim,basic,breakfast,10,4/3/2026,1:12 PM,3800,in transit,credit card,21,3
+140,3509,36,Changjiang,gold,lunch,2,2/24/2026,5:49 AM,428,delivered,credit card,14,4
+141,7891,76,Otradnoye,basic,dinner,9,6/22/2025,9:12 AM,1944,in transit,Venmo,36,3
+142,6271,38,Phra Phutthabat,gold,breakfast,2,2/8/2026,11:10 AM,512,out for delivery,PayPal,12,1
+143,3252,30,Tutup,gold,breakfast,1,6/28/2025,2:52 AM,488,in transit,PayPal,27,5
+144,7660,42,Tirtopuro,gold,dinner,5,9/7/2025,12:12 PM,1485,in transit,Venmo,37,1
+145,3845,22,Apače,premium,snack,1,11/30/2025,4:51 PM,211,in transit,credit card,11,3
+146,7962,79,Stavanger,premium,breakfast,4,12/30/2025,3:28 AM,1008,delivered,Venmo,21,1
+147,7629,30,Néa Ankhíalos,gold,lunch,1,12/10/2025,7:53 PM,476,delivered,credit card,19,4
+148,8000,46,Kitamilo,basic,lunch,8,11/1/2025,5:52 AM,3960,delivered,credit card,28,1
+149,5766,72,Varennes,basic,breakfast,1,1/16/2026,1:21 AM,356,out for delivery,Venmo,11,3
+150,4935,34,Sepulu,premium,lunch,1,4/2/2026,3:27 PM,473,delivered,PayPal,32,5
+151,9735,39,Sokhumi,premium,snack,7,11/7/2025,3:11 AM,1470,out for delivery,credit card,44,5
+152,9822,46,Juncalito Abajo,basic,snack,5,10/29/2025,10:41 PM,2035,delivered,credit card,15,2
+153,2302,80,Kabin Buri,premium,snack,5,12/24/2025,5:40 PM,1475,in transit,Venmo,52,4
+154,4811,44,Xianan,basic,snack,4,10/8/2025,10:15 AM,1604,delivered,PayPal,60,3
+155,5843,30,Esparza,gold,breakfast,9,12/1/2025,4:49 AM,2916,out for delivery,Venmo,32,5
+156,3802,41,Hongyanxi,gold,breakfast,3,1/18/2026,11:08 AM,1266,out for delivery,PayPal,16,2
+157,8773,39,Siemiechów,gold,dinner,5,7/29/2025,12:48 PM,1580,out for delivery,Venmo,22,2
+158,6210,74,Maştağa,gold,breakfast,7,6/28/2025,4:51 PM,2499,in transit,PayPal,21,5
+159,2495,77,Al Baqāliţah,gold,snack,8,7/12/2025,1:16 AM,2584,out for delivery,credit card,50,4
+160,6766,30,Xichang,basic,lunch,7,10/6/2025,7:49 PM,1491,delivered,PayPal,51,4
+161,5337,39,Pápa,gold,snack,3,2/20/2026,11:40 PM,1302,in transit,PayPal,42,5
+162,6396,43,Baiyan,premium,lunch,2,8/25/2025,7:38 AM,834,out for delivery,PayPal,42,2
+163,4482,19,Saint-Quentin-en-Yvelines,basic,lunch,2,10/3/2025,8:32 PM,974,in transit,PayPal,54,3
+164,6148,30,Leye,premium,breakfast,7,8/2/2025,6:57 AM,2814,in transit,credit card,12,4
+165,1581,49,Los Angeles,basic,lunch,4,5/28/2025,7:40 PM,1796,in transit,Venmo,22,1
+166,9794,78,Huibu,premium,dinner,4,3/24/2026,2:55 PM,1716,delivered,credit card,41,5
+167,9591,33,Dargaz,gold,dinner,9,7/12/2025,1:59 PM,2808,in transit,Venmo,21,5
+168,7730,57,Asnières-sur-Seine,gold,snack,1,8/27/2025,12:22 AM,207,delivered,PayPal,45,4
+169,5653,50,Cerca la Source,basic,snack,2,1/18/2026,3:18 PM,838,in transit,Venmo,37,5
+170,7081,48,Lebak,gold,breakfast,1,9/23/2025,1:20 PM,381,in transit,PayPal,34,2
+171,8713,54,Klimavichy,premium,lunch,8,4/26/2026,7:20 AM,2288,out for delivery,PayPal,30,2
+172,8770,57,Velké Pavlovice,gold,snack,1,8/29/2025,12:40 AM,267,out for delivery,credit card,54,1
+173,9905,62,Mingoyo,gold,breakfast,5,6/20/2025,1:42 PM,2330,out for delivery,PayPal,32,3
+174,4050,50,Matão,basic,dinner,9,5/9/2025,1:59 AM,4203,out for delivery,Venmo,58,1
+175,8560,21,Łękawica,gold,lunch,6,11/5/2025,7:15 PM,1566,in transit,credit card,37,1
+176,6886,73,Varnsdorf,premium,snack,10,11/10/2025,9:10 AM,2860,in transit,PayPal,56,4
+177,2829,35,Strasbourg,basic,snack,5,6/23/2025,3:11 PM,1630,out for delivery,PayPal,59,5
+178,4920,48,Ponta Porã,basic,snack,2,8/18/2025,7:43 AM,994,delivered,Venmo,34,1
+179,2513,29,Saguing,premium,snack,6,10/11/2025,10:41 AM,2532,in transit,PayPal,14,1
+180,4300,42,Tiglauigan,gold,snack,7,3/22/2026,3:22 PM,2688,out for delivery,Venmo,53,2
+181,9427,26,Birinci Aşıqlı,basic,breakfast,1,5/13/2025,5:07 PM,489,out for delivery,PayPal,22,1
+182,8527,58,Sørvágur,premium,breakfast,1,3/16/2026,4:00 PM,379,delivered,credit card,16,3
+183,3005,69,La Huaca,gold,breakfast,8,11/9/2025,1:30 AM,3512,out for delivery,PayPal,16,3
+184,9502,59,Sua,gold,snack,10,6/18/2025,7:14 PM,4360,delivered,PayPal,37,5
+185,6003,76,Isanlu Itedoijowa,basic,breakfast,1,9/30/2025,5:48 AM,217,delivered,credit card,54,3
+186,7293,41,Liutangting,basic,snack,1,1/16/2026,2:10 PM,407,in transit,credit card,12,1
+187,1502,51,Mistrató,premium,breakfast,9,7/9/2025,5:33 PM,3240,out for delivery,credit card,21,4
+188,8800,30,Teplice,premium,dinner,6,11/6/2025,8:29 AM,1710,in transit,PayPal,37,3
+189,4831,46,Changqing,gold,breakfast,1,8/30/2025,12:28 PM,421,out for delivery,credit card,45,2
+190,3251,79,Baiquan,basic,lunch,9,2/10/2026,2:26 PM,2871,in transit,credit card,28,3
+191,4213,48,Agoo,basic,breakfast,5,5/3/2025,4:59 PM,1325,in transit,Venmo,38,1
+192,6259,80,Mansa,premium,snack,6,6/27/2025,9:23 AM,1326,out for delivery,credit card,55,5
+193,8158,66,Sishui,gold,snack,7,7/22/2025,11:04 PM,2303,in transit,Venmo,54,1
+194,8703,31,Taiyanghe,gold,snack,2,12/4/2025,11:02 PM,986,in transit,PayPal,56,4
+195,6126,67,Khallat Şāliḩ,basic,snack,5,10/17/2025,2:35 PM,1335,in transit,Venmo,11,5
+196,9166,54,Acevedo,premium,breakfast,7,3/7/2026,5:54 PM,1589,out for delivery,Venmo,13,3
+197,8200,70,Estância,premium,breakfast,2,9/27/2025,10:14 PM,496,in transit,Venmo,16,4
+198,5059,74,Xijiao,gold,lunch,8,11/9/2025,6:15 AM,3736,in transit,credit card,48,4
+199,6138,25,Qingshuihe,gold,breakfast,5,6/4/2025,2:29 AM,1105,out for delivery,PayPal,42,5
+200,5485,38,Shikhany,basic,lunch,1,11/7/2025,5:26 AM,306,in transit,Venmo,48,1
+201,1200,57,Livingstone,gold,breakfast,9,2/27/2026,6:19 AM,3375,in transit,PayPal,25,2
+202,3469,24,Sasebo,basic,lunch,3,12/27/2025,6:45 PM,909,delivered,Venmo,16,1
+203,2060,65,Syrskoye,basic,lunch,8,7/3/2025,9:29 PM,2184,out for delivery,Venmo,43,5
+204,6191,57,Guandian,premium,lunch,2,12/18/2025,5:50 PM,792,delivered,PayPal,23,2
+205,1729,80,Pancan,basic,dinner,9,7/23/2025,1:43 PM,3789,out for delivery,credit card,43,5
+206,5121,33,Haumeni,basic,snack,7,6/7/2025,2:58 AM,2779,in transit,Venmo,49,2
+207,2585,20,Frei Paulo,premium,dinner,1,7/9/2025,5:32 PM,384,delivered,credit card,44,3
+208,1070,43,Banjar Pande,premium,dinner,3,3/22/2026,10:14 AM,1119,in transit,PayPal,10,5
+209,5601,46,Ongi,premium,snack,8,2/27/2026,2:26 PM,2496,delivered,Venmo,55,4
+210,3688,22,Cesson-Sévigné,premium,dinner,2,10/6/2025,5:28 PM,992,out for delivery,credit card,45,5
+211,6574,35,Pawa,premium,dinner,6,5/22/2025,6:51 PM,2232,delivered,PayPal,20,5
+212,6860,66,Três Lagoas,basic,dinner,7,9/18/2025,1:57 PM,2625,delivered,Venmo,36,3
+213,9341,60,Tuhe,gold,lunch,2,12/16/2025,12:54 PM,550,delivered,Venmo,17,4
+214,1910,48,Oodweyne,premium,dinner,9,2/14/2026,4:35 AM,3402,out for delivery,credit card,11,2
+215,3158,18,Holoriang,premium,lunch,6,4/26/2026,10:25 PM,1872,out for delivery,PayPal,15,1
+216,8577,59,La Virgen,gold,breakfast,7,11/30/2025,9:39 PM,3381,in transit,credit card,28,3
+217,4303,53,Argasari,premium,lunch,1,3/22/2026,11:51 AM,212,out for delivery,credit card,31,1
+218,6684,77,Peredovaya,basic,breakfast,2,10/10/2025,9:24 PM,720,in transit,Venmo,25,4
+219,1242,57,Nanjiao,premium,breakfast,6,11/15/2025,12:41 AM,1914,delivered,PayPal,49,5
+220,2555,79,Aguas Verdes,premium,lunch,6,9/11/2025,3:18 AM,2580,in transit,Venmo,56,1
+221,3421,74,Nagai,basic,dinner,3,4/18/2026,7:19 PM,1434,out for delivery,PayPal,31,5
+222,9992,57,Paoay,premium,lunch,3,11/22/2025,9:07 AM,1326,delivered,PayPal,17,5
+223,1553,51,Jianxin,premium,breakfast,6,5/29/2025,3:17 PM,1914,out for delivery,Venmo,37,5
+224,1139,69,Manizales,premium,dinner,4,10/14/2025,9:20 AM,1204,in transit,PayPal,14,4
+225,2904,47,San Francisco,basic,lunch,6,1/25/2026,3:54 PM,2850,delivered,PayPal,53,4
+226,7361,34,Khao Yoi,basic,breakfast,6,9/16/2025,8:56 PM,2160,in transit,PayPal,42,4
+227,7516,75,Ezhou,gold,breakfast,2,4/8/2026,11:42 PM,536,delivered,PayPal,14,2
+228,2756,49,Uppsala,premium,breakfast,6,12/17/2025,12:12 PM,2688,delivered,PayPal,26,4
+229,6924,63,Yangjinzhuang,premium,breakfast,8,6/3/2025,2:40 AM,3168,out for delivery,PayPal,19,2
+230,1027,33,La Tinguiña,basic,lunch,8,10/20/2025,7:27 AM,1832,delivered,credit card,33,1
+231,3261,28,Darvi,premium,dinner,5,6/1/2025,1:05 PM,2080,in transit,PayPal,28,2
+232,6317,40,Goussainville,premium,snack,2,2/15/2026,10:09 PM,662,out for delivery,credit card,21,3
+233,9436,71,Huntington,basic,dinner,8,3/24/2026,12:21 AM,2856,delivered,credit card,43,1
+234,8839,32,Quetta,gold,breakfast,6,6/13/2025,9:15 AM,2580,out for delivery,PayPal,48,4
+235,4692,64,Jīroft,gold,breakfast,2,11/10/2025,5:32 AM,648,in transit,PayPal,47,3
+236,7628,21,Wonosari,premium,breakfast,5,8/26/2025,11:33 AM,2360,out for delivery,PayPal,41,5
+237,2758,30,Zhaojia,premium,breakfast,10,7/19/2025,10:11 PM,4870,delivered,Venmo,15,1
+238,3309,18,Dhali,basic,lunch,8,12/17/2025,9:06 AM,1616,out for delivery,credit card,43,3
+239,3451,70,Shedok,premium,breakfast,9,4/12/2026,3:33 PM,2322,delivered,PayPal,23,3
+240,7374,78,Caculé,gold,lunch,5,8/26/2025,6:40 AM,1625,out for delivery,Venmo,24,5
+241,1587,78,Kalandagan,basic,snack,10,3/13/2026,6:40 PM,3770,in transit,Venmo,36,5
+242,8705,24,Rikitea,basic,lunch,4,11/18/2025,2:50 AM,1604,in transit,credit card,47,1
+243,9017,21,Banjar Mambalkajanan,basic,dinner,10,9/10/2025,9:52 AM,2540,in transit,PayPal,34,5
+244,1481,37,Madīnat Lab‘ūs,basic,dinner,6,1/2/2026,2:30 PM,1944,delivered,PayPal,31,3
+245,5559,29,Orós,premium,breakfast,4,4/25/2026,12:27 PM,868,delivered,Venmo,38,1
+246,8164,33,Sula,gold,dinner,1,5/20/2025,6:30 AM,296,in transit,credit card,59,3
+247,4858,35,Jangheung,basic,dinner,2,6/3/2025,10:08 AM,422,out for delivery,Venmo,23,4
+248,3940,69,Ketangi,premium,lunch,8,4/25/2026,10:36 AM,3128,out for delivery,Venmo,44,2
+249,4965,54,Ribeira das Taínhas,gold,dinner,6,5/10/2025,3:19 PM,1326,in transit,Venmo,49,5
+250,1663,49,Qiaozhuang,basic,dinner,2,5/8/2025,5:31 AM,752,out for delivery,credit card,43,1
+251,4451,46,Naranjito,gold,snack,10,11/20/2025,9:53 AM,2730,out for delivery,PayPal,21,1
+252,2759,27,Ystad,gold,snack,3,8/12/2025,12:05 PM,699,out for delivery,credit card,26,2
+253,7884,63,San Juan de Manapiare,premium,snack,4,2/23/2026,11:49 PM,1556,out for delivery,Venmo,23,1
+254,3115,37,Xi’an,basic,breakfast,2,7/5/2025,7:19 AM,520,out for delivery,PayPal,57,4
+255,7370,39,Santo Domingo,gold,snack,9,11/23/2025,5:23 PM,4122,out for delivery,Venmo,14,4
+256,2534,69,Chilliwack,premium,snack,8,11/10/2025,2:15 AM,3832,out for delivery,PayPal,36,2
+257,2983,22,Nova Venécia,basic,dinner,3,3/6/2026,2:20 PM,1302,out for delivery,credit card,54,5
+258,9165,25,Brikama Nding,gold,snack,7,9/9/2025,4:12 PM,2905,delivered,PayPal,42,2
+259,1354,61,Binhe,basic,snack,7,12/23/2025,1:27 AM,3024,out for delivery,credit card,20,5
+260,1490,39,Przemyśl,gold,dinner,6,6/12/2025,10:49 AM,1794,delivered,credit card,21,2
+261,1734,30,Uyskoye,premium,dinner,4,5/9/2025,10:16 AM,1392,delivered,credit card,52,2
+262,5905,31,Tagog,premium,dinner,9,7/6/2025,3:22 AM,3231,delivered,credit card,41,3
+263,5165,18,Las Parejas,gold,snack,7,4/20/2026,4:58 PM,2303,in transit,credit card,17,2
+264,3911,56,Makati City,premium,dinner,2,8/21/2025,12:26 PM,552,delivered,credit card,29,2
+265,3540,22,Nisporeni,premium,breakfast,7,4/4/2026,11:17 AM,1785,in transit,PayPal,47,1
+266,8064,58,Bauru,basic,lunch,4,9/16/2025,11:21 PM,1100,out for delivery,Venmo,17,4
+267,3314,78,Siguinon,gold,breakfast,2,12/11/2025,6:23 AM,684,delivered,Venmo,47,2
+268,1014,51,Al Ain,gold,breakfast,8,1/3/2026,5:25 PM,3760,out for delivery,PayPal,21,1
+269,7658,66,Baihe,gold,dinner,4,9/24/2025,5:50 AM,1664,in transit,Venmo,58,4
+270,8720,41,Caigongzhuang,gold,breakfast,1,4/13/2026,12:44 PM,258,out for delivery,PayPal,23,2
+271,2449,48,Liushun,gold,dinner,5,6/25/2025,11:21 AM,1965,delivered,credit card,44,1
+272,6950,65,Melun,basic,breakfast,2,7/12/2025,1:52 PM,512,in transit,credit card,31,5
+273,3566,20,Konkwesso,gold,dinner,7,9/11/2025,4:17 AM,1869,delivered,credit card,20,3
+274,3238,78,Huangmao,gold,dinner,6,3/30/2026,2:17 AM,1242,in transit,Venmo,52,3
+275,1263,22,La Azulita,premium,snack,1,2/16/2026,10:50 AM,279,delivered,Venmo,47,4
+276,7755,66,Dumandesa,gold,snack,1,11/3/2025,6:13 PM,472,out for delivery,PayPal,35,1
+277,4094,67,Sokolnice,basic,lunch,6,5/29/2025,8:36 AM,2586,delivered,Venmo,58,4
+278,2057,70,Itajubá,premium,snack,2,9/4/2025,6:16 AM,436,delivered,credit card,17,2
+279,1101,18,Sada,basic,dinner,1,3/31/2026,7:57 PM,260,delivered,Venmo,12,5
+280,7103,27,Sorol,premium,snack,8,10/29/2025,1:13 PM,3672,in transit,credit card,50,5
+281,7150,45,Popasna,basic,snack,1,12/30/2025,6:29 AM,245,in transit,PayPal,50,4
+282,8994,25,Hongmen,basic,breakfast,1,4/13/2026,9:34 PM,447,out for delivery,PayPal,14,2
+283,4521,75,San Pedro,premium,dinner,4,8/29/2025,9:49 AM,1480,in transit,Venmo,57,3
+284,1556,38,Beishidian,basic,lunch,3,4/22/2026,2:46 AM,1476,out for delivery,Venmo,37,5
+285,7168,56,Xinchengzi,premium,breakfast,10,10/10/2025,4:16 PM,4120,delivered,credit card,43,5
+286,8957,42,Tagkawayan Sabang,gold,snack,6,1/23/2026,1:22 PM,2538,out for delivery,credit card,24,5
+287,2324,22,Messina,premium,breakfast,2,8/10/2025,2:47 AM,908,out for delivery,credit card,19,4
+288,7052,52,Quintães,premium,breakfast,2,11/15/2025,1:16 AM,568,delivered,PayPal,33,4
+289,8571,25,Yilan,premium,dinner,1,8/15/2025,3:01 AM,474,delivered,PayPal,11,1
+290,9312,53,Ribeira Quente,premium,dinner,5,4/3/2026,3:13 AM,1130,out for delivery,PayPal,17,1
+291,2917,18,Meylan,premium,breakfast,3,11/17/2025,8:41 PM,1203,out for delivery,Venmo,27,1
+292,6034,31,Pho Duc,gold,breakfast,1,7/8/2025,8:06 AM,340,delivered,PayPal,11,5
+293,2878,49,Caoping,basic,lunch,2,7/30/2025,2:23 PM,528,delivered,PayPal,58,1
+294,4870,37,Kut Chum,basic,snack,8,7/24/2025,12:56 PM,1816,in transit,PayPal,17,2
+295,7034,23,Parung,premium,snack,10,11/20/2025,2:36 AM,2260,delivered,PayPal,19,3
+296,4394,71,Lugulu,gold,dinner,1,11/10/2025,12:48 AM,229,in transit,credit card,32,3
+297,7209,43,Pakuncen,premium,breakfast,2,3/5/2026,12:44 AM,854,out for delivery,credit card,45,1
+298,7905,26,Dungloe,basic,dinner,7,10/30/2025,1:18 PM,2576,in transit,PayPal,49,3
+299,2283,49,Néa Magnisía,gold,dinner,4,9/12/2025,4:18 AM,824,out for delivery,credit card,60,1
+300,4909,41,San Vicente de Moravia,premium,breakfast,10,1/1/2026,9:25 AM,3540,delivered,credit card,37,1
+301,6926,79,Wangjiachang,premium,breakfast,7,5/1/2025,10:37 PM,1400,in transit,PayPal,60,5
+302,3721,31,Kendal,basic,dinner,7,6/30/2025,5:31 AM,2905,out for delivery,Venmo,34,3
+303,9493,31,Kāmyārān,basic,snack,7,9/17/2025,1:05 PM,3458,in transit,Venmo,52,2
+304,6317,79,Banqiao,gold,breakfast,10,4/23/2026,1:37 PM,4850,delivered,credit card,31,4
+305,9427,18,Zongga,basic,lunch,3,6/18/2025,2:37 AM,663,out for delivery,credit card,53,2
+306,3601,79,Urzuf,gold,breakfast,2,11/26/2025,6:43 PM,934,in transit,PayPal,32,5
+307,6055,64,Hudai,premium,dinner,3,11/1/2025,5:57 PM,1290,delivered,Venmo,58,2
+308,9922,79,Guajiasi,basic,dinner,1,9/12/2025,7:05 PM,392,out for delivery,credit card,59,2
+309,2597,74,Argotirto Krajan,basic,dinner,10,3/27/2026,8:41 AM,3060,in transit,PayPal,46,3
+310,8052,37,San Martín,basic,dinner,7,10/8/2025,2:42 PM,3038,delivered,credit card,35,3
+311,3231,80,Cawayan,premium,lunch,3,11/2/2025,3:38 AM,1395,out for delivery,Venmo,38,1
+312,1783,70,Ashmūn,premium,snack,5,7/2/2025,5:41 AM,1960,in transit,Venmo,10,5
+313,4382,46,Cahuacho,premium,dinner,6,6/22/2025,2:19 PM,1944,in transit,PayPal,10,5
+314,1174,59,Talu,premium,breakfast,3,2/16/2026,11:44 PM,1215,delivered,credit card,24,5
+315,7071,52,Mgandu,basic,lunch,2,4/25/2026,8:50 PM,830,out for delivery,credit card,47,5
+316,5303,65,Tawun,premium,dinner,7,2/7/2026,2:09 PM,3255,out for delivery,Venmo,57,4
+317,2350,35,Khovaling,premium,dinner,9,3/10/2026,1:44 AM,2079,delivered,credit card,17,3
+318,9627,74,Buensuseso,premium,breakfast,7,11/15/2025,10:34 AM,2093,in transit,PayPal,48,5
+319,5138,43,Cibeureum,basic,breakfast,6,3/29/2026,3:46 AM,1206,delivered,Venmo,39,5
+320,5094,25,Panalingaan,basic,lunch,3,7/12/2025,8:20 AM,963,in transit,credit card,18,4
+321,8453,41,Pasvalys,premium,snack,5,3/21/2026,9:16 PM,2095,out for delivery,Venmo,17,3
+322,7381,27,Dapdapan,basic,lunch,10,3/24/2026,5:37 PM,2500,out for delivery,PayPal,38,3
+323,6806,52,Sengeti,premium,breakfast,2,3/24/2026,12:00 PM,678,delivered,Venmo,31,2
+324,7383,29,Machetá,premium,breakfast,5,8/3/2025,12:48 PM,1965,delivered,Venmo,10,2
+325,9380,63,Kamárai,basic,breakfast,10,12/11/2025,1:44 AM,4960,in transit,credit card,34,4
+326,3252,73,Phú Vang,gold,lunch,2,4/19/2026,10:20 AM,758,delivered,PayPal,25,4
+327,1159,50,San Rafael Arriba,gold,snack,1,1/11/2026,10:00 PM,245,delivered,Venmo,20,2
+328,5004,44,Huyang,premium,snack,5,5/12/2025,6:12 AM,2320,delivered,Venmo,40,1
+329,1715,65,Khanino,basic,snack,5,7/19/2025,7:40 PM,2450,delivered,Venmo,42,3
+330,3935,52,Kula,gold,lunch,1,12/15/2025,9:52 AM,247,delivered,Venmo,37,2
+331,5521,24,Karlovy Vary,premium,breakfast,6,11/3/2025,7:03 AM,2682,delivered,PayPal,32,3
+332,7441,74,Hässleholm,premium,lunch,5,12/11/2025,6:36 PM,1605,out for delivery,credit card,30,4
+333,2558,57,Itumbiara,basic,dinner,4,1/5/2026,12:19 PM,1364,in transit,credit card,10,1
+334,9930,48,Dhidhdhoo,premium,snack,9,12/8/2025,2:33 PM,2961,out for delivery,Venmo,45,3
+335,7546,25,Fedorovka,premium,snack,3,4/1/2026,10:28 AM,1320,delivered,PayPal,52,3
+336,3248,65,Sergeyevka,basic,breakfast,5,8/17/2025,2:32 AM,1570,in transit,credit card,54,2
+337,3405,41,Cumadcad,gold,dinner,2,3/22/2026,12:19 AM,998,delivered,Venmo,11,5
+338,6702,77,Pameungpeuk,basic,breakfast,3,11/22/2025,6:41 PM,924,out for delivery,Venmo,47,4
+339,9493,35,Tamuning-Tumon-Harmon Village,basic,breakfast,5,8/30/2025,9:00 AM,1555,delivered,credit card,35,2
+340,3305,33,Las Breñas,gold,lunch,9,9/9/2025,4:58 AM,3555,out for delivery,PayPal,20,4
+341,2492,62,Masma,gold,lunch,9,11/4/2025,3:30 PM,3915,out for delivery,Venmo,23,1
+342,1793,19,Göteborg,gold,snack,8,7/22/2025,12:06 AM,1640,delivered,PayPal,42,3
+343,2871,20,Manzherok,gold,lunch,4,2/14/2026,5:02 AM,1224,delivered,Venmo,42,5
+344,3279,31,Labo,gold,breakfast,5,9/20/2025,3:14 AM,2155,in transit,Venmo,24,5
+345,3958,38,Puerto Mayor Otaño,gold,breakfast,10,8/8/2025,5:02 AM,2440,delivered,credit card,54,4
+346,6560,32,Liangshui,premium,breakfast,5,5/27/2025,10:40 PM,1995,out for delivery,credit card,34,2
+347,4166,63,Ramain,gold,snack,1,8/2/2025,6:58 AM,244,out for delivery,Venmo,53,1
+348,8998,50,Ōiso,gold,dinner,10,9/3/2025,8:47 PM,4790,delivered,Venmo,32,3
+349,4208,51,Shawan,premium,lunch,10,4/12/2026,7:29 AM,4440,delivered,PayPal,40,4
+350,1445,21,Eckerö,gold,breakfast,7,11/7/2025,5:22 PM,2562,in transit,credit card,32,2
+351,5484,46,Grand Rapids,gold,lunch,5,12/10/2025,7:26 AM,2345,out for delivery,PayPal,59,1
+352,8628,59,Condong,basic,breakfast,5,9/6/2025,5:13 PM,1620,delivered,credit card,26,1
+353,9121,41,Pasto,premium,lunch,10,6/16/2025,3:11 PM,3010,in transit,Venmo,52,1
+354,8019,38,Rawa Mazowiecka,gold,breakfast,7,6/6/2025,4:09 PM,3423,in transit,Venmo,60,1
+355,9457,61,Kovači,basic,dinner,1,6/14/2025,11:57 AM,453,out for delivery,credit card,45,2
+356,3670,68,Chaoyang,basic,dinner,5,10/31/2025,3:33 AM,2375,in transit,PayPal,42,3
+357,2822,59,Kota Kinabalu,basic,lunch,10,4/11/2026,2:23 PM,2490,in transit,Venmo,25,4
+358,3327,49,Al Qamşīyah,premium,lunch,2,3/7/2026,11:19 AM,790,delivered,Venmo,39,5
+359,7568,54,Freixo de Numão,premium,dinner,3,9/25/2025,1:19 PM,1122,in transit,Venmo,48,2
+360,6129,21,San Jose,basic,dinner,9,9/28/2025,12:36 AM,3735,out for delivery,Venmo,47,1
+361,4347,80,Tancheng,gold,snack,6,7/26/2025,5:27 PM,1524,in transit,Venmo,34,4
+362,7120,60,Cândido Mota,basic,lunch,9,10/31/2025,8:33 AM,4365,in transit,credit card,12,4
+363,4567,22,Арачиново,basic,snack,2,2/21/2026,12:13 AM,966,out for delivery,Venmo,11,5
+364,1477,67,Lindavista,basic,dinner,2,9/7/2025,12:20 PM,688,out for delivery,PayPal,54,3
+365,1988,45,Zengji,basic,breakfast,3,3/7/2026,4:10 AM,984,in transit,Venmo,21,5
+366,1682,28,Tocok,gold,snack,10,10/25/2025,9:08 PM,2620,delivered,credit card,42,1
+367,2166,27,Mat-i,basic,snack,6,1/19/2026,11:04 AM,1914,delivered,Venmo,33,4
+368,6141,69,Xianchiyu,gold,dinner,9,3/15/2026,8:05 PM,4329,out for delivery,PayPal,40,4
+369,8596,49,Yun’an,gold,breakfast,8,9/23/2025,1:03 PM,1744,delivered,credit card,34,5
+370,8625,38,Pakong,basic,dinner,4,9/29/2025,10:31 PM,1972,delivered,credit card,34,4
+371,4935,45,Cajuru,gold,breakfast,2,2/23/2026,8:08 PM,934,delivered,PayPal,23,5
+372,1228,52,Malway,gold,dinner,2,3/7/2026,11:55 AM,790,delivered,Venmo,48,2
+373,3133,25,Invermere,basic,breakfast,1,7/19/2025,4:55 AM,447,in transit,PayPal,49,4
+374,6302,50,Lungaog,premium,lunch,7,2/12/2026,9:56 AM,3311,out for delivery,credit card,55,4
+375,9556,67,Jinan-gun,gold,snack,10,8/20/2025,7:09 PM,4330,delivered,PayPal,32,3
+376,9404,52,Oslo,basic,lunch,7,9/24/2025,7:18 PM,3143,in transit,PayPal,15,5
+377,5671,20,Bandar-e ‘Asalūyeh,gold,snack,9,9/16/2025,7:56 PM,4266,out for delivery,PayPal,39,2
+378,1514,78,Moundou,basic,snack,3,6/21/2025,3:16 AM,945,delivered,PayPal,55,4
+379,4815,74,Montecristi,basic,breakfast,4,8/25/2025,8:40 PM,1244,delivered,Venmo,36,2
+380,4766,60,Bograd,basic,breakfast,1,7/27/2025,4:06 AM,366,out for delivery,credit card,37,1
+381,1728,62,Căuşeni,premium,lunch,1,11/29/2025,7:50 AM,468,in transit,PayPal,30,1
+382,2288,23,Jingzhu,premium,lunch,5,3/30/2026,11:24 PM,1995,delivered,Venmo,60,2
+383,9476,50,Perpignan,gold,snack,9,9/15/2025,4:44 PM,3690,in transit,PayPal,26,3
+384,6104,46,Tando Muhammad Khān,basic,dinner,2,4/4/2026,3:34 AM,966,delivered,Venmo,58,5
+385,3394,31,Fizuli,basic,snack,10,2/26/2026,1:35 AM,2300,in transit,PayPal,25,2
+386,1688,29,Shunling,basic,dinner,2,1/11/2026,6:18 AM,542,delivered,credit card,27,5
+387,4863,41,El Fasher,gold,snack,10,4/29/2025,8:52 AM,4000,delivered,PayPal,58,1
+388,9843,59,Bandhagen,premium,dinner,8,8/23/2025,8:40 PM,2976,out for delivery,PayPal,40,1
+389,2151,33,Chuhuyiv,gold,lunch,10,5/29/2025,1:20 PM,3650,delivered,PayPal,50,4
+390,4704,79,Lalauigan,premium,breakfast,5,3/17/2026,4:34 AM,2095,out for delivery,Venmo,22,3
+391,2860,23,Yangzizhou,premium,dinner,1,1/31/2026,5:40 PM,442,out for delivery,Venmo,10,3
+392,5654,54,Purral,premium,dinner,8,4/2/2026,2:11 PM,1768,delivered,Venmo,34,1
+393,8824,67,Ambilobe,gold,lunch,3,6/13/2025,8:15 AM,1095,out for delivery,Venmo,31,2
+394,8698,40,Lubaczów,premium,lunch,8,3/31/2026,4:58 PM,2232,in transit,credit card,57,1
+395,9768,62,Belgrade,premium,breakfast,10,12/21/2025,3:39 PM,3250,delivered,PayPal,31,4
+396,2506,76,Rājbirāj,basic,breakfast,8,8/20/2025,2:42 PM,2816,delivered,credit card,17,2
+397,6624,66,Yangdenghu,premium,lunch,10,1/24/2026,3:31 AM,3560,in transit,Venmo,46,2
+398,8964,80,Drajak,premium,breakfast,1,4/15/2026,11:19 AM,379,in transit,credit card,58,2
+399,6298,40,Is,gold,lunch,10,11/5/2025,6:07 AM,3800,in transit,credit card,19,2
+400,1182,71,Matagbak,premium,lunch,9,8/30/2025,10:43 PM,4311,in transit,Venmo,54,5
+401,3227,45,Villa Concepción del Tío,basic,dinner,6,6/26/2025,1:32 PM,1584,in transit,Venmo,41,2
+402,8044,48,Chernomorskiy,basic,breakfast,2,9/18/2025,11:29 AM,678,delivered,Venmo,32,2
+403,2679,30,Banatski Despotovac,gold,lunch,3,3/24/2026,12:36 AM,1167,delivered,Venmo,53,2
+404,3718,63,Klishkivtsi,gold,snack,7,2/18/2026,12:16 AM,1736,out for delivery,credit card,30,4
+405,3862,72,Kavalerovo,gold,snack,7,8/12/2025,11:25 AM,1631,delivered,Venmo,13,1
+406,8481,20,Toba,gold,snack,8,3/3/2026,3:02 PM,3344,delivered,Venmo,11,5
+407,4029,44,Kelowna,basic,dinner,7,5/23/2025,10:23 PM,2212,out for delivery,PayPal,57,1
+408,8671,26,Serhetabat,basic,lunch,2,5/14/2025,5:46 AM,654,in transit,credit card,23,1
+409,9303,59,Litian,premium,snack,6,10/16/2025,6:12 AM,2640,in transit,PayPal,56,4
+410,8142,62,Panyingkiran,premium,snack,4,8/27/2025,5:45 PM,1740,out for delivery,PayPal,38,3
+411,1166,19,Wonodadi,basic,snack,9,8/15/2025,3:46 AM,1998,in transit,PayPal,16,5
+412,5499,56,Porvenir,premium,lunch,5,10/16/2025,11:31 AM,2045,out for delivery,credit card,56,5
+413,1858,18,Clermont-Ferrand,basic,lunch,7,3/2/2026,12:30 PM,2191,in transit,Venmo,60,4
+414,9491,29,Barusuda,basic,snack,8,12/10/2025,7:15 PM,1880,in transit,credit card,42,3
+415,4674,76,Slawharad,gold,dinner,9,6/26/2025,1:50 PM,4473,delivered,Venmo,39,2
+416,7084,72,Saint-Jérôme,basic,dinner,2,3/24/2026,8:52 AM,878,delivered,Venmo,47,4
+417,6063,76,Girona,gold,snack,7,6/26/2025,1:39 AM,2884,in transit,Venmo,33,3
+418,3760,31,Vilarinho da Castanheira,gold,snack,5,4/8/2026,3:13 PM,1305,out for delivery,credit card,58,3
+419,3982,75,Castanheira do Campo,basic,dinner,2,7/30/2025,2:04 PM,562,out for delivery,credit card,42,3
+420,4863,32,Tegalwero,gold,lunch,3,4/4/2026,4:12 PM,990,out for delivery,credit card,49,4
+421,6577,28,Bang Mun Nak,basic,dinner,7,11/25/2025,1:49 AM,3423,out for delivery,PayPal,54,4
+422,2746,26,Sanxi,premium,lunch,6,7/10/2025,11:52 PM,2688,in transit,PayPal,60,3
+423,1113,30,Lenghu,premium,dinner,9,7/10/2025,1:48 AM,2376,delivered,PayPal,54,1
+424,3510,58,Jimaguayú,premium,lunch,7,12/30/2025,4:12 PM,1512,in transit,PayPal,21,4
+425,7250,71,Rochester,premium,breakfast,5,2/4/2026,2:31 PM,1375,delivered,Venmo,28,4
+426,9499,28,Abraham’s Bay,gold,snack,10,5/28/2025,10:47 AM,3520,out for delivery,Venmo,34,1
+427,9045,49,Atibaia,premium,dinner,2,4/26/2026,5:56 AM,630,delivered,credit card,45,3
+428,9913,49,Cahuacho,premium,dinner,10,6/17/2025,4:18 AM,3250,in transit,credit card,56,4
+429,7434,31,Dampek,gold,snack,8,4/5/2026,7:03 AM,3144,out for delivery,Venmo,38,4
+430,2280,75,Pyskowice,basic,dinner,6,9/21/2025,7:28 AM,2658,delivered,Venmo,18,3
+431,7231,19,Goyang-si,basic,snack,3,8/29/2025,4:13 PM,1047,in transit,credit card,40,4
+432,1946,41,Zaoshi,basic,dinner,10,5/9/2025,2:31 AM,4930,in transit,Venmo,47,3
+433,3606,51,San Francisco,gold,lunch,8,8/31/2025,9:35 PM,2248,in transit,PayPal,38,3
+434,6956,25,Xiqiao,premium,snack,8,3/30/2026,3:29 PM,1640,in transit,PayPal,38,2
+435,5060,63,Vespasiano,premium,snack,1,10/4/2025,11:54 AM,201,in transit,credit card,39,1
+436,7372,70,Shuangxi,basic,snack,6,7/20/2025,12:30 AM,2388,out for delivery,PayPal,54,2
+437,8876,29,Maracaibo,basic,dinner,3,4/23/2026,2:56 PM,1422,delivered,credit card,30,5
+438,9299,57,Cernay,gold,snack,7,7/10/2025,10:46 AM,2870,delivered,PayPal,41,5
+439,3989,71,Kardítsa,gold,snack,8,9/25/2025,5:32 PM,2248,in transit,PayPal,53,1
+440,2801,72,El Zapotal del Norte,basic,dinner,4,4/25/2026,6:35 PM,1380,delivered,Venmo,14,5
+441,5530,58,Paynjuwayn,premium,dinner,10,10/14/2025,2:32 PM,3190,delivered,Venmo,43,1
+442,6498,43,Francisco J Mujica,premium,lunch,3,11/14/2025,7:51 AM,1206,in transit,Venmo,57,2
+443,5070,19,Ditang,gold,lunch,4,1/1/2026,2:50 PM,1380,delivered,PayPal,14,1
+444,1211,61,Lieqiao,premium,dinner,2,8/13/2025,2:53 AM,874,delivered,credit card,48,2
+445,1168,64,Honolulu,premium,dinner,6,8/1/2025,12:36 PM,2220,delivered,Venmo,38,5
+446,5944,21,Carauari,premium,breakfast,3,12/19/2025,4:45 AM,819,delivered,PayPal,27,3
+447,7376,44,Seixezelo,basic,snack,4,12/9/2025,8:04 PM,1008,in transit,credit card,23,2
+448,9868,19,Gayam,basic,dinner,4,8/26/2025,12:22 PM,1596,in transit,Venmo,38,5
+449,6872,63,Lamalewar,basic,lunch,10,1/16/2026,11:20 PM,4820,out for delivery,credit card,53,2
+450,4455,33,Cahors,gold,dinner,2,9/24/2025,3:53 PM,894,in transit,credit card,13,2
+451,9048,74,Paris La Défense,basic,dinner,7,11/4/2025,9:29 AM,3164,out for delivery,credit card,28,2
+452,7946,44,Xihe,gold,lunch,3,7/11/2025,10:52 AM,1383,in transit,Venmo,58,4
+453,2569,39,Markala,premium,snack,5,6/16/2025,10:21 AM,1380,out for delivery,credit card,58,3
+454,1089,33,Xiaheqing,premium,snack,7,7/26/2025,1:21 PM,3458,in transit,PayPal,60,2
+455,5985,80,Vorontsovka,basic,dinner,3,9/5/2025,5:12 AM,1314,delivered,credit card,57,1
+456,5347,33,Zhangjiapan,basic,snack,3,1/16/2026,5:44 AM,1416,in transit,Venmo,12,4
+457,2419,60,Jāndiāla Sher Khān,basic,snack,2,10/7/2025,3:27 AM,916,delivered,Venmo,42,5
+458,7465,73,Viedma,gold,snack,4,11/19/2025,11:55 AM,1680,delivered,Venmo,49,1
+459,1301,25,Pueblo Nuevo,gold,lunch,10,6/17/2025,8:01 PM,3130,out for delivery,PayPal,26,5
+460,9485,19,Sunja,basic,snack,4,2/15/2026,12:21 PM,856,in transit,PayPal,33,3
+461,6035,23,Chengnan,gold,snack,6,11/3/2025,2:42 PM,2754,out for delivery,credit card,53,4
+462,3147,30,Longshan,gold,snack,10,6/5/2025,4:22 AM,2200,delivered,PayPal,10,5
+463,3767,48,Bálsamo Oriental,basic,breakfast,4,12/27/2025,11:49 PM,880,in transit,credit card,57,1
+464,3746,29,Saint-Rémy-de-Provence,gold,breakfast,1,9/1/2025,5:59 PM,441,delivered,Venmo,30,3
+465,6497,32,Buayan,basic,snack,6,4/9/2026,4:07 AM,1482,delivered,Venmo,49,2
+466,4933,74,Meru,gold,dinner,2,7/4/2025,1:50 AM,782,out for delivery,PayPal,22,4
+467,7774,71,Sumbersari Wetan,premium,dinner,8,6/10/2025,5:15 AM,1944,delivered,Venmo,54,5
+468,8850,63,Pitangui,premium,breakfast,10,5/2/2025,2:22 AM,2460,in transit,PayPal,40,5
+469,6357,29,Ungaran,basic,dinner,5,4/27/2026,5:57 PM,2450,delivered,credit card,45,5
+470,1049,60,Mhlume,premium,dinner,10,11/28/2025,2:13 AM,4440,in transit,credit card,48,4
+471,8312,20,Merlo,gold,dinner,10,1/31/2026,10:39 PM,3240,out for delivery,Venmo,21,4
+472,9861,63,Pryazovs’ke,gold,snack,3,5/30/2025,8:02 PM,660,out for delivery,credit card,44,3
+473,5909,41,Mabayo,gold,breakfast,3,2/16/2026,8:47 PM,1365,in transit,PayPal,43,2
+474,2516,55,Cauto Cristo,premium,snack,6,3/27/2026,2:12 PM,2670,delivered,Venmo,29,4
+475,4062,62,Ban Mai,premium,breakfast,5,1/22/2026,3:29 PM,1240,out for delivery,Venmo,18,1
+476,2574,23,Nasilava,gold,snack,4,3/14/2026,10:17 PM,1552,in transit,credit card,14,1
+477,1452,21,Sidi Bousber,gold,snack,6,2/13/2026,4:56 PM,1398,in transit,credit card,38,4
+478,3441,21,Mount Pearl,gold,snack,7,12/18/2025,6:24 AM,3269,in transit,PayPal,45,3
+479,9713,35,Pasonobenu,basic,breakfast,1,8/21/2025,2:32 AM,273,delivered,Venmo,23,4
+480,3818,20,Kulary,premium,dinner,1,1/15/2026,5:41 AM,241,delivered,Venmo,42,5
+481,1137,74,Zhuravka,gold,dinner,1,8/2/2025,7:27 PM,218,delivered,Venmo,17,1
+482,4328,79,Xuchang,gold,dinner,2,7/7/2025,1:32 PM,844,in transit,Venmo,28,5
+483,2928,34,Dornava,basic,snack,7,4/23/2026,7:07 PM,2429,delivered,Venmo,31,4
+484,3013,71,Barg-e Matāl,premium,snack,8,12/25/2025,12:35 PM,2648,in transit,Venmo,58,5
+485,3792,28,Gniezno,premium,snack,5,6/11/2025,2:43 PM,2390,out for delivery,credit card,21,2
+486,1274,43,Coroatá,premium,lunch,1,3/10/2026,2:01 PM,335,in transit,PayPal,38,1
+487,3631,71,Terang,basic,lunch,8,11/21/2025,10:09 PM,2128,in transit,Venmo,24,4
+488,7972,26,Zhuhong,premium,lunch,9,5/31/2025,2:42 AM,2520,delivered,PayPal,19,4
+489,2240,23,Wanganui,basic,breakfast,2,10/30/2025,7:12 AM,686,out for delivery,Venmo,17,2
+490,6977,50,Hancheng,basic,dinner,7,10/15/2025,8:03 AM,2009,in transit,Venmo,12,1
+491,2207,69,Jiangtou,premium,dinner,9,6/19/2025,12:14 PM,3051,out for delivery,Venmo,51,2
+492,9033,60,Johogunung,gold,dinner,3,12/12/2025,6:07 AM,1350,delivered,credit card,53,4
+493,2324,19,Bangilan,gold,lunch,1,12/15/2025,9:13 AM,204,in transit,Venmo,60,3
+494,9566,29,Kota Kinabalu,premium,lunch,10,11/9/2025,4:08 PM,4020,delivered,PayPal,29,5
+495,4097,23,Jiefang,gold,snack,6,11/27/2025,1:33 PM,1620,out for delivery,PayPal,54,4
+496,9908,73,Tamanan,basic,snack,8,3/31/2026,6:09 PM,3200,delivered,Venmo,41,3
+497,4024,45,Longzhou,gold,lunch,3,10/26/2025,5:33 PM,1374,out for delivery,credit card,16,3
+498,1139,70,Ribeiro,gold,breakfast,3,10/23/2025,4:10 AM,1086,out for delivery,credit card,15,1
+499,6899,78,Paphos,basic,breakfast,10,12/22/2025,6:04 AM,2270,in transit,Venmo,41,5
+500,9517,45,Karlstad,basic,breakfast,5,11/30/2025,8:21 AM,2320,in transit,PayPal,17,4
+501,9775,21,Kuantan,premium,dinner,5,6/6/2025,9:18 PM,2055,out for delivery,credit card,49,2
+502,5890,64,Xianren,basic,breakfast,5,8/26/2025,11:17 AM,1840,delivered,credit card,45,5
+503,3418,70,Presidente Bernardes,premium,dinner,2,4/11/2026,10:05 AM,504,in transit,PayPal,35,5
+504,3479,30,Grenoble,premium,snack,4,7/16/2025,6:13 AM,912,in transit,PayPal,48,3
+505,8695,43,Oropesa,premium,breakfast,7,4/24/2026,7:28 PM,2114,delivered,PayPal,24,4
+506,3232,30,Berkovitsa,gold,breakfast,7,8/3/2025,9:45 PM,3318,out for delivery,Venmo,20,4
+507,5458,24,Ceerigaabo,gold,lunch,6,11/29/2025,6:45 AM,1620,out for delivery,Venmo,43,1
+508,8386,77,El Aïoun,premium,snack,1,12/11/2025,10:48 PM,431,delivered,PayPal,29,4
+509,8398,29,Kotabaru,basic,snack,2,5/28/2025,4:57 AM,876,in transit,credit card,18,5
+510,1265,79,Ourtzagh,premium,snack,10,6/7/2025,6:28 AM,4730,out for delivery,Venmo,55,2
+511,4331,46,Buzet,gold,dinner,5,1/10/2026,10:11 PM,1955,delivered,Venmo,21,1
+512,3581,42,Janów,gold,lunch,10,2/4/2026,12:58 PM,2120,out for delivery,PayPal,14,5
+513,6148,32,Viloco,gold,snack,8,12/3/2025,8:43 PM,2192,delivered,credit card,38,5
+514,4335,60,Ramaram,gold,dinner,9,5/4/2025,12:42 PM,3537,out for delivery,Venmo,35,3
+515,4841,44,Santa Bárbara,basic,dinner,10,12/23/2025,7:03 PM,3590,delivered,Venmo,50,4
+516,4676,77,Luocheng,basic,lunch,7,8/31/2025,8:42 PM,2226,delivered,credit card,27,2
+517,5951,75,Badrah,gold,lunch,6,10/12/2025,11:12 AM,1566,delivered,PayPal,43,1
+518,3315,47,Tsaghveri,basic,snack,6,11/29/2025,11:27 AM,1236,delivered,credit card,22,2
+519,1674,37,Almaguer North,gold,lunch,7,12/29/2025,5:34 PM,2590,out for delivery,PayPal,32,1
+520,5594,51,Llalli,premium,breakfast,7,6/5/2025,3:03 AM,3458,out for delivery,Venmo,58,3
+521,8362,30,Nevers,premium,lunch,4,8/12/2025,12:53 PM,920,in transit,credit card,49,5
+522,3935,68,Fukuroi,premium,lunch,3,9/25/2025,12:11 AM,750,delivered,Venmo,43,1
+523,7999,80,Kroczyce,premium,dinner,9,10/20/2025,12:48 PM,2475,delivered,PayPal,11,3
+524,8956,19,Nanmen,gold,snack,10,3/26/2026,9:38 AM,4080,out for delivery,Venmo,14,2
+525,4933,35,Banjar Petak,premium,breakfast,3,12/22/2025,6:56 AM,741,in transit,Venmo,48,5
+526,4867,37,Besuk Selatan,gold,snack,8,2/3/2026,4:48 AM,2432,in transit,credit card,27,4
+527,9324,29,Chistopol’,gold,snack,10,10/17/2025,5:59 PM,2350,in transit,credit card,48,5
+528,3239,34,Yaodu,basic,snack,1,5/23/2025,10:27 AM,392,delivered,credit card,58,1
+529,4753,31,Cipadung Timur,basic,snack,6,5/4/2025,1:09 AM,1620,delivered,credit card,60,3
+530,6344,36,Al Qurḩ,premium,breakfast,6,5/15/2025,4:25 AM,1452,in transit,Venmo,32,2
+531,4306,46,Laojie,basic,snack,6,9/30/2025,7:50 PM,2910,delivered,credit card,44,2
+532,8179,59,Injīl,basic,lunch,10,10/15/2025,2:28 PM,2000,out for delivery,Venmo,53,5
+533,4472,63,Stepnogorsk,gold,snack,4,12/6/2025,8:02 PM,836,out for delivery,credit card,32,1
+534,8555,78,Den Haag,basic,dinner,1,7/20/2025,3:59 AM,398,in transit,credit card,50,4
+535,9776,21,Bariri,premium,snack,3,9/16/2025,4:52 AM,1365,out for delivery,credit card,36,4
+536,6891,42,Guanghou,basic,breakfast,3,8/15/2025,11:30 PM,783,out for delivery,PayPal,10,2
+537,5147,32,Petrovskaya,basic,breakfast,3,5/24/2025,10:31 PM,1005,in transit,PayPal,59,5
+538,9393,46,Borisovka,gold,dinner,1,1/6/2026,7:03 AM,420,in transit,Venmo,28,4
+539,5102,34,Aqtöbe,basic,snack,6,12/21/2025,8:40 PM,2736,in transit,Venmo,26,5
+540,1794,43,Ostrožská Lhota,basic,dinner,6,12/21/2025,5:13 PM,1950,delivered,PayPal,32,1
+541,3412,34,Washington,premium,snack,6,8/25/2025,3:23 AM,1284,out for delivery,Venmo,48,5
+542,8338,43,Yumendong,basic,breakfast,8,2/25/2026,8:17 PM,1832,in transit,Venmo,46,4
+543,1796,40,Yangfang,gold,lunch,4,6/12/2025,3:23 AM,884,delivered,credit card,54,5
+544,8284,66,Przemków,premium,snack,9,11/30/2025,9:17 AM,1962,delivered,credit card,53,3
+545,9302,66,Oslo,basic,snack,6,7/22/2025,6:31 AM,1716,delivered,credit card,48,3
+546,7047,23,Banjaranyar,basic,dinner,4,9/28/2025,9:07 PM,1544,delivered,Venmo,13,3
+547,5180,66,Santo Domingo,premium,lunch,9,12/26/2025,7:58 PM,2088,in transit,credit card,19,3
+548,2496,23,Neryungri,gold,breakfast,3,9/25/2025,2:06 PM,1449,delivered,Venmo,22,2
+549,3315,76,Planeta Rica,gold,breakfast,5,12/14/2025,9:20 PM,1090,out for delivery,PayPal,58,1
+550,8273,31,Cama Juan,gold,lunch,4,8/24/2025,1:44 AM,1732,out for delivery,PayPal,21,3
+551,1625,65,Tejakalapa,premium,dinner,1,10/28/2025,9:25 PM,288,out for delivery,PayPal,23,1
+552,8188,67,Xinfeng,gold,lunch,6,4/22/2026,6:17 PM,1854,delivered,PayPal,45,2
+553,3264,67,Tanabe,premium,breakfast,10,2/13/2026,4:50 AM,3340,delivered,PayPal,15,2
+554,5801,70,Muye,basic,dinner,1,2/24/2026,3:06 PM,343,in transit,PayPal,20,3
+555,6782,42,Savigny-le-Temple,premium,snack,2,4/24/2026,11:47 PM,540,in transit,PayPal,47,3
+556,4170,19,Jiaqu,premium,snack,7,10/5/2025,10:42 PM,2625,delivered,PayPal,60,1
+557,4348,75,Auas,premium,snack,2,4/27/2026,8:20 AM,858,in transit,PayPal,47,4
+558,7684,75,West Hartford,gold,dinner,2,2/9/2026,3:26 AM,478,delivered,credit card,33,3
+559,3696,57,Yangba,premium,snack,7,1/29/2026,11:04 PM,2275,delivered,PayPal,18,2
+560,4722,45,Gorelki,basic,dinner,4,1/14/2026,6:10 AM,1008,in transit,PayPal,23,5
+561,1895,31,Conchucos,basic,lunch,5,6/29/2025,12:03 PM,2065,out for delivery,credit card,43,3
+562,7651,60,Capela,gold,dinner,1,4/9/2026,4:09 AM,291,out for delivery,PayPal,48,1
+563,8028,31,Czerwieńsk,gold,dinner,7,8/20/2025,9:00 PM,2450,delivered,credit card,34,3
+564,8215,24,Gaoyang,basic,lunch,7,8/13/2025,6:53 AM,3381,out for delivery,credit card,23,5
+565,3472,39,Sinegorskiy,basic,lunch,6,9/1/2025,7:31 AM,2346,in transit,PayPal,58,2
+566,5827,49,Horad Smalyavichy,gold,breakfast,7,2/18/2026,11:16 PM,3304,in transit,credit card,37,1
+567,1460,49,Kyzylorda,premium,snack,1,3/17/2026,5:52 PM,352,in transit,Venmo,50,1
+568,8824,46,Czemierniki,basic,breakfast,4,3/18/2026,1:33 PM,980,delivered,credit card,60,3
+569,5876,59,Nagbalaye,basic,lunch,10,5/20/2025,11:00 AM,3620,in transit,PayPal,46,4
+570,9128,72,Uarini,basic,lunch,9,6/24/2025,2:07 PM,3618,in transit,PayPal,21,1
+571,1870,72,Jiangluo,premium,snack,5,11/7/2025,2:50 AM,1395,in transit,credit card,12,2
+572,6330,76,Tanumshede,gold,breakfast,5,12/21/2025,3:04 AM,1900,out for delivery,Venmo,37,3
+573,1805,42,Uhlove,gold,snack,4,4/26/2026,6:19 AM,1696,out for delivery,Venmo,28,3
+574,1366,58,Tambo,basic,snack,7,7/24/2025,2:21 AM,2590,in transit,Venmo,10,4
+575,7442,41,Sơn Hà,basic,snack,9,4/2/2026,12:48 AM,3267,out for delivery,PayPal,42,4
+576,8057,71,Gračanica,gold,dinner,9,6/27/2025,12:39 PM,3267,out for delivery,PayPal,40,3
+577,6024,31,Girsereng,premium,dinner,6,12/4/2025,11:43 AM,2436,out for delivery,PayPal,56,4
+578,5763,71,San Bernardino,basic,snack,5,6/5/2025,10:55 PM,1880,delivered,Venmo,32,4
+579,1553,63,Iperó,gold,snack,4,9/12/2025,2:02 PM,964,delivered,Venmo,54,5
+580,8662,38,Castelsarrasin,premium,lunch,7,3/3/2026,12:04 AM,2940,in transit,credit card,14,2
+581,2187,29,Natakoli,basic,dinner,2,5/30/2025,11:08 PM,882,in transit,PayPal,30,5
+582,5900,71,Busia,premium,lunch,1,5/28/2025,9:04 AM,268,out for delivery,Venmo,42,4
+583,2367,33,Stuttgart Stuttgart-Mitte,premium,snack,5,10/1/2025,9:27 AM,1495,out for delivery,PayPal,31,2
+584,3549,76,Borbon,premium,lunch,8,7/19/2025,5:30 PM,2800,delivered,credit card,56,2
+585,9340,24,Piława Górna,gold,breakfast,3,4/23/2026,12:27 AM,1284,in transit,Venmo,34,1
+586,8266,68,Galván,basic,breakfast,9,10/26/2025,9:01 PM,3132,out for delivery,PayPal,31,2
+587,6976,26,Cuenca,gold,breakfast,10,7/28/2025,4:02 PM,2810,out for delivery,Venmo,11,5
+588,7556,49,Iguig,premium,breakfast,8,1/15/2026,2:13 AM,3128,delivered,PayPal,18,1
+589,2598,72,Verblyany,premium,breakfast,2,2/15/2026,8:40 PM,944,out for delivery,credit card,44,3
+590,6377,76,Kalininskiy,basic,snack,8,5/22/2025,6:09 AM,2112,out for delivery,credit card,60,3
+591,3775,34,Clermont-Ferrand,gold,dinner,10,10/21/2025,8:35 AM,3390,in transit,PayPal,16,3
+592,9572,74,Jawa,premium,breakfast,8,7/24/2025,8:38 AM,2808,in transit,credit card,21,5
+593,1319,51,Tokmok,basic,breakfast,6,8/16/2025,4:46 PM,2658,in transit,credit card,41,1
+594,1952,28,Bělá pod Bezdězem,premium,lunch,10,8/14/2025,1:53 AM,4160,delivered,Venmo,54,3
+595,2851,73,Batuan,gold,dinner,7,12/8/2025,1:27 PM,2520,delivered,Venmo,37,3
+596,4719,43,Kudus,basic,snack,8,3/5/2026,6:51 PM,1648,out for delivery,Venmo,27,2
+597,2590,78,Banī Zayd,premium,breakfast,5,12/21/2025,4:30 AM,2210,delivered,credit card,51,4
+598,3925,78,Santa Cruz do Rio Pardo,gold,lunch,9,11/12/2025,12:36 PM,3771,out for delivery,credit card,60,1
+599,5331,47,Zhovkva,basic,lunch,1,4/19/2026,10:32 PM,208,in transit,PayPal,36,1
+600,5501,55,Vólos,basic,dinner,3,5/15/2025,3:04 AM,648,in transit,credit card,11,2
+601,9162,30,Yong’an,basic,lunch,6,8/8/2025,1:01 AM,1260,delivered,credit card,19,2
+602,8035,50,Mugi,premium,dinner,8,10/15/2025,1:22 AM,2464,in transit,PayPal,51,4
+603,9423,77,Zharkent,gold,breakfast,2,7/11/2025,5:35 AM,792,in transit,PayPal,37,1
+604,8307,80,Shiḩan as Suflá,basic,breakfast,10,2/27/2026,8:00 PM,3820,in transit,Venmo,50,4
+605,9056,22,Ccatca,premium,dinner,3,11/30/2025,4:42 PM,1173,out for delivery,PayPal,25,5
+606,5364,52,Kunashak,premium,dinner,8,6/28/2025,6:03 AM,3000,in transit,credit card,19,3
+607,5807,50,Skotoússa,premium,lunch,2,11/25/2025,2:23 PM,910,in transit,Venmo,11,3
+608,4673,80,Nizhniy Chir,gold,breakfast,6,3/19/2026,6:27 PM,2988,in transit,credit card,26,2
+609,8611,34,Tirana,premium,snack,7,9/2/2025,4:04 AM,3108,out for delivery,Venmo,16,1
+610,9513,32,Miharu,basic,lunch,9,5/30/2025,6:44 AM,2115,out for delivery,credit card,30,5
+611,1285,38,Hyltebruk,gold,lunch,9,1/5/2026,2:42 PM,3600,in transit,PayPal,45,1
+612,5201,61,Banaran,basic,dinner,1,6/21/2025,7:56 AM,364,in transit,PayPal,26,2
+613,5210,51,Kurchaloy,gold,lunch,2,5/4/2025,1:33 AM,908,out for delivery,PayPal,26,1
+614,2052,36,Melaka,gold,snack,5,7/1/2025,4:00 PM,1210,out for delivery,PayPal,40,4
+615,6970,60,Sikonge,basic,breakfast,7,2/21/2026,10:04 AM,3003,delivered,credit card,30,1
+616,1470,54,Amiens,basic,breakfast,6,6/13/2025,11:46 PM,1524,in transit,credit card,26,4
+617,8089,46,Kasserine,premium,lunch,4,12/27/2025,9:41 PM,1580,out for delivery,PayPal,35,3
+618,3915,70,Masvingo,gold,dinner,8,4/9/2026,7:10 PM,1864,in transit,Venmo,37,1
+619,4592,47,Fuwen,gold,dinner,7,5/19/2025,1:42 PM,2457,in transit,credit card,11,2
+620,9614,58,Sydney,premium,breakfast,6,10/12/2025,6:25 PM,2790,out for delivery,Venmo,17,2
+621,5145,65,Xinhe,premium,breakfast,1,2/7/2026,1:12 AM,262,delivered,PayPal,10,2
+622,1669,74,Rayong,basic,snack,10,1/26/2026,2:13 PM,2570,out for delivery,credit card,26,4
+623,1176,26,Maruoka,basic,lunch,10,9/23/2025,12:57 AM,2470,delivered,credit card,35,3
+624,2968,69,Chambishi,gold,lunch,3,3/8/2026,1:24 AM,1041,out for delivery,Venmo,20,1
+625,2039,26,Pledo,basic,lunch,8,10/21/2025,7:05 AM,3728,out for delivery,Venmo,53,4
+626,6441,54,Mulan,basic,lunch,2,12/17/2025,8:24 AM,648,delivered,credit card,50,2
+627,2210,18,Bahaodi,basic,breakfast,5,11/27/2025,2:00 PM,1085,delivered,Venmo,26,5
+628,5503,51,Seroa,premium,dinner,9,1/4/2026,10:47 AM,3960,delivered,Venmo,14,4
+629,1847,75,Paris 20,basic,breakfast,10,3/17/2026,4:09 AM,4210,in transit,Venmo,40,2
+630,9044,22,Ondo,gold,breakfast,9,2/20/2026,11:32 AM,3357,delivered,credit card,41,5
+631,1729,57,Jiujie,premium,snack,9,1/3/2026,12:41 PM,2016,out for delivery,credit card,41,3
+632,7274,64,Outeiro,basic,breakfast,1,6/22/2025,10:11 AM,257,delivered,PayPal,16,3
+633,6372,34,Toba,basic,dinner,7,11/10/2025,4:41 AM,2401,out for delivery,Venmo,25,5
+634,9693,32,Sumberrejo,gold,breakfast,8,10/12/2025,12:47 PM,3736,delivered,Venmo,36,2
+635,5224,49,Kävlinge,basic,lunch,6,9/26/2025,4:34 PM,2502,out for delivery,Venmo,25,4
+636,6557,46,Noşratābād,basic,breakfast,7,10/15/2025,9:05 PM,2660,in transit,credit card,53,4
+637,1844,57,Ciego de Ávila,premium,snack,4,8/8/2025,6:46 AM,1064,out for delivery,Venmo,56,5
+638,5652,49,Honglong,premium,snack,5,8/27/2025,5:30 AM,1675,delivered,PayPal,45,3
+639,5721,69,Yaqian,basic,lunch,8,7/5/2025,2:41 AM,1944,out for delivery,credit card,39,1
+640,4408,18,Pailou,premium,snack,4,3/26/2026,7:24 PM,1540,in transit,PayPal,37,1
+641,8727,20,Brezovica,premium,dinner,6,8/1/2025,2:20 AM,2586,out for delivery,PayPal,43,4
+642,4770,52,Lushan,premium,lunch,8,6/16/2025,9:00 PM,2152,in transit,Venmo,54,5
+643,4318,43,Far‘ūn,basic,dinner,2,4/6/2026,10:25 PM,592,out for delivery,PayPal,34,1
+644,7563,30,Borgo Maggiore,premium,lunch,8,5/4/2025,10:49 PM,2912,delivered,Venmo,30,2
+645,9338,30,Jagodnjak,basic,lunch,5,5/1/2025,7:53 PM,1800,in transit,Venmo,16,3
+646,6009,43,Kraskino,basic,snack,9,3/6/2026,4:46 PM,2124,out for delivery,PayPal,39,2
+647,6008,31,Culacling,gold,breakfast,6,4/24/2026,6:05 AM,1944,out for delivery,credit card,48,4
+648,2678,56,Nganane,basic,dinner,4,11/9/2025,1:45 AM,1684,delivered,Venmo,45,4
+649,8345,20,Pryvol’ny,gold,breakfast,9,4/17/2026,4:44 AM,3555,in transit,credit card,33,1
+650,5851,33,Owando,premium,lunch,5,7/24/2025,8:17 AM,1905,out for delivery,credit card,52,1
+651,3680,32,Cortiços,basic,dinner,10,3/26/2026,4:06 PM,2010,in transit,Venmo,15,3
+652,4097,42,Chervonohryhorivka,basic,breakfast,7,5/7/2025,7:57 PM,3003,in transit,Venmo,44,2
+653,9730,75,Lishan,premium,breakfast,3,3/9/2026,6:06 AM,1146,delivered,Venmo,25,5
+654,9246,59,Ovacik,basic,breakfast,7,9/14/2025,12:52 AM,2590,out for delivery,Venmo,42,1
+655,2568,50,Zhangting,basic,breakfast,9,11/13/2025,9:35 AM,4005,delivered,Venmo,22,5
+656,5422,70,Hetou,gold,snack,6,1/21/2026,6:53 PM,2238,delivered,Venmo,50,4
+657,6052,51,Mölndal,premium,breakfast,7,8/28/2025,4:51 PM,1967,out for delivery,Venmo,16,5
+658,6425,80,Lons-le-Saunier,gold,lunch,6,1/31/2026,8:27 PM,1368,out for delivery,Venmo,57,4
+659,6315,39,Balengbeng,basic,dinner,8,2/9/2026,3:08 PM,2336,delivered,credit card,22,5
+660,7165,64,Krmelín,premium,breakfast,5,7/4/2025,1:30 AM,2205,in transit,PayPal,34,5
+661,7435,45,Marinhais,gold,breakfast,9,5/9/2025,4:14 PM,3321,out for delivery,Venmo,46,1
+662,3673,21,Mevo horon,gold,breakfast,7,7/31/2025,12:00 PM,2786,in transit,Venmo,39,4
+663,7156,66,Ílion,premium,snack,5,9/9/2025,8:03 AM,2365,delivered,credit card,13,4
+664,3431,77,Xiaowuzhan,basic,breakfast,10,2/20/2026,5:24 PM,3880,in transit,PayPal,59,2
+665,9522,35,Mambusao,gold,lunch,8,9/6/2025,2:39 AM,3368,out for delivery,Venmo,15,3
+666,8390,41,Ohrid,gold,snack,3,8/28/2025,11:10 PM,1239,delivered,PayPal,42,1
+667,7288,42,Umeå,gold,snack,5,8/9/2025,2:43 PM,1795,out for delivery,PayPal,51,4
+668,5156,70,Ranambeling,basic,dinner,5,12/1/2025,10:36 PM,1825,in transit,PayPal,19,2
+669,7154,39,Paris La Défense,premium,lunch,8,11/11/2025,1:04 AM,1928,delivered,Venmo,18,4
+670,9665,58,Hamburg,premium,snack,6,1/23/2026,10:04 AM,1680,delivered,Venmo,24,2
+671,8468,67,Choujiang,gold,breakfast,7,5/23/2025,8:38 PM,2289,in transit,credit card,20,2
+672,6262,43,Xihe,premium,lunch,1,1/4/2026,10:12 AM,214,out for delivery,PayPal,33,2
+673,6686,42,Cikadu,premium,lunch,1,8/23/2025,3:54 PM,499,in transit,Venmo,23,4
+674,6570,28,Albi,premium,breakfast,7,4/12/2026,2:39 AM,1463,delivered,Venmo,48,3
+675,8517,65,Nuing,basic,snack,6,12/27/2025,12:10 PM,1848,in transit,credit card,10,3
+676,1341,45,Södertälje,premium,snack,7,9/1/2025,8:03 AM,1715,out for delivery,Venmo,53,1
+677,1644,31,Vegreville,premium,breakfast,7,6/21/2025,6:01 AM,1575,out for delivery,PayPal,32,4
+678,6755,61,Kalianyar Selatan,gold,lunch,9,11/28/2025,7:14 AM,3141,out for delivery,PayPal,53,4
+679,7076,36,Yiwa,basic,lunch,10,7/1/2025,1:31 AM,2950,out for delivery,Venmo,30,1
+680,9458,66,Puolanka,basic,breakfast,6,4/20/2026,9:12 AM,1800,in transit,Venmo,36,4
+681,6209,21,Pakenjeng,basic,breakfast,7,2/24/2026,4:31 PM,2702,delivered,Venmo,24,5
+682,5373,26,Dongshui,gold,lunch,2,8/12/2025,9:31 PM,438,out for delivery,credit card,14,5
+683,2445,71,Vetlanda,gold,lunch,1,3/18/2026,9:57 PM,233,out for delivery,Venmo,17,5
+684,1263,51,Baisha,gold,breakfast,4,1/26/2026,7:35 AM,1488,in transit,Venmo,46,1
+685,9586,61,Horní Počaply,basic,snack,5,11/1/2025,8:40 PM,1730,delivered,credit card,55,3
+686,2737,71,Tyler,premium,lunch,6,2/11/2026,10:22 AM,1224,out for delivery,PayPal,52,5
+687,3517,63,Chichibu,gold,snack,1,6/23/2025,2:02 PM,399,delivered,Venmo,42,1
+688,2476,77,Putrajaya,premium,snack,9,6/30/2025,7:14 PM,2538,in transit,credit card,32,2
+689,5440,75,Dabancheng,gold,lunch,8,1/10/2026,4:41 AM,3432,in transit,credit card,22,5
+690,3382,30,Łobżenica,premium,breakfast,9,5/10/2025,4:20 AM,2448,out for delivery,Venmo,11,5
+691,8130,19,Góra Kalwaria,premium,breakfast,5,9/4/2025,5:01 AM,2310,in transit,Venmo,38,4
+692,1691,65,Jönköping,premium,dinner,2,5/20/2025,10:14 PM,428,out for delivery,PayPal,22,5
+693,6143,41,Randfontein,gold,dinner,3,4/11/2026,12:54 AM,1398,out for delivery,credit card,59,3
+694,9019,70,Ngembak,basic,breakfast,4,2/3/2026,1:06 PM,1636,delivered,Venmo,10,2
+695,9372,76,Ýdra,premium,dinner,10,9/11/2025,8:49 PM,4440,in transit,Venmo,17,3
+696,1428,48,Pan de Azúcar,premium,dinner,2,5/4/2025,4:49 AM,618,in transit,PayPal,14,3
+697,2372,65,Lenešice,basic,dinner,9,1/14/2026,5:52 PM,3825,in transit,credit card,39,4
+698,5821,65,Sebina,basic,lunch,5,11/11/2025,4:02 AM,1190,in transit,Venmo,55,2
+699,2969,79,Liushutun,premium,dinner,1,5/25/2025,12:26 AM,218,out for delivery,PayPal,10,2
+700,1754,68,Chang’an,premium,breakfast,1,4/21/2026,3:51 PM,270,delivered,credit card,36,4
+701,4862,32,Novoanninskiy,basic,breakfast,4,1/7/2026,5:50 AM,1956,out for delivery,Venmo,10,2
+702,3112,39,Pahārpur,gold,dinner,7,5/12/2025,6:46 AM,2975,in transit,PayPal,28,5
+703,2467,50,Bom Conselho,premium,lunch,7,12/11/2025,8:46 PM,1449,in transit,PayPal,31,5
+704,2808,47,Chandmanĭ,basic,dinner,4,2/21/2026,11:40 AM,832,in transit,credit card,49,2
+705,2338,79,Popovice,gold,dinner,5,7/12/2025,11:21 AM,2205,delivered,Venmo,36,4
+706,2707,53,Xinjian,gold,breakfast,10,4/12/2026,9:18 AM,4640,out for delivery,credit card,30,4
+707,6636,69,Jinping,basic,lunch,9,8/16/2025,3:08 PM,4401,delivered,Venmo,49,5
+708,9383,76,Omīdcheh,gold,snack,7,11/24/2025,9:47 PM,2142,out for delivery,PayPal,32,5
+709,9044,60,Orahovac,premium,dinner,9,8/6/2025,5:34 PM,3888,out for delivery,PayPal,51,1
+710,8678,46,Xuguang,basic,snack,8,1/6/2026,1:28 AM,3288,delivered,PayPal,28,2
+711,8198,30,Geghanist,gold,lunch,7,12/17/2025,2:50 AM,2688,out for delivery,PayPal,41,3
+712,9016,52,Borowno,basic,lunch,5,1/16/2026,4:10 PM,1365,delivered,Venmo,50,1
+713,9498,39,Ban Na Muang,basic,lunch,7,11/29/2025,5:25 PM,2394,out for delivery,PayPal,33,4
+714,2014,33,Nowa Dęba,basic,lunch,7,8/2/2025,6:54 AM,1890,out for delivery,Venmo,38,4
+715,7696,73,Viekšniai,gold,lunch,7,3/12/2026,6:46 AM,3423,out for delivery,credit card,59,2
+716,9137,22,Clifden,premium,dinner,2,1/13/2026,6:47 PM,664,delivered,credit card,40,4
+717,8695,53,Hujiaying,gold,dinner,7,5/6/2025,12:13 PM,3143,delivered,credit card,43,2
+718,5914,67,Cordon,basic,dinner,9,2/5/2026,10:51 AM,3087,in transit,PayPal,52,3
+719,7668,39,Zaria,basic,snack,9,10/4/2025,2:14 AM,4131,in transit,Venmo,10,5
+720,8583,70,Iporá,basic,snack,5,11/4/2025,1:54 AM,2470,in transit,Venmo,49,3
+721,4116,54,Lianxia,premium,breakfast,8,1/11/2026,11:35 PM,3096,delivered,PayPal,42,5
+722,4770,47,Eustaquio Lopez,gold,lunch,6,10/17/2025,9:27 AM,1260,delivered,credit card,36,1
+723,1752,25,Washington,gold,lunch,6,9/27/2025,5:55 PM,1560,delivered,PayPal,10,2
+724,8813,48,Jaleswar,basic,breakfast,4,7/10/2025,12:53 AM,1380,in transit,credit card,54,1
+725,9680,28,Ozerne,gold,snack,8,4/17/2026,4:11 PM,1648,out for delivery,credit card,57,1
+726,4141,42,Alegria,gold,snack,6,10/13/2025,11:06 PM,2730,out for delivery,Venmo,35,3
+727,9639,65,Kozova,basic,snack,4,7/22/2025,10:16 PM,1848,out for delivery,credit card,41,1
+728,9679,26,Tétouan,premium,lunch,4,5/25/2025,3:04 PM,1684,in transit,credit card,27,3
+729,6519,75,Bongbong,gold,lunch,7,7/9/2025,8:07 AM,2667,out for delivery,credit card,26,2
+730,1834,43,Bolotnoye,basic,snack,4,12/8/2025,6:40 PM,1160,out for delivery,credit card,16,3
+731,6089,52,Piekielnik,basic,breakfast,4,10/20/2025,2:01 PM,1844,delivered,PayPal,32,2
+732,4044,34,Zhizhong,basic,dinner,5,7/18/2025,1:41 PM,2320,out for delivery,Venmo,35,1
+733,1955,32,Nisporeni,basic,lunch,8,11/19/2025,5:31 PM,1792,out for delivery,credit card,14,4
+734,8714,32,Kuanda,gold,snack,4,4/2/2026,5:23 PM,1400,in transit,Venmo,16,2
+735,5584,48,Vale de São Cosme,premium,snack,5,6/7/2025,12:06 AM,2215,out for delivery,PayPal,41,5
+736,3550,32,Pivka,premium,snack,7,12/2/2025,3:28 PM,1890,in transit,PayPal,12,5
+737,2771,68,Yonghe,basic,snack,7,2/17/2026,10:57 AM,2555,out for delivery,credit card,38,4
+738,8327,80,Duancun,gold,breakfast,6,7/27/2025,3:22 AM,2328,delivered,PayPal,37,3
+739,2100,46,General Luna,gold,breakfast,3,1/20/2026,7:02 PM,867,in transit,PayPal,29,3
+740,2591,80,Lidong,premium,breakfast,5,3/17/2026,1:42 AM,1350,delivered,credit card,42,2
+741,4496,49,Maji,basic,snack,2,12/8/2025,2:08 PM,866,out for delivery,PayPal,23,1
+742,2626,41,Vinsady,premium,dinner,2,6/1/2025,2:19 AM,794,out for delivery,Venmo,33,4
+743,6846,23,Shijiang,basic,snack,6,3/23/2026,4:22 AM,2262,out for delivery,PayPal,57,1
+744,3961,43,Guintubhan,gold,dinner,2,6/2/2025,3:26 PM,752,out for delivery,Venmo,38,3
+745,5447,64,Wręczyca Wielka,gold,dinner,6,4/10/2026,9:17 PM,2352,in transit,Venmo,15,4
+746,6220,27,Xuedian,gold,lunch,10,6/18/2025,2:36 AM,2270,delivered,credit card,59,4
+747,1605,34,Samagaltay,premium,dinner,4,3/21/2026,12:36 AM,1516,in transit,Venmo,56,2
+748,7586,61,Krajan Jabungcandi,basic,snack,6,8/31/2025,7:00 AM,2964,in transit,credit card,27,3
+749,8091,71,Chaihe,gold,lunch,1,7/29/2025,7:45 PM,220,delivered,credit card,11,1
+750,5626,21,Tipaz,basic,breakfast,9,10/11/2025,8:44 PM,3330,in transit,Venmo,54,1
+751,6826,55,Bronx,premium,snack,4,9/14/2025,9:53 PM,1060,delivered,PayPal,22,3
+752,1797,34,Duzhou,premium,breakfast,5,12/3/2025,1:06 PM,1070,delivered,Venmo,40,3
+753,2322,40,Pingshi,premium,dinner,4,7/9/2025,11:14 PM,1816,delivered,credit card,15,2
+754,3017,80,Borūjerd,basic,dinner,6,9/19/2025,8:39 AM,2346,out for delivery,PayPal,38,4
+755,4464,49,Pingle,basic,snack,2,9/22/2025,9:20 AM,624,in transit,Venmo,38,3
+756,1610,56,Arroteia,basic,snack,2,11/14/2025,7:42 PM,766,delivered,credit card,46,5
+757,2190,72,Imbang,basic,snack,5,8/9/2025,9:57 PM,1430,out for delivery,PayPal,55,4
+758,8705,33,Culacling,basic,snack,5,9/5/2025,8:43 PM,1710,in transit,Venmo,51,3
+759,6892,19,Ricardo Palma,gold,lunch,6,6/7/2025,3:20 AM,2982,out for delivery,Venmo,14,1
+760,4462,31,Tahara,premium,breakfast,6,10/4/2025,1:13 PM,2214,delivered,PayPal,41,3
+761,2916,28,Redinha,basic,snack,7,6/26/2025,3:02 PM,1701,out for delivery,Venmo,17,2
+762,7836,71,Cabedelo,gold,dinner,3,4/17/2026,9:05 PM,918,in transit,credit card,57,2
+763,9060,29,Zastávka,basic,breakfast,10,8/26/2025,3:40 AM,4690,delivered,Venmo,32,2
+764,8230,35,Liuliping,basic,breakfast,6,2/16/2026,9:11 PM,2922,out for delivery,Venmo,37,5
+765,7041,46,Muzhijie,basic,snack,3,6/19/2025,10:40 AM,687,out for delivery,PayPal,19,2
+766,9257,36,Tegalbuleud,premium,breakfast,10,5/23/2025,6:18 AM,3700,out for delivery,credit card,27,1
+767,9618,25,L'viv,premium,lunch,5,4/30/2025,3:57 PM,1330,out for delivery,Venmo,33,5
+768,2017,50,Vera,premium,lunch,9,2/20/2026,3:06 PM,2529,delivered,credit card,53,2
+769,6269,60,Qarah Bāgh,basic,snack,6,10/12/2025,6:34 AM,2568,delivered,Venmo,58,4
+770,2552,60,Tomakomai,premium,lunch,2,10/28/2025,12:27 AM,750,delivered,PayPal,34,2
+771,5168,66,Kasreman Wetan,basic,lunch,2,2/1/2026,10:27 PM,564,in transit,PayPal,13,4
+772,5875,42,Hangwula,premium,lunch,9,12/13/2025,3:18 PM,3834,delivered,Venmo,54,1
+773,1512,76,Tamiso,premium,lunch,7,1/1/2026,3:07 PM,3073,delivered,credit card,11,2
+774,7558,52,Si Mahosot,gold,lunch,1,8/8/2025,9:21 AM,494,in transit,Venmo,59,1
+775,5528,62,Zhanjiang,premium,dinner,8,12/12/2025,1:48 PM,1664,out for delivery,credit card,58,1
+776,6660,29,Amersfoort,premium,breakfast,3,8/21/2025,6:26 PM,648,delivered,PayPal,30,3
+777,7907,80,Nagaracinta,gold,dinner,3,5/1/2025,12:10 AM,894,in transit,Venmo,35,1
+778,8582,31,Petrivka,basic,snack,1,3/13/2026,4:36 PM,423,in transit,credit card,52,1
+779,7765,37,Huochezhan,gold,lunch,6,1/13/2026,12:01 PM,2094,in transit,credit card,20,1
+780,4010,39,Corcuera,gold,lunch,4,1/25/2026,7:32 PM,1292,in transit,PayPal,11,4
+781,2150,75,Outeiro,gold,lunch,5,9/30/2025,12:17 PM,1280,delivered,PayPal,28,4
+782,7504,69,Svoboda nad Úpou,premium,breakfast,7,10/2/2025,10:15 PM,2772,out for delivery,Venmo,38,3
+783,5772,31,Compiègne,gold,lunch,7,10/21/2025,2:36 AM,2772,out for delivery,credit card,32,3
+784,7993,44,Sudogda,basic,lunch,1,11/6/2025,7:49 PM,360,out for delivery,credit card,53,5
+785,4084,48,Kauswagan,basic,breakfast,1,6/24/2025,2:37 PM,276,out for delivery,PayPal,10,5
+786,7103,21,Shangde,premium,breakfast,9,5/9/2025,3:14 PM,2925,delivered,PayPal,14,1
+787,8304,65,Plato,basic,dinner,10,11/24/2025,3:11 PM,3730,delivered,Venmo,56,3
+788,6981,63,Wonodadi,premium,dinner,9,10/4/2025,11:35 PM,2313,delivered,PayPal,59,2
+789,3607,21,Sandefjord,premium,dinner,5,4/18/2026,9:02 AM,1685,out for delivery,PayPal,17,1
+790,9610,36,Canindé,gold,breakfast,9,11/16/2025,7:53 PM,3411,in transit,Venmo,18,1
+791,9021,20,Rio de Janeiro,gold,breakfast,8,5/2/2025,5:34 AM,2256,out for delivery,Venmo,48,2
+792,6863,60,Portorož,gold,snack,2,9/7/2025,10:18 AM,832,delivered,Venmo,52,4
+793,6720,71,Lobitos,premium,dinner,1,10/24/2025,8:57 AM,471,in transit,PayPal,47,4
+794,2891,74,Valle de Ángeles,basic,snack,2,5/5/2025,9:29 PM,660,in transit,PayPal,44,3
+795,2714,66,Cruz de los Milagros,premium,lunch,3,3/29/2026,2:40 AM,969,delivered,PayPal,59,2
+796,5003,69,Maroantsetra,basic,breakfast,6,9/17/2025,2:04 AM,1494,out for delivery,Venmo,41,5
+797,9373,39,Anrong,premium,lunch,9,10/21/2025,10:39 AM,3411,in transit,PayPal,13,4
+798,7677,57,Augusto Corrêa,basic,lunch,10,3/26/2026,6:02 PM,4630,delivered,PayPal,18,2
+799,3779,67,Sriwing,premium,dinner,6,11/18/2025,6:34 AM,2178,delivered,Venmo,57,1
+800,3800,24,Sambonggede,gold,snack,6,11/29/2025,5:20 PM,1476,in transit,Venmo,33,3
+801,8697,39,Kampong Speu,basic,lunch,8,12/11/2025,2:45 AM,2432,out for delivery,Venmo,43,3
+802,4823,37,Horní Lideč,gold,dinner,7,1/19/2026,11:36 PM,2128,out for delivery,Venmo,46,2
+803,5803,40,San Francisco,basic,breakfast,4,6/16/2025,2:23 AM,1392,delivered,PayPal,24,4
+804,9742,30,Doudleby nad Orlicí,gold,lunch,6,5/25/2025,10:43 AM,2310,out for delivery,PayPal,42,2
+805,2765,74,Shahbā,gold,snack,9,12/1/2025,5:40 AM,2979,in transit,Venmo,19,2
+806,7884,80,Cool űrhajó,premium,snack,4,1/2/2026,6:37 PM,1432,delivered,PayPal,49,5
+807,8212,47,Joroan,basic,breakfast,9,4/6/2026,4:59 AM,3456,delivered,PayPal,27,2
+808,9688,24,Clichy,basic,lunch,3,5/20/2025,12:32 AM,621,out for delivery,credit card,36,1
+809,8088,72,Bunga Mas,premium,lunch,9,6/24/2025,6:22 AM,3807,out for delivery,Venmo,22,5
+810,7967,40,Volgodonsk,premium,dinner,3,8/2/2025,9:19 PM,696,delivered,PayPal,53,2
+811,3122,42,Rouyuan,premium,breakfast,4,7/7/2025,7:45 PM,1620,delivered,Venmo,52,4
+812,1697,65,Lindavista,basic,breakfast,4,5/26/2025,1:57 AM,1316,out for delivery,Venmo,51,5
+813,2021,27,Yanjiang,gold,snack,6,10/7/2025,2:35 AM,2046,in transit,PayPal,49,4
+814,7619,59,Aga,gold,lunch,5,8/20/2025,9:57 PM,1185,delivered,PayPal,58,4
+815,2917,32,Quiaios,gold,breakfast,8,12/11/2025,6:36 AM,3840,in transit,credit card,37,5
+816,3879,73,Tanshi,premium,breakfast,7,10/21/2025,11:48 AM,1540,in transit,Venmo,59,5
+817,3056,55,Chaloem Phra Kiat,basic,dinner,10,5/4/2025,4:06 PM,3980,delivered,Venmo,27,1
+818,2760,67,Kakuda,basic,snack,9,2/1/2026,2:27 AM,3294,in transit,Venmo,53,2
+819,7987,75,Nzérékoré,basic,snack,8,5/7/2025,11:32 AM,1744,in transit,Venmo,28,1
+820,2087,69,Zhaojia,gold,snack,2,12/26/2025,6:44 PM,758,delivered,PayPal,16,1
+821,9582,71,Papineauville,premium,snack,3,8/18/2025,10:20 PM,606,in transit,credit card,36,3
+822,4952,45,Sremska Mitrovica,basic,breakfast,6,3/4/2026,5:21 AM,1752,out for delivery,Venmo,18,2
+823,3707,19,Shilovo,basic,lunch,6,2/12/2026,1:10 AM,2814,out for delivery,credit card,48,3
+824,2536,52,Pavlovsk,premium,breakfast,3,6/13/2025,12:16 AM,1155,delivered,credit card,12,2
+825,7877,71,Al Funayţīs,basic,lunch,10,8/31/2025,11:58 PM,4130,in transit,PayPal,33,3
+826,5395,27,Angono,gold,lunch,10,6/15/2025,4:37 PM,3800,out for delivery,PayPal,39,5
+827,4556,24,Hongguang,premium,lunch,5,1/31/2026,6:33 AM,1530,in transit,PayPal,27,4
+828,8736,20,‘Amd,gold,lunch,7,10/23/2025,11:53 PM,1484,delivered,credit card,21,4
+829,2154,52,Lahat,premium,lunch,4,4/22/2026,1:14 AM,1480,in transit,credit card,53,1
+830,2680,56,Limoges,gold,dinner,2,9/24/2025,2:37 PM,714,in transit,credit card,43,1
+831,7454,50,Tsaghkunk’,basic,lunch,5,8/9/2025,9:50 PM,2030,out for delivery,PayPal,21,2
+832,8437,28,Damu,premium,breakfast,9,7/23/2025,8:02 PM,2043,out for delivery,Venmo,51,3
+833,2778,43,Quận Mười,basic,snack,2,9/10/2025,11:36 PM,650,out for delivery,credit card,60,1
+834,9756,61,Sanlicheng,premium,lunch,3,12/26/2025,1:58 AM,969,out for delivery,PayPal,49,4
+835,1132,25,Muang Phôn-Hông,gold,dinner,10,8/25/2025,10:03 AM,3450,out for delivery,credit card,11,2
+836,7031,21,Kvänum,basic,snack,6,11/11/2025,4:09 PM,1902,in transit,credit card,25,3
+837,5961,69,Yuen Long Kau Hui,gold,breakfast,1,8/24/2025,1:49 AM,219,in transit,Venmo,12,5
+838,4963,37,Putre,premium,dinner,9,2/7/2026,1:25 AM,4131,delivered,Venmo,31,2
+839,4430,78,Wichian Buri,premium,dinner,6,4/23/2026,4:32 AM,2136,in transit,credit card,52,2
+840,8628,67,Tongjin,premium,lunch,9,12/17/2025,11:01 PM,2403,out for delivery,Venmo,58,2
+841,8152,62,Nyeri,basic,breakfast,9,1/28/2026,8:21 PM,2439,in transit,credit card,57,1
+842,9160,38,Xianhe,premium,snack,3,6/26/2025,10:31 PM,1017,delivered,Venmo,43,3
+843,7352,78,Yun’an,gold,dinner,6,4/14/2026,9:31 PM,1914,in transit,credit card,54,2
+844,4058,39,Kudymkar,premium,lunch,5,3/9/2026,6:07 PM,1385,in transit,Venmo,22,5
+845,1399,35,Pongkor,premium,breakfast,2,11/6/2025,6:46 PM,624,in transit,credit card,13,3
+846,7180,64,Rudnichnyy,gold,snack,5,2/20/2026,11:09 AM,1885,in transit,credit card,19,4
+847,1335,52,Raci Kulon,basic,snack,6,10/23/2025,10:26 AM,2136,in transit,Venmo,17,3
+848,3206,19,Modosinal,premium,dinner,7,3/10/2026,10:13 AM,2380,in transit,credit card,16,2
+849,3668,50,Namballe,premium,snack,5,7/10/2025,6:17 PM,1795,delivered,credit card,43,5
+850,1477,71,Fovissste,basic,snack,10,6/7/2025,4:03 PM,4600,delivered,credit card,21,2
+851,7801,29,Gansa,premium,dinner,7,9/22/2025,8:00 AM,2562,in transit,credit card,29,1
+852,1863,27,Toyonaka,premium,dinner,3,1/20/2026,4:26 PM,1323,delivered,Venmo,31,3
+853,4796,79,Pervomayskaya,premium,lunch,4,5/24/2025,4:00 AM,912,out for delivery,PayPal,43,3
+854,2422,78,West Island,basic,lunch,3,1/11/2026,9:43 PM,1368,in transit,PayPal,40,5
+855,8438,49,Dulce Nombre,basic,dinner,5,7/25/2025,6:30 PM,1370,in transit,Venmo,50,3
+856,8494,40,Strängnäs,premium,snack,4,1/14/2026,7:56 AM,1152,delivered,PayPal,34,2
+857,8580,34,Rio Branco do Sul,basic,dinner,8,9/30/2025,10:54 AM,2552,out for delivery,Venmo,45,5
+858,2321,75,Sumberrejo,premium,breakfast,8,11/22/2025,3:22 PM,3768,out for delivery,credit card,58,5
+859,4736,19,Emmen,premium,dinner,1,11/15/2025,2:31 PM,346,out for delivery,PayPal,23,2
+860,9128,18,Kembang,premium,dinner,7,5/2/2025,12:47 AM,2534,in transit,PayPal,23,2
+861,9550,33,Nanjia,premium,lunch,4,4/17/2026,12:16 PM,1168,in transit,credit card,26,3
+862,7070,23,Calaba,gold,lunch,8,12/2/2025,10:42 AM,3560,in transit,PayPal,47,3
+863,7323,19,Logroño,gold,dinner,2,3/3/2026,12:59 AM,646,delivered,credit card,34,2
+864,8655,21,Sihai,basic,snack,3,12/17/2025,3:15 AM,723,in transit,Venmo,32,4
+865,6982,37,Guanli,basic,snack,1,8/15/2025,2:17 PM,317,out for delivery,Venmo,38,5
+866,6894,40,Lanas,premium,lunch,7,1/27/2026,10:22 PM,2716,out for delivery,PayPal,18,2
+867,8959,42,Huagu,gold,breakfast,3,7/31/2025,2:01 PM,912,delivered,Venmo,17,2
+868,6523,68,Astorga,gold,snack,8,7/25/2025,7:43 PM,3944,in transit,credit card,54,4
+869,5708,34,Bukor,basic,lunch,6,8/31/2025,11:23 AM,2448,out for delivery,PayPal,18,1
+870,3210,67,Hingatungan,basic,snack,9,9/13/2025,10:33 PM,2214,out for delivery,PayPal,53,1
+871,1722,44,Paris 13,premium,dinner,1,10/4/2025,8:28 PM,237,delivered,PayPal,10,2
+872,3975,36,Zhangxiong,premium,snack,5,6/20/2025,11:12 AM,1610,delivered,credit card,52,2
+873,2853,55,Pršovce,gold,snack,7,12/14/2025,2:44 AM,2359,delivered,credit card,26,4
+874,5832,47,Longtou,basic,lunch,10,9/13/2025,5:52 AM,4270,in transit,credit card,51,4
+875,9432,56,Yuzui,basic,snack,8,3/1/2026,11:55 PM,3312,delivered,Venmo,22,1
+876,3699,19,Rio Preto da Eva,basic,breakfast,6,3/25/2026,10:51 AM,2772,in transit,PayPal,56,4
+877,8769,24,Serra Talhada,basic,lunch,6,1/26/2026,1:39 AM,2196,delivered,credit card,39,2
+878,5901,36,Rojas,basic,breakfast,9,4/28/2025,9:44 AM,2988,delivered,credit card,52,5
+879,2493,62,Broshniv-Osada,premium,snack,4,8/30/2025,10:13 PM,1636,in transit,Venmo,42,4
+880,1122,74,Makin Village,gold,lunch,8,10/29/2025,9:55 AM,3632,out for delivery,credit card,20,4
+881,1635,22,Vereshchagino,gold,snack,6,3/10/2026,7:32 PM,2454,delivered,Venmo,43,5
+882,3854,62,Stockholm,gold,snack,4,5/17/2025,5:28 AM,848,in transit,Venmo,11,4
+883,3421,22,Kangar,premium,snack,7,5/5/2025,9:02 PM,1708,delivered,credit card,27,3
+884,7024,57,Longgang,gold,dinner,5,5/24/2025,2:41 AM,2000,delivered,credit card,50,5
+885,2463,46,Gurbuki,premium,breakfast,5,9/11/2025,2:17 AM,2410,out for delivery,Venmo,21,3
+886,7697,47,Quinta do Sobrado,basic,lunch,2,1/7/2026,8:45 PM,948,in transit,PayPal,10,2
+887,7373,44,Gazli,gold,dinner,9,4/4/2026,6:34 AM,2601,delivered,Venmo,41,3
+888,3956,59,Tokuyama,premium,breakfast,4,3/16/2026,12:04 PM,1520,in transit,PayPal,31,3
+889,2072,67,Concordia,gold,snack,1,2/7/2026,10:31 PM,221,out for delivery,PayPal,43,2
+890,6037,40,Foča,basic,dinner,4,11/6/2025,4:50 AM,848,out for delivery,Venmo,28,2
+891,6159,22,Celeirós,premium,dinner,2,8/28/2025,2:29 AM,876,delivered,Venmo,54,5
+892,3486,74,Perpignan,gold,snack,4,5/26/2025,11:42 PM,1908,delivered,Venmo,34,3
+893,5078,42,Scottsdale,basic,breakfast,10,4/18/2026,4:17 PM,4450,out for delivery,PayPal,46,3
+894,6045,55,Palos,basic,breakfast,5,6/22/2025,3:01 AM,1935,delivered,credit card,23,1
+895,5741,29,Anápolis,basic,snack,4,1/11/2026,9:22 PM,1284,out for delivery,credit card,28,1
+896,4312,78,Puerto Asís,gold,dinner,3,2/5/2026,8:07 PM,1473,delivered,Venmo,31,4
+897,2178,25,Ibagué,premium,snack,6,11/17/2025,6:35 AM,2442,in transit,PayPal,14,2
+898,9562,63,Santa María de Ipire,premium,snack,9,9/20/2025,12:55 PM,3582,in transit,PayPal,13,4
+899,4090,47,Gandzak,premium,breakfast,7,8/31/2025,5:42 AM,1533,out for delivery,Venmo,22,1
+900,5238,47,Otaru,basic,breakfast,10,2/23/2026,1:22 PM,3210,out for delivery,credit card,43,5
+901,6358,72,Guankou,basic,breakfast,8,3/10/2026,4:05 AM,3736,delivered,Venmo,31,3
+902,1999,51,Brest,premium,snack,7,12/14/2025,9:34 AM,2184,in transit,Venmo,31,1
+903,8295,33,Brades,basic,lunch,10,7/21/2025,11:05 AM,2030,in transit,PayPal,33,4
+904,3106,23,Magangué,gold,breakfast,10,7/7/2025,6:43 PM,4020,delivered,credit card,33,2
+905,1243,35,Caburan,premium,lunch,1,8/23/2025,9:21 AM,364,out for delivery,credit card,39,4
+906,4685,66,Santa Rita Aplaya,gold,snack,4,10/7/2025,2:06 AM,876,delivered,PayPal,52,2
+907,8206,76,Villa La Angostura,premium,dinner,3,11/10/2025,5:50 PM,1386,delivered,credit card,24,4
+908,7971,44,Kalepasan,premium,dinner,8,12/10/2025,9:08 AM,3328,in transit,PayPal,26,2
+909,6018,63,Karangbayat,basic,breakfast,7,3/22/2026,8:12 PM,3472,out for delivery,PayPal,31,5
+910,1875,39,Paris 12,gold,lunch,2,10/24/2025,1:11 AM,624,in transit,credit card,20,1
+911,3950,66,Stamford,basic,snack,2,10/22/2025,8:43 AM,452,in transit,Venmo,56,1
+912,2212,54,Qārah,gold,dinner,5,4/28/2025,6:12 PM,2360,out for delivery,Venmo,40,3
+913,1961,34,Sabanalarga,gold,snack,1,10/21/2025,2:54 AM,433,in transit,Venmo,13,3
+914,6072,44,Kore,gold,dinner,2,6/24/2025,12:42 AM,700,out for delivery,PayPal,27,2
+915,3482,21,Chak,gold,dinner,5,4/30/2025,12:46 PM,2110,in transit,PayPal,28,2
+916,2269,53,Colombes,premium,snack,6,9/16/2025,12:19 PM,2790,delivered,PayPal,13,2
+917,3276,32,Kertahayu,gold,snack,9,10/19/2025,2:09 AM,3186,out for delivery,PayPal,15,5
+918,2358,70,Krajan Satu,gold,snack,2,12/25/2025,1:53 PM,720,out for delivery,Venmo,40,4
+919,1341,33,Kakata,gold,lunch,3,9/21/2025,3:47 PM,1317,in transit,PayPal,34,3
+920,9155,76,Rosthern,gold,breakfast,7,1/31/2026,3:38 PM,2744,in transit,Venmo,42,5
+921,7536,62,Richmond,gold,breakfast,10,4/18/2026,4:17 AM,2410,in transit,credit card,42,1
+922,5358,27,Yopal,basic,dinner,5,1/22/2026,10:47 AM,1315,delivered,credit card,17,4
+923,3913,72,Imrīsh,basic,lunch,9,4/20/2026,9:48 PM,3591,in transit,credit card,23,1
+924,3417,63,Borovan,basic,snack,1,5/26/2025,7:11 AM,327,in transit,PayPal,54,5
+925,3232,69,Södra Sandby,basic,lunch,1,7/13/2025,7:22 AM,480,delivered,Venmo,35,1
+926,1810,18,Tianya,gold,breakfast,3,5/29/2025,12:57 PM,1026,in transit,credit card,39,1
+927,9941,57,Casal Novo,premium,lunch,7,6/9/2025,4:12 PM,3087,out for delivery,credit card,42,4
+928,3129,21,Mangarine,gold,dinner,5,1/13/2026,1:43 AM,1215,delivered,credit card,12,1
+929,2480,63,Minuwangoda,gold,breakfast,6,5/28/2025,7:30 AM,2832,delivered,PayPal,54,2
+930,1125,55,Tõrva,premium,lunch,5,3/3/2026,5:16 PM,2035,out for delivery,credit card,22,3
+931,9242,75,Longyearbyen,basic,dinner,9,6/18/2025,2:23 PM,3879,delivered,credit card,33,1
+932,2545,48,Yuli,gold,lunch,4,4/7/2026,12:57 PM,1308,in transit,Venmo,55,5
+933,8414,25,Amagasaki,basic,breakfast,5,10/18/2025,2:05 PM,2215,delivered,Venmo,18,2
+934,2272,76,Fuchun,premium,dinner,7,8/14/2025,8:25 AM,3381,in transit,credit card,33,1
+935,7293,42,Alcoy,premium,dinner,8,2/28/2026,9:50 AM,2648,out for delivery,credit card,27,5
+936,1143,54,Tampocon,premium,breakfast,7,11/5/2025,9:38 AM,3486,in transit,Venmo,50,3
+937,7337,41,Santo Tomás,premium,snack,4,1/27/2026,7:11 AM,1904,out for delivery,Venmo,51,5
+938,2182,59,Padasuka,premium,snack,1,8/18/2025,7:24 PM,240,out for delivery,Venmo,45,1
+939,3751,75,Loma Bonita,gold,breakfast,3,10/15/2025,2:08 PM,891,delivered,credit card,13,5
+940,6496,51,Notre-Dame-des-Prairies,premium,breakfast,8,5/2/2025,8:40 PM,2576,out for delivery,Venmo,15,5
+941,8170,47,Leye,premium,dinner,2,7/1/2025,3:16 AM,820,out for delivery,credit card,11,2
+942,6983,59,Al ‘Awjā,gold,lunch,10,8/10/2025,5:59 PM,3580,out for delivery,PayPal,21,3
+943,1121,66,Kokterek,basic,lunch,3,9/16/2025,7:28 AM,657,in transit,Venmo,24,2
+944,9148,53,Suqu,basic,lunch,6,6/7/2025,8:14 PM,2904,out for delivery,Venmo,33,4
+945,9404,54,Mishixiang,basic,dinner,10,4/27/2026,6:07 AM,3190,out for delivery,Venmo,32,4
+946,9762,52,Totness,gold,breakfast,5,10/15/2025,2:24 AM,1030,in transit,credit card,28,5
+947,5434,79,Murom,basic,lunch,5,11/8/2025,9:19 PM,1770,delivered,credit card,23,1
+948,7985,79,Bulgan,premium,snack,8,8/7/2025,7:32 AM,2464,in transit,PayPal,40,4
+949,7993,67,Marolambo,premium,lunch,8,5/4/2025,9:35 AM,1976,in transit,credit card,28,1
+950,4939,39,Dragomer,gold,lunch,1,3/12/2026,7:40 PM,430,out for delivery,Venmo,37,5
+951,6003,39,Belz,premium,lunch,3,1/4/2026,2:11 PM,1404,in transit,PayPal,36,2
+952,8238,22,Artashat,gold,lunch,10,2/25/2026,6:56 AM,3450,out for delivery,PayPal,23,3
+953,5852,37,Ban Phan Don,basic,snack,2,2/15/2026,12:51 PM,500,delivered,Venmo,52,3
+954,2657,54,Zhonghechang,premium,snack,4,8/5/2025,9:11 AM,1496,out for delivery,Venmo,33,1
+955,1553,56,Eldoret,gold,snack,10,6/27/2025,7:04 PM,2300,delivered,Venmo,18,2
+956,2344,79,Guihing Proper,basic,breakfast,2,4/28/2025,6:07 PM,948,delivered,Venmo,25,2
+957,4676,75,Rączna,premium,snack,10,8/12/2025,5:50 AM,3330,delivered,PayPal,18,5
+958,1147,28,Cabanbanan,premium,snack,10,4/17/2026,8:31 PM,4090,out for delivery,credit card,49,4
+959,8191,34,Wulin,basic,lunch,4,4/14/2026,4:06 AM,1552,out for delivery,credit card,38,3
+960,3153,55,Amiens,premium,lunch,4,2/5/2026,2:04 AM,1888,delivered,credit card,60,3
+961,7724,36,Pacov,gold,breakfast,6,7/15/2025,6:38 PM,2406,out for delivery,PayPal,19,3
+962,8275,42,Kaji,premium,lunch,4,6/1/2025,2:40 AM,872,in transit,credit card,30,3
+963,3583,69,Yên Bái,premium,breakfast,3,7/15/2025,10:39 AM,1476,delivered,PayPal,18,5
+964,1460,75,Bentar Girang,premium,lunch,10,5/24/2025,8:37 PM,2450,out for delivery,credit card,59,4
+965,4440,65,Pasar,gold,lunch,3,9/11/2025,6:08 PM,1371,in transit,Venmo,22,1
+966,7911,46,Qingkou,premium,snack,7,3/29/2026,4:10 PM,1694,out for delivery,credit card,28,4
+967,9533,54,Yangjia,gold,snack,9,5/6/2025,1:21 AM,2385,delivered,Venmo,35,5
+968,6640,67,Güines,gold,dinner,1,7/11/2025,8:04 AM,261,delivered,credit card,51,2
+969,4712,60,Cisitu,basic,breakfast,6,1/25/2026,3:28 PM,1680,out for delivery,Venmo,43,4
+970,3196,21,Béja,premium,dinner,8,1/14/2026,6:53 AM,3184,out for delivery,credit card,38,3
+971,8058,20,Iles,gold,snack,8,5/31/2025,7:40 PM,3984,delivered,Venmo,37,5
+972,7939,19,Las Piñas,gold,snack,1,8/20/2025,9:53 AM,315,out for delivery,credit card,33,1
+973,1701,50,Finspång,basic,breakfast,8,12/23/2025,7:52 AM,3272,in transit,credit card,44,4
+974,4513,45,Hobor,premium,breakfast,7,12/16/2025,9:24 AM,2079,delivered,Venmo,36,2
+975,3487,78,Dongcheng,gold,snack,9,12/14/2025,2:36 AM,2700,out for delivery,PayPal,44,2
+976,1384,46,Chernyanka,basic,breakfast,2,11/22/2025,10:00 AM,728,delivered,credit card,53,5
+977,1733,35,Wuyanquan,basic,breakfast,4,8/6/2025,9:10 AM,988,in transit,PayPal,50,1
+978,9966,39,Funchalinho,gold,lunch,6,7/20/2025,2:00 PM,2250,out for delivery,PayPal,23,1
+979,4033,41,Huaguoshan,premium,dinner,6,9/19/2025,9:48 PM,1704,in transit,credit card,25,2
+980,1286,25,Thị Trấn Yên Thế,basic,snack,10,8/20/2025,10:26 PM,3690,in transit,Venmo,50,3
+981,7862,29,Tangping,basic,lunch,9,5/21/2025,12:04 PM,3690,in transit,credit card,53,4
+982,9439,24,Jawatiwa,basic,dinner,4,12/27/2025,12:59 PM,1616,in transit,credit card,46,3
+983,4191,64,Radekhiv,gold,breakfast,6,7/11/2025,2:44 PM,2604,delivered,PayPal,23,2
+984,2988,54,Kosakowo,basic,lunch,1,11/4/2025,5:48 AM,445,in transit,PayPal,15,1
+985,9491,51,Sezemice,premium,breakfast,10,1/4/2026,1:04 PM,3500,in transit,PayPal,51,3
+986,9932,53,Luyang,premium,breakfast,1,3/24/2026,8:17 PM,214,delivered,credit card,39,3
+987,3007,36,Kensington,gold,breakfast,5,9/15/2025,11:19 PM,1585,delivered,Venmo,50,1
+988,7339,60,Kongoussi,premium,dinner,7,5/18/2025,9:37 PM,2604,delivered,credit card,34,3
+989,8917,33,Curumaní,basic,lunch,2,10/11/2025,12:10 AM,822,in transit,PayPal,23,5
+990,5503,76,Lidzbark,basic,snack,8,5/4/2025,11:28 AM,2560,in transit,credit card,27,3
+991,9517,49,Bulawin,premium,snack,1,2/14/2026,7:26 AM,281,in transit,Venmo,42,5
+992,5915,55,Yuto,gold,snack,10,3/31/2026,9:27 AM,4870,out for delivery,Venmo,44,3
+993,1933,71,Khoronk’,gold,dinner,10,4/16/2026,5:28 AM,3750,delivered,credit card,21,4
+994,1950,62,Junchuan,gold,snack,1,1/26/2026,5:06 AM,497,out for delivery,Venmo,51,4
+995,5804,75,Jiaodai,premium,breakfast,7,8/13/2025,11:51 AM,2821,in transit,PayPal,15,3
+996,8875,77,Klyetsk,premium,breakfast,9,6/19/2025,9:44 PM,3546,delivered,Venmo,40,3
+997,7631,47,‘Afula ‘Illit,premium,snack,10,7/31/2025,10:53 AM,4330,delivered,credit card,43,1
+998,9112,75,Shangma,basic,snack,4,7/8/2025,2:46 AM,1924,delivered,Venmo,28,1
+999,4416,19,Paris 02,gold,dinner,4,12/24/2025,1:08 AM,1440,out for delivery,Venmo,43,4
+1000,7857,64,Älvdalen,premium,dinner,3,8/17/2025,9:53 PM,1470,in transit,credit card,11,3
