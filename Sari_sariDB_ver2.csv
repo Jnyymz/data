@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,customer_name,product_name,category,quantity,unit_price,total_amount,payment_method,location,cashier_name,discount_applied,stock_remaining,supplier_name,customer_type,purchase_time,day_of_week
+1001,08/11/2025,Obie Upham,Coca-Cola 1.5L,Beverages,10,72,720,Maya,Zhongxian,Claire Luetchford,FALSE,53,Savemore,Walk-In,1:55 PM,Monday
+1002,07/01/2025,Rhiamon Fronek,Piattos,Snacks,9,25,225,GCash,Mas?ah,Rosie Vannozzii,FALSE,59,SM,Walk-In,10:24 AM,Tuesday
+1003,4/23/2026,Tabby McNabb,Bear Brand Milk,Beverages,6,18,108,Cash,San Isidro,Aldon Ditts,FALSE,78,Savemore,Walk-In,5:09 AM,Thursday
+1004,05/06/2026,Dorthy Cupper,Nescafe Sachet,Beverages,1,8,8,Maya,Skerries,Lisette Ivashchenko,TRUE,146,Savemore,Walk-In,5:12 AM,Wednesday
+1005,6/25/2025,Jeffry Liccardo,Surf Detergent,Personal Care,6,12,72,Maya,Araguari,Lenette Mole,TRUE,22,Walter,Walk-In,7:43 AM,Wednesday
+1006,03/04/2026,Shirl Aidler,Safeguard Soap,Personal Care,8,45,360,GCash,Qingyang,Ollie Oldford,FALSE,126,SNS,Regular,5:00 PM,Wednesday
+1007,8/13/2025,Gianna Killgus,SkyFlakes,Snacks,3,10,30,Maya,Magoúla,Brien Marwick,TRUE,82,Walter,Walk-In,9:06 AM,Wednesday
+1008,5/23/2025,Meade Fellenor,Century Tuna,Groceries,5,38,190,GCash,Rahayu Dua,Noland Spenceley,TRUE,153,SM,Walk-In,9:50 AM,Friday
+1009,12/05/2025,Brunhilda Dericot,Rice 1kg,Groceries,6,58,348,GCash,Bugko,Antoine Padillo,TRUE,153,Savemore,Walk-In,5:58 PM,Friday
+1010,8/15/2025,Curtice Bucke,Hotdog Pack,Groceries,3,95,285,GCash,Oepula,Serge Van Oort,FALSE,102,Savemore,Regular,10:08 AM,Friday
+1011,01/12/2026,Arden Went,Eggs Dozen,Groceries,4,110,440,GCash,San Pablo,Raeann Growcock,FALSE,192,SNS,Regular,7:24 AM,Monday
+1012,8/26/2025,Nikkie Talby,Yakult,Beverages,3,15,45,GCash,Duboka,Chryste Brecknock,TRUE,195,Savemore,Walk-In,1:43 AM,Tuesday
+1013,07/02/2025,Nathalie Cowton,Milo Sachet,Beverages,2,12,24,GCash,Wuduhe,Lyndsay Whitehurst,TRUE,126,SM,Regular,9:30 PM,Wednesday
+1014,01/07/2026,Gerhard Hatter,Tender Juicy Hotdog,Groceries,7,120,840,Cash,Viga,Kerk McCullagh,TRUE,30,SNS,Walk-In,9:26 PM,Wednesday
+1015,8/26/2025,Johannes Jerrard,Palmolive Shampoo,Personal Care,9,7,63,GCash,Hokor,Diana Stittle,TRUE,200,SNS,Walk-In,4:18 AM,Tuesday
+1016,9/24/2025,Huntington Swate,Kopiko 78,Beverages,3,15,45,GCash,Gereneng,Mort Wicklen,FALSE,55,SM,Walk-In,8:33 PM,Wednesday
+1017,1/30/2026,Wang Townsend,Mineral Water,Beverages,5,20,100,Cash,Swieciechowa,Caryn Presdee,TRUE,60,Savemore,Regular,9:00 AM,Friday
+1018,5/16/2025,Roland Buttle,Oishi Prawn Crackers,Snacks,3,18,54,GCash,Paiçandu,Chrysa Tampion,FALSE,192,Savemore,Regular,12:59 AM,Friday
+1019,11/08/2025,Giuditta Tufts,Corned Beef,Groceries,6,35,210,Cash,Rancho Nuevo,Benni Cuss,TRUE,90,SNS,Walk-In,7:12 AM,Saturday
+1020,7/15/2025,Merrielle Ruck,Lucky Me Pancit Canton,Snacks,5,15,75,GCash,Bengras,Leslie Martinovsky,TRUE,37,Savemore,Regular,5:40 AM,Tuesday
+1021,3/15/2026,Gearard Sanzio,Coca-Cola 1.5L,Beverages,3,72,216,GCash,Ljukovo,Charlot Formie,TRUE,113,SNS,Walk-In,2:56 PM,Sunday
+1022,11/20/2025,Val Jans,Piattos,Snacks,9,25,225,Cash,Maia,Corliss Gabbatt,FALSE,117,Walter,Regular,5:07 AM,Thursday
+1023,3/15/2026,Lonni Goodbourn,Bear Brand Milk,Beverages,7,18,126,GCash,Foros de Salvaterra,Frederic Paprotny,TRUE,170,Walter,Regular,11:27 AM,Sunday
+1024,10/21/2025,Quincy Jerdan,Nescafe Sachet,Beverages,9,8,72,GCash,Eauripik,Lexine Roseborough,FALSE,39,Walter,Walk-In,5:36 AM,Tuesday
+1025,4/13/2026,Leonie Bly,Surf Detergent,Personal Care,2,12,24,Maya,Chaiyaphum,Morse Wedgbrow,FALSE,153,Walter,Walk-In,12:24 PM,Monday
+1026,2/22/2026,Rani Stonuary,Safeguard Soap,Personal Care,9,45,405,GCash,Sniadowo,Elinore Barwis,TRUE,92,SM,Regular,5:58 PM,Sunday
+1027,1/13/2026,Jackson Drewery,SkyFlakes,Snacks,4,10,40,Maya,Bao’an,Jasmine Mundwell,TRUE,107,SNS,Regular,12:35 AM,Tuesday
+1028,3/14/2026,Rolando Borgars,Century Tuna,Groceries,4,38,152,Maya,Mionica,Wyn Stuchburie,TRUE,171,SM,Regular,10:57 AM,Saturday
+1029,3/16/2026,Deedee Ashby,Rice 1kg,Groceries,10,58,580,Cash,Jiangduo,Dmitri Ellerbeck,TRUE,164,SNS,Regular,1:49 PM,Monday
+1030,11/01/2025,Daisie Pembery,Hotdog Pack,Groceries,9,95,855,GCash,Enniskerry,Mitzi Ties,TRUE,115,Savemore,Regular,2:18 AM,Saturday
+1031,12/24/2025,Benjie Lotwich,Eggs Dozen,Groceries,4,110,440,Cash,Leidian,Atlanta O'Fihily,TRUE,176,Walter,Regular,1:55 AM,Wednesday
+1032,11/15/2025,Rosamond Batey,Yakult,Beverages,7,15,105,Maya,Bom Despacho,Winni Heninghem,TRUE,37,Savemore,Regular,6:59 AM,Saturday
+1033,10/23/2025,Wilmar Kalb,Milo Sachet,Beverages,7,12,84,GCash,Samut Sakhon,Devlen Hamon,TRUE,65,SM,Walk-In,7:25 PM,Thursday
+1034,12/09/2025,Corabelle Crannis,Tender Juicy Hotdog,Groceries,6,120,720,Cash,Anding,Nevil Miles,FALSE,107,Savemore,Regular,5:19 PM,Tuesday
+1035,01/02/2026,Sascha Netting,Palmolive Shampoo,Personal Care,5,7,35,Cash,Kopayhorod,Hiram Juggings,TRUE,72,Savemore,Walk-In,12:15 PM,Friday
+1036,4/14/2026,Ariela De Wolfe,Kopiko 78,Beverages,10,15,150,GCash,Álftanes,Gray Lansberry,FALSE,45,SNS,Regular,6:32 PM,Tuesday
+1037,7/17/2025,Gratiana Ridger,Mineral Water,Beverages,5,20,100,GCash,Quxi,Harrison Barreau,TRUE,193,Savemore,Regular,11:13 PM,Thursday
+1038,9/23/2025,Lawry Tibbles,Oishi Prawn Crackers,Snacks,9,18,162,Maya,Oiso,Kevina Kalaher,FALSE,119,SNS,Regular,11:17 AM,Tuesday
+1039,02/04/2026,Edvard Knatt,Corned Beef,Groceries,2,35,70,GCash,Chigoré,Johnnie Guise,TRUE,7,Savemore,Walk-In,6:19 AM,Wednesday
+1040,9/17/2025,Casey Robus,Lucky Me Pancit Canton,Snacks,2,15,30,Maya,Parapat,Lesley Gillespie,FALSE,90,SNS,Walk-In,12:57 PM,Wednesday
+1041,9/29/2025,Nerta Freiburger,Coca-Cola 1.5L,Beverages,10,72,720,Cash,Pampa Hermosa,Hewie Syne,TRUE,125,Walter,Regular,9:14 AM,Monday
+1042,11/15/2025,Nerti O'Rodane,Piattos,Snacks,3,25,75,Cash,Kanganpur,Eyde Skewes,FALSE,54,Walter,Regular,2:31 AM,Saturday
+1043,5/31/2025,Dwayne Heinrich,Bear Brand Milk,Beverages,2,18,36,Cash,Palestina de los Altos,Sergio Riep,FALSE,11,SNS,Walk-In,9:11 PM,Saturday
+1044,6/16/2025,Frederico Ritson,Nescafe Sachet,Beverages,8,8,64,Maya,Thành Ph? L?ng Son,Pooh Klaesson,FALSE,35,Savemore,Regular,1:27 AM,Monday
+1045,8/19/2025,Shea Gilderoy,Surf Detergent,Personal Care,8,12,96,Maya,Szynwald,Cary Overel,FALSE,163,SNS,Regular,10:29 AM,Tuesday
+1046,1/31/2026,Astra Symons,Safeguard Soap,Personal Care,6,45,270,Cash,Wenxi,Goddard Sallier,FALSE,119,SNS,Walk-In,8:21 PM,Saturday
+1047,3/16/2026,Carmen Nanni,SkyFlakes,Snacks,6,10,60,Maya,Mathambgwane,Julian Gallaher,TRUE,174,Savemore,Walk-In,10:16 AM,Monday
+1048,05/01/2026,Saloma Botfield,Century Tuna,Groceries,1,38,38,GCash,Wanjia,Katrine Latore,FALSE,62,Walter,Regular,7:04 AM,Friday
+1049,12/10/2025,Doralyn Scarisbrick,Rice 1kg,Groceries,6,58,348,GCash,Gaotuo,Winfield Giovannazzi,TRUE,196,Walter,Regular,8:39 PM,Wednesday
+1050,11/13/2025,Rebekkah Dear,Hotdog Pack,Groceries,2,95,190,GCash,Ytterby,Liana Ugolini,FALSE,50,Walter,Regular,6:32 PM,Thursday
+1051,8/15/2025,Dagny Rolles,Eggs Dozen,Groceries,4,110,440,Cash,Luopioinen,Darb Oliff,TRUE,2,Savemore,Regular,8:04 PM,Friday
+1052,10/10/2025,Kilian Castiglione,Yakult,Beverages,4,15,60,Cash,Krajan Gading,Eduino Morigan,FALSE,27,SNS,Walk-In,1:12 PM,Friday
+1053,12/19/2025,Yardley Steggles,Milo Sachet,Beverages,5,12,60,Maya,Petrovo-Dal’neye,Barby Rohlf,TRUE,195,Savemore,Regular,3:20 AM,Friday
+1054,8/31/2025,Conn Banks,Tender Juicy Hotdog,Groceries,7,120,840,GCash,Chaoyangdong,Chrystel Ennever,TRUE,106,SM,Walk-In,6:28 AM,Sunday
+1055,04/02/2026,Deva Sutor,Palmolive Shampoo,Personal Care,3,7,21,GCash,Brody,Elysha Riddler,TRUE,102,SNS,Regular,7:32 PM,Thursday
+1056,07/08/2025,Etty Schimoni,Kopiko 78,Beverages,4,15,60,GCash,Dianzi,Ruperta Herkess,TRUE,181,Walter,Regular,12:42 PM,Tuesday
+1057,10/18/2025,Farly Grivori,Mineral Water,Beverages,3,20,60,Maya,Eldoret,Debi Sears,TRUE,192,SM,Regular,7:04 PM,Saturday
+1058,10/18/2025,Gannon Arnall,Oishi Prawn Crackers,Snacks,3,18,54,GCash,Qarawat Bani Zayd,Cherise Trevenu,TRUE,30,Savemore,Walk-In,7:54 AM,Saturday
+1059,10/07/2025,Caresse Sisse,Corned Beef,Groceries,7,35,245,Cash,Jetis,Micki Bolingbroke,FALSE,169,SNS,Walk-In,5:06 PM,Tuesday
+1060,12/16/2025,Doralyn Chaucer,Lucky Me Pancit Canton,Snacks,4,15,60,Cash,Sukomulyo,Josiah Sweed,TRUE,175,Walter,Walk-In,11:01 PM,Tuesday
+1061,12/17/2025,Collete Breming,Coca-Cola 1.5L,Beverages,6,72,432,Maya,Piribebuy,Mal Merwood,FALSE,187,Walter,Regular,8:15 AM,Wednesday
+1062,10/16/2025,Sim Pirson,Piattos,Snacks,5,25,125,Maya,El Calvario,Courtenay Vivyan,FALSE,172,SM,Walk-In,3:33 PM,Thursday
+1063,05/12/2026,Bell Seel,Bear Brand Milk,Beverages,5,18,90,GCash,Sinchao,Rheba Gambell,TRUE,3,SM,Walk-In,1:12 AM,Tuesday
+1064,4/29/2026,Anastasie Gheeorghie,Nescafe Sachet,Beverages,10,8,80,Cash,Hachinohe,Carol-jean Suttaby,TRUE,112,Walter,Regular,10:32 PM,Wednesday
+1065,06/01/2025,Carly Brewse,Surf Detergent,Personal Care,1,12,12,GCash,Blois,Seana Petters,FALSE,73,Walter,Regular,5:02 AM,Sunday
+1066,1/24/2026,Wallis Dumbleton,Safeguard Soap,Personal Care,8,45,360,Cash,Jagodina,Bessy Sabatini,TRUE,190,Savemore,Walk-In,1:44 PM,Saturday
+1067,3/16/2026,Nigel Roman,SkyFlakes,Snacks,1,10,10,Cash,Moijabana,Reilly Fogg,TRUE,1,Savemore,Regular,1:31 PM,Monday
+1068,11/30/2025,Deloris Ferri,Century Tuna,Groceries,1,38,38,Maya,Nangka,Judah Strafford,FALSE,74,Walter,Regular,10:52 PM,Sunday
+1069,12/05/2025,Jennette Paladini,Rice 1kg,Groceries,4,58,232,Cash,Easington,Sabine Laflin,FALSE,76,Walter,Walk-In,11:04 PM,Friday
+1070,01/04/2026,Jenica Keyworth,Hotdog Pack,Groceries,8,95,760,GCash,Chodová Planá,Keir Earlam,TRUE,77,SNS,Walk-In,1:11 PM,Sunday
+1071,06/06/2025,Raphael Felgat,Eggs Dozen,Groceries,8,110,880,Cash,Tsotsin-Yurt,Shawna Gallen,TRUE,39,SNS,Regular,6:30 AM,Friday
+1072,8/24/2025,Joly Fynan,Yakult,Beverages,7,15,105,GCash,Nouâdhibou,Corty Pyne,FALSE,105,Walter,Walk-In,11:15 PM,Sunday
+1073,7/21/2025,Remy Domenicone,Milo Sachet,Beverages,9,12,108,Cash,Linxi,Irwin Bresner,TRUE,10,SM,Walk-In,10:06 AM,Monday
+1074,03/05/2026,Sergeant Lanyon,Tender Juicy Hotdog,Groceries,4,120,480,GCash,Monte da Boavista,Prentiss Noble,FALSE,199,Savemore,Walk-In,9:09 PM,Thursday
+1075,8/28/2025,Micheline Dobbie,Palmolive Shampoo,Personal Care,7,7,49,GCash,Kadugannawa,Cindee Boyett,FALSE,152,Savemore,Regular,8:24 AM,Thursday
+1076,11/05/2025,Early Deverill,Kopiko 78,Beverages,10,15,150,Maya,Karobokan,Nels Dubarry,FALSE,44,Savemore,Walk-In,7:52 AM,Wednesday
+1077,10/02/2025,Clare Ratchford,Mineral Water,Beverages,4,20,80,GCash,Ten’gushevo,Edy Bernakiewicz,TRUE,90,Savemore,Regular,1:18 PM,Thursday
+1078,3/16/2026,Minnaminnie Berrie,Oishi Prawn Crackers,Snacks,8,18,144,Cash,Kapotnya,Lynda Takle,FALSE,30,SNS,Regular,3:31 AM,Monday
+1079,11/06/2025,Emmaline Noot,Corned Beef,Groceries,2,35,70,Cash,Famaillá,Christoffer Mixture,TRUE,181,Walter,Walk-In,7:10 AM,Thursday
+1080,5/20/2025,Kerianne Cabrales,Lucky Me Pancit Canton,Snacks,4,15,60,Cash,Yancheng,Aeriela Dorking,TRUE,151,SM,Walk-In,11:41 AM,Tuesday
+1081,08/08/2025,Cindi Loisi,Coca-Cola 1.5L,Beverages,7,72,504,Maya,Nanshi,Rachael Matyatin,TRUE,29,SNS,Walk-In,8:19 AM,Friday
+1082,4/14/2026,Gage Goodlip,Piattos,Snacks,6,25,150,Maya,Maji,Lorne Sennett,FALSE,76,SM,Regular,11:43 PM,Tuesday
+1083,3/23/2026,Keeley Flewett,Bear Brand Milk,Beverages,3,18,54,GCash,Brive-la-Gaillarde,Darda Gossington,FALSE,125,Savemore,Walk-In,10:43 AM,Monday
+1084,6/13/2025,Ellwood Cosbee,Nescafe Sachet,Beverages,5,8,40,Cash,Tapayan,Babara Viles,TRUE,100,Walter,Walk-In,7:19 AM,Friday
+1085,03/04/2026,Gary McCrisken,Surf Detergent,Personal Care,3,12,36,Maya,Mendes,Orbadiah Fesby,FALSE,9,SM,Walk-In,12:29 AM,Wednesday
+1086,08/10/2025,Ivy Laytham,Safeguard Soap,Personal Care,3,45,135,GCash,Xi’an,Jeanette Letterese,TRUE,198,SNS,Walk-In,2:04 PM,Sunday
+1087,05/10/2026,Base Kroon,SkyFlakes,Snacks,2,10,20,Cash,Mae Wang,Cassandre Devenny,TRUE,102,SNS,Walk-In,4:06 AM,Sunday
+1088,3/26/2026,Georgena Mohammad,Century Tuna,Groceries,9,38,342,GCash,Ban Phan Don,Nata Werndley,TRUE,6,SM,Walk-In,2:43 AM,Thursday
+1089,1/28/2026,Grier Hooban,Rice 1kg,Groceries,9,58,522,Cash,Chifeng,Aloysia Lyard,TRUE,41,SM,Walk-In,2:02 PM,Wednesday
+1090,05/06/2026,Erminia Bletsor,Hotdog Pack,Groceries,3,95,285,Cash,Non Suwan,Jocelyn Dowall,FALSE,97,SM,Walk-In,11:46 AM,Wednesday
+1091,4/20/2026,Tova Fearney,Eggs Dozen,Groceries,10,110,1100,GCash,Kratovo,Ulrica Catcheside,TRUE,122,SNS,Regular,12:53 AM,Monday
+1092,12/25/2025,Melodee Cassley,Yakult,Beverages,8,15,120,Maya,Stari Kuty,Alexis Leask,TRUE,152,Savemore,Regular,6:19 PM,Thursday
+1093,12/02/2025,Aldwin Ronald,Milo Sachet,Beverages,2,12,24,GCash,Qiankeng,Gaylor Dahlen,TRUE,46,SNS,Regular,12:54 PM,Tuesday
+1094,10/31/2025,Zondra Felgate,Tender Juicy Hotdog,Groceries,6,120,720,Maya,Calauag,Deina Whylie,TRUE,65,SNS,Walk-In,6:24 AM,Friday
+1095,11/23/2025,Gretna Crockford,Palmolive Shampoo,Personal Care,9,7,63,Cash,Valjevo,Cherlyn Davitti,TRUE,45,Savemore,Regular,5:24 AM,Sunday
+1096,07/07/2025,Helene Yankeev,Kopiko 78,Beverages,2,15,30,Maya,Golek,Berta Olifaunt,TRUE,49,SNS,Regular,3:48 PM,Monday
+1097,05/07/2026,Sapphire Coleiro,Mineral Water,Beverages,6,20,120,Maya,Fushë-Muhurr,Doris Ogers,TRUE,124,Walter,Walk-In,11:21 PM,Thursday
+1098,09/04/2025,Karee Erdely,Oishi Prawn Crackers,Snacks,2,18,36,GCash,Osa,Tracey Fincken,FALSE,122,Savemore,Walk-In,7:00 PM,Thursday
+1099,04/08/2026,Claretta Rubbert,Corned Beef,Groceries,7,35,245,GCash,Boyeros,Gloria Zelake,TRUE,153,Walter,Regular,12:30 AM,Wednesday
+1100,10/29/2025,Nicole Penburton,Lucky Me Pancit Canton,Snacks,5,15,75,GCash,Hongqiao,Con Beardshaw,FALSE,62,SM,Regular,2:23 PM,Wednesday
+1101,02/08/2026,Silvio Grenkov,Coca-Cola 1.5L,Beverages,7,72,504,Maya,Zhucun,Della Stradling,TRUE,194,Walter,Regular,2:37 PM,Sunday
+1102,01/09/2026,Sanders Oles,Piattos,Snacks,10,25,250,GCash,Áno Kopanákion,Christophe Gollard,FALSE,1,Walter,Walk-In,2:07 PM,Friday
+1103,11/09/2025,Natividad Griswood,Bear Brand Milk,Beverages,2,18,36,GCash,Pasarkolot,Galvan Helliwell,TRUE,7,SNS,Walk-In,7:26 AM,Sunday
+1104,05/07/2026,Martie Dugall,Nescafe Sachet,Beverages,2,8,16,Cash,Cabo de Vila,Agatha Phear,TRUE,184,SNS,Walk-In,10:19 AM,Thursday
+1105,10/11/2025,Rustie Troy,Surf Detergent,Personal Care,8,12,96,Cash,Pancas,Gilli Simukov,TRUE,108,SNS,Walk-In,6:05 PM,Saturday
+1106,6/24/2025,Rania Beazleigh,Safeguard Soap,Personal Care,7,45,315,GCash,Nihaona,Kiel Chichgar,TRUE,169,SNS,Regular,11:23 AM,Tuesday
+1107,11/16/2025,Buddie Pillinger,SkyFlakes,Snacks,9,10,90,Maya,Rassvet,Vanya Fairbourne,FALSE,119,SM,Walk-In,2:20 AM,Sunday
+1108,8/20/2025,Nanon Krzyzowski,Century Tuna,Groceries,10,38,380,Cash,Mburukullu,Delmor McHardy,TRUE,40,SM,Regular,10:50 PM,Wednesday
+1109,07/10/2025,Lynn Cartlidge,Rice 1kg,Groceries,7,58,406,Cash,Krasnyy Lyman,Dusty Cundey,FALSE,124,Savemore,Regular,3:57 AM,Thursday
+1110,5/22/2025,Anjela Corradini,Hotdog Pack,Groceries,3,95,285,Cash,Chiclayo,Lanie Gladtbach,TRUE,91,SM,Walk-In,3:22 AM,Thursday
+1111,06/05/2025,Ealasaid Dodwell,Eggs Dozen,Groceries,8,110,880,GCash,Fushun,Elle Steutly,TRUE,35,Savemore,Walk-In,3:46 PM,Thursday
+1112,03/11/2026,Erl Dore,Yakult,Beverages,2,15,30,Maya,Kuttu,Noel Gooden,FALSE,72,SNS,Walk-In,2:23 PM,Wednesday
+1113,12/02/2025,Savina Bwy,Milo Sachet,Beverages,4,12,48,Maya,Taozhuang,Sally Maggiore,FALSE,86,SNS,Regular,11:43 PM,Tuesday
+1114,4/20/2026,Marilyn Peer,Tender Juicy Hotdog,Groceries,3,120,360,Maya,?awran ad Daydah,Lenna Kenan,TRUE,8,SNS,Walk-In,2:29 PM,Monday
+1115,01/11/2026,Madella Hastilow,Palmolive Shampoo,Personal Care,9,7,63,GCash,Pantano do Sul,Jonell Marten,FALSE,162,Walter,Regular,8:22 AM,Sunday
+1116,08/06/2025,Amanda Showl,Kopiko 78,Beverages,8,15,120,Maya,Sucun,Joshuah Conibear,TRUE,90,SM,Regular,5:02 AM,Wednesday
+1117,5/23/2025,Chuck McArt,Mineral Water,Beverages,10,20,200,Cash,Dila,Tybi Atyeo,TRUE,39,Savemore,Regular,8:17 PM,Friday
+1118,04/10/2026,Filberte Pyson,Oishi Prawn Crackers,Snacks,2,18,36,Maya,Stockholm,Tanner McGreil,FALSE,78,Walter,Regular,5:33 PM,Friday
+1119,12/17/2025,Lucy Veronique,Corned Beef,Groceries,7,35,245,GCash,Serra de Água,Gregoire Bebbell,TRUE,83,SNS,Walk-In,3:08 PM,Wednesday
+1120,05/09/2026,Reuben MacDonagh,Lucky Me Pancit Canton,Snacks,5,15,75,Cash,Chornomors’ke,Curran Metcalf,FALSE,4,Walter,Walk-In,2:13 PM,Saturday
+1121,07/06/2025,Andre Toop,Coca-Cola 1.5L,Beverages,5,72,360,GCash,Volosovo,Renado Sweeting,FALSE,160,SNS,Walk-In,11:07 PM,Sunday
+1122,10/08/2025,Elvin Hoxey,Piattos,Snacks,1,25,25,Cash,Chang’an,Dian Gammon,TRUE,107,Walter,Walk-In,12:39 AM,Wednesday
+1123,02/10/2026,Murielle Gudahy,Bear Brand Milk,Beverages,1,18,18,Maya,Itararé,Tony Vasilkov,FALSE,100,Walter,Walk-In,4:31 AM,Tuesday
+1124,06/01/2025,Sharlene de Clerk,Nescafe Sachet,Beverages,3,8,24,Cash,Wan Yai,Waylon Ewin,FALSE,40,SNS,Walk-In,7:45 AM,Sunday
+1125,5/15/2025,Shaughn Faulks,Surf Detergent,Personal Care,9,12,108,Maya,Uva,Luigi Pixton,FALSE,108,Savemore,Walk-In,4:02 AM,Thursday
+1126,07/02/2025,Gorden Skillanders,Safeguard Soap,Personal Care,1,45,45,GCash,Hujiaba,Benedick MacCorkell,TRUE,147,SNS,Regular,5:53 AM,Wednesday
+1127,4/21/2026,Carlyn Dorset,SkyFlakes,Snacks,3,10,30,GCash,Abu Dhabi,Englebert Beatens,TRUE,57,SNS,Regular,1:50 PM,Tuesday
+1128,07/11/2025,Hurleigh Oene,Century Tuna,Groceries,3,38,114,GCash,Bayt ‘Ur at Ta?ta,Meggy Walding,TRUE,137,SNS,Walk-In,9:19 AM,Friday
+1129,11/23/2025,Sonia De Few,Rice 1kg,Groceries,3,58,174,Cash,San Carlos,Robinette Damarell,FALSE,95,Walter,Walk-In,6:22 AM,Sunday
+1130,2/20/2026,Aleece Thorneloe,Hotdog Pack,Groceries,8,95,760,Cash,Watubuku,Alethea Davio,TRUE,177,SM,Regular,10:23 AM,Friday
+1131,9/13/2025,Robert Cottell,Eggs Dozen,Groceries,4,110,440,GCash,Woloara,Carolan Halmkin,FALSE,141,SM,Regular,7:20 AM,Saturday
+1132,3/22/2026,Nanete Indge,Yakult,Beverages,9,15,135,Maya,Tall Tamr,Deeanne Titcumb,TRUE,128,SNS,Regular,5:18 PM,Sunday
+1133,04/11/2026,Isabelle McRuvie,Milo Sachet,Beverages,8,12,96,Maya,Leonídio,Kathryne Erricker,TRUE,62,Savemore,Walk-In,6:33 AM,Saturday
+1134,12/27/2025,Constantina Klaessen,Tender Juicy Hotdog,Groceries,5,120,600,Maya,Nepomuceno,Marigold Klimshuk,TRUE,91,Savemore,Regular,8:16 PM,Saturday
+1135,10/19/2025,Ber MacDonell,Palmolive Shampoo,Personal Care,7,7,49,Cash,Rojas,Micki Cantle,TRUE,118,Savemore,Regular,1:15 AM,Sunday
+1136,12/28/2025,Lindi McKeever,Kopiko 78,Beverages,5,15,75,Cash,Lityn,Shawna Gutridge,FALSE,12,Walter,Regular,8:50 AM,Sunday
+1137,3/28/2026,Orin Sleeny,Mineral Water,Beverages,10,20,200,Cash,Granja do Tedo,Dasya Head,FALSE,170,Walter,Regular,9:08 AM,Saturday
+1138,2/19/2026,Felicity Kobieriecki,Oishi Prawn Crackers,Snacks,3,18,54,Maya,Xinming,Shirleen McQuillen,FALSE,11,SNS,Walk-In,5:58 AM,Thursday
+1139,05/07/2026,Filbert Dennerly,Corned Beef,Groceries,10,35,350,Cash,Marantao,Sallyanne Sleightholme,TRUE,43,SNS,Regular,10:02 AM,Thursday
+1140,09/03/2025,Colet Ghiraldi,Lucky Me Pancit Canton,Snacks,2,15,30,GCash,Pilaya,Imogen Pomphrey,TRUE,61,Savemore,Walk-In,6:52 PM,Wednesday
+1141,02/01/2026,Nessie Shapiro,Coca-Cola 1.5L,Beverages,1,72,72,Maya,Pajeksan,Maure Lamond,TRUE,186,Walter,Walk-In,2:13 PM,Sunday
+1142,4/14/2026,Gideon McManus,Piattos,Snacks,8,25,200,Cash,København,Ode Cawson,FALSE,126,SNS,Regular,9:08 AM,Tuesday
+1143,03/08/2026,Amy Crudginton,Bear Brand Milk,Beverages,3,18,54,Cash,Empório,Vail Fuggles,FALSE,120,SNS,Walk-In,5:25 AM,Sunday
+1144,02/09/2026,Layne Auton,Nescafe Sachet,Beverages,10,8,80,Cash,Xianyang,Tanitansy Pinches,TRUE,16,SM,Regular,7:44 PM,Monday
+1145,02/01/2026,Dee dee Radbourn,Surf Detergent,Personal Care,10,12,120,Maya,Cisantri,Portie O'Haire,TRUE,185,SNS,Regular,12:14 PM,Sunday
+1146,6/26/2025,Ferdinande Dible,Safeguard Soap,Personal Care,5,45,225,Maya,Kanada,Lari Dendon,FALSE,56,SM,Walk-In,9:17 PM,Thursday
+1147,04/02/2026,Zak Kevis,SkyFlakes,Snacks,2,10,20,Maya,Gómez,Con McKennan,TRUE,60,Savemore,Regular,2:56 AM,Thursday
+1148,06/03/2025,Amble Tatum,Century Tuna,Groceries,6,38,228,Cash,Bistrinci,Carly House,FALSE,25,SNS,Walk-In,9:21 AM,Tuesday
+1149,1/31/2026,Ruthann McIlheran,Rice 1kg,Groceries,6,58,348,GCash,Dingcheng,Danya Grills,TRUE,167,SM,Regular,3:54 AM,Saturday
+1150,10/06/2025,Brandea Frise,Hotdog Pack,Groceries,2,95,190,GCash,20 de Noviembre,Almeda Richens,FALSE,9,SM,Walk-In,4:36 AM,Monday
+1151,12/17/2025,Ysabel Dunsire,Eggs Dozen,Groceries,5,110,550,Maya,Limbuš,Carola Furphy,FALSE,68,Savemore,Regular,5:33 PM,Wednesday
+1152,12/27/2025,Denis Pelham,Yakult,Beverages,7,15,105,GCash,Elefsína,Leanora Oakenfall,FALSE,57,Savemore,Regular,12:58 PM,Saturday
+1153,6/18/2025,Edithe Sams,Milo Sachet,Beverages,8,12,96,GCash,Sambogunung,Niki Isard,FALSE,49,Savemore,Regular,3:27 AM,Wednesday
+1154,10/30/2025,Ashlie Tebboth,Tender Juicy Hotdog,Groceries,10,120,1200,Maya,Krajan,Bernard Tofanini,TRUE,4,Walter,Walk-In,10:24 AM,Thursday
+1155,05/02/2026,Terri Facchini,Palmolive Shampoo,Personal Care,9,7,63,Maya,Châlons-en-Champagne,Gustavus Kubicek,FALSE,184,Savemore,Regular,8:06 AM,Saturday
+1156,3/21/2026,Saxe Colliber,Kopiko 78,Beverages,10,15,150,Maya,Kozloduy,Augustine Leibold,FALSE,15,Walter,Walk-In,9:22 AM,Saturday
+1157,5/27/2025,Tod Playle,Mineral Water,Beverages,2,20,40,GCash,Santa Anita,Brooke Colbourn,TRUE,63,Walter,Regular,8:47 PM,Tuesday
+1158,10/29/2025,Stephenie Lonnon,Oishi Prawn Crackers,Snacks,5,18,90,GCash,Arys,Garold O'Growgane,TRUE,179,Savemore,Regular,10:18 AM,Wednesday
+1159,09/11/2025,Cort Collopy,Corned Beef,Groceries,1,35,35,Maya,Kowale,Neil Domeny,TRUE,127,SM,Regular,12:53 PM,Thursday
+1160,08/12/2025,Sunshine Conelly,Lucky Me Pancit Canton,Snacks,5,15,75,Cash,Nuyno,Cornelia Burgen,FALSE,80,Walter,Walk-In,6:51 AM,Tuesday
+1161,12/03/2025,Moll Deetlof,Coca-Cola 1.5L,Beverages,9,72,648,Cash,Tysmenytsya,Neddie Hanselmann,FALSE,112,Savemore,Regular,6:02 PM,Wednesday
+1162,11/12/2025,Nealon Cardall,Piattos,Snacks,4,25,100,Cash,Huiyi,Kathi Poutress,TRUE,96,SM,Walk-In,3:13 PM,Wednesday
+1163,10/17/2025,Lowell Livezley,Bear Brand Milk,Beverages,7,18,126,Cash,Yangzi,Gordy Boord,FALSE,75,SM,Regular,6:13 AM,Friday
+1164,5/22/2025,Gennie Eisikovitsh,Nescafe Sachet,Beverages,3,8,24,GCash,Helmas,Alister Aikett,FALSE,150,SNS,Regular,2:45 AM,Thursday
+1165,2/26/2026,Helga Reading,Surf Detergent,Personal Care,4,12,48,Maya,Kalat,Rikki McGilben,TRUE,19,Walter,Regular,11:43 PM,Thursday
+1166,2/27/2026,Mathe Scamwell,Safeguard Soap,Personal Care,1,45,45,Cash,Bandeirantes,Tomas Applin,FALSE,35,SNS,Walk-In,3:59 AM,Friday
+1167,07/08/2025,Annelise Dewitt,SkyFlakes,Snacks,4,10,40,Cash,Na Klang,Chevalier Tookill,FALSE,117,Walter,Regular,7:01 AM,Tuesday
+1168,8/15/2025,Helenka Iacopini,Century Tuna,Groceries,3,38,114,Maya,Ribeirinha,Alair Kirke,FALSE,141,Walter,Walk-In,1:22 PM,Friday
+1169,1/15/2026,Gelya Cheyenne,Rice 1kg,Groceries,7,58,406,Cash,Göteborg,Jeannine Gallimore,FALSE,79,Walter,Walk-In,11:45 PM,Thursday
+1170,01/02/2026,Siouxie Deinhardt,Hotdog Pack,Groceries,4,95,380,GCash,Batawa,Sybilla Filler,FALSE,40,SM,Walk-In,2:00 AM,Friday
+1171,11/04/2025,Hasty Rothman,Eggs Dozen,Groceries,10,110,1100,Maya,Sokarame,Rolf Dumphry,TRUE,87,SM,Regular,8:23 PM,Tuesday
+1172,09/10/2025,Theodoric Theobalds,Yakult,Beverages,5,15,75,Cash,Wakapuken,Hertha Maharry,TRUE,36,Savemore,Walk-In,4:17 PM,Wednesday
+1173,6/27/2025,Gwendolyn Havenhand,Milo Sachet,Beverages,6,12,72,Maya,Bang Rak,Zak Camis,TRUE,108,Walter,Regular,11:37 PM,Friday
+1174,8/21/2025,Finn Peirazzi,Tender Juicy Hotdog,Groceries,4,120,480,GCash,Herne,Farrell Diviney,FALSE,141,Walter,Regular,6:18 PM,Thursday
+1175,6/29/2025,Frederick Masding,Palmolive Shampoo,Personal Care,4,7,28,Maya,Skanör,Brenden Sarfas,TRUE,17,Savemore,Regular,9:15 AM,Sunday
+1176,11/05/2025,Lalo Kerswell,Kopiko 78,Beverages,3,15,45,Maya,Chengmagang,Sumner Bathersby,TRUE,178,SM,Walk-In,9:44 PM,Wednesday
+1177,05/06/2026,Ali Kisar,Mineral Water,Beverages,8,20,160,GCash,Saint Louis,Jonah Aveson,FALSE,101,SM,Walk-In,4:50 AM,Wednesday
+1178,10/20/2025,Veriee Peplaw,Oishi Prawn Crackers,Snacks,5,18,90,Cash,Tangzhuang,Shurwood Colgan,TRUE,177,Walter,Walk-In,12:25 PM,Monday
+1179,12/02/2025,Lilah Gummie,Corned Beef,Groceries,5,35,175,GCash,Montpellier,Di Brugger,TRUE,125,Walter,Walk-In,10:06 PM,Tuesday
+1180,09/08/2025,Edita Coleford,Lucky Me Pancit Canton,Snacks,3,15,45,Cash,Dondar Qusçu,Junette Roze,FALSE,135,Savemore,Walk-In,4:21 AM,Monday
+1181,10/08/2025,Dacy Scruby,Coca-Cola 1.5L,Beverages,10,72,720,Maya,Muzambinho,Caitrin McGillicuddy,FALSE,96,Savemore,Regular,9:06 PM,Wednesday
+1182,10/29/2025,Guthrey Rounds,Piattos,Snacks,7,25,175,GCash,Duitama,Brennen Lumsdaine,TRUE,109,Savemore,Walk-In,10:02 AM,Wednesday
+1183,2/26/2026,Land Youster,Bear Brand Milk,Beverages,9,18,162,GCash,Dazhou,Dulcy Ladbrook,TRUE,130,Walter,Regular,9:09 PM,Thursday
+1184,12/12/2025,Emma Alvaro,Nescafe Sachet,Beverages,4,8,32,GCash,Maubin,Gilli Van Daalen,FALSE,20,Walter,Walk-In,5:49 PM,Friday
+1185,7/23/2025,Kin Ashburner,Surf Detergent,Personal Care,3,12,36,Cash,Fosses,Nadia Cadagan,TRUE,8,SNS,Regular,3:45 PM,Wednesday
+1186,07/02/2025,Tandie Doylend,Safeguard Soap,Personal Care,8,45,360,Maya,Desakolot,Aileen Frowen,FALSE,167,Savemore,Regular,5:55 AM,Wednesday
+1187,8/24/2025,Ellsworth Pierri,SkyFlakes,Snacks,4,10,40,GCash,Fengshan,Papagena Parlott,FALSE,164,Savemore,Walk-In,5:35 PM,Sunday
+1188,10/11/2025,Cal Benting,Century Tuna,Groceries,8,38,304,Maya,Gaspar,Raquel Schumacher,TRUE,70,SM,Walk-In,6:01 PM,Saturday
+1189,10/06/2025,Cele Stack,Rice 1kg,Groceries,4,58,232,Cash,Paranaguá,Giustina Elmar,FALSE,27,Savemore,Regular,6:03 PM,Monday
+1190,2/17/2026,Sheffy Bringloe,Hotdog Pack,Groceries,9,95,855,Maya,Gyamco,Sal Fleetwood,TRUE,192,Savemore,Walk-In,5:47 AM,Tuesday
+1191,07/10/2025,Blisse Windle,Eggs Dozen,Groceries,9,110,990,Cash,Horodne,Edgardo Romero,FALSE,188,Savemore,Walk-In,9:57 AM,Thursday
+1192,01/07/2026,Rafi Ruprechter,Yakult,Beverages,6,15,90,Cash,Altenberg bei Linz,Prue Dorracott,TRUE,172,SNS,Regular,11:54 AM,Wednesday
+1193,5/30/2025,Daron Spurgeon,Milo Sachet,Beverages,2,12,24,GCash,Sedandang,Niki MacSorley,FALSE,89,SNS,Walk-In,11:35 PM,Friday
+1194,3/24/2026,Blondie Hew,Tender Juicy Hotdog,Groceries,4,120,480,Cash,Daba,Olive Vogelein,TRUE,168,Walter,Walk-In,11:16 PM,Tuesday
+1195,06/07/2025,Sherye McGenn,Palmolive Shampoo,Personal Care,3,7,21,Maya,Shangdundu,Erinna Vernon,TRUE,25,SNS,Regular,12:35 AM,Saturday
+1196,4/26/2026,Damaris Waring,Kopiko 78,Beverages,1,15,15,GCash,Tekikbanyuurip,Caro Lasty,TRUE,110,SNS,Walk-In,12:35 PM,Sunday
+1197,5/21/2025,Meade Outram,Mineral Water,Beverages,5,20,100,Cash,Debre Werk’,Lorilyn Hein,FALSE,196,Savemore,Walk-In,4:29 PM,Wednesday
+1198,09/10/2025,Kristal Chiplen,Oishi Prawn Crackers,Snacks,9,18,162,GCash,Huangnihe,Christina Cullimore,TRUE,62,Walter,Walk-In,1:57 AM,Wednesday
+1199,9/27/2025,Umberto Grinham,Corned Beef,Groceries,2,35,70,GCash,Uthal,Chico Whyte,FALSE,110,SNS,Walk-In,5:36 PM,Saturday
+1200,4/13/2026,Sheila Maisey,Lucky Me Pancit Canton,Snacks,6,15,90,Maya,Hrastnik,Lancelot Gilliland,TRUE,70,Savemore,Walk-In,7:02 AM,Monday
+1201,09/04/2025,Pierrette Wilbud,Coca-Cola 1.5L,Beverages,1,72,72,GCash,Horní Cermná,Arabella Tolle,FALSE,66,Walter,Walk-In,6:01 AM,Thursday
+1202,01/05/2026,Tobit Scholtz,Piattos,Snacks,4,25,100,GCash,Jiefang,Porty Batrip,TRUE,130,Walter,Walk-In,12:26 PM,Monday
+1203,03/07/2026,Daphene Isenor,Bear Brand Milk,Beverages,4,18,72,Cash,Mukacheve,Joice Flewitt,TRUE,61,SNS,Regular,8:10 PM,Saturday
+1204,10/28/2025,Stern Marney,Nescafe Sachet,Beverages,4,8,32,Maya,Amirdzhan,Maury Inggall,TRUE,30,Walter,Walk-In,12:00 AM,Tuesday
+1205,3/17/2026,Yorke Forkan,Surf Detergent,Personal Care,4,12,48,Cash,Wola Sernicka,Bernette Truce,TRUE,15,SNS,Regular,11:30 AM,Tuesday
+1206,2/24/2026,Munroe Traves,Safeguard Soap,Personal Care,9,45,405,GCash,Qalyub,Emmaline Cloake,FALSE,35,SNS,Walk-In,7:51 PM,Tuesday
+1207,11/08/2025,Murial Smail,SkyFlakes,Snacks,4,10,40,Maya,Virje,Iris Newland,FALSE,47,Walter,Regular,11:40 PM,Saturday
+1208,7/29/2025,Ardeen Gemmell,Century Tuna,Groceries,8,38,304,Maya,Biwer,Beltran Davall,TRUE,191,SM,Regular,6:30 AM,Tuesday
+1209,08/09/2025,Lizzie Harsnep,Rice 1kg,Groceries,9,58,522,Maya,Yovon,Sarah Bastiman,FALSE,183,Savemore,Regular,11:16 AM,Saturday
+1210,3/14/2026,Alicea Goozee,Hotdog Pack,Groceries,6,95,570,Cash,Ramon’,Basilius Swadlinge,FALSE,98,SM,Regular,10:14 AM,Saturday
+1211,5/14/2026,Scarface Causon,Eggs Dozen,Groceries,9,110,990,GCash,Proptisht,Marcellina Eberz,FALSE,150,Walter,Walk-In,4:17 AM,Thursday
+1212,02/06/2026,Welsh Lawless,Yakult,Beverages,3,15,45,Cash,Lefortovo,Lisetta Arp,TRUE,132,Walter,Regular,1:05 AM,Friday
+1213,08/11/2025,Britt Edmonston,Milo Sachet,Beverages,3,12,36,Cash,Datang,Consalve Slocket,TRUE,175,SM,Walk-In,7:15 AM,Monday
+1214,5/20/2025,Kynthia Dugood,Tender Juicy Hotdog,Groceries,4,120,480,Cash,Suileng,Wesley Gorstidge,TRUE,65,Walter,Walk-In,10:49 AM,Tuesday
+1215,11/11/2025,Brade Tarn,Palmolive Shampoo,Personal Care,5,7,35,GCash,Rokycany,Pippy Barta,FALSE,25,SM,Walk-In,11:49 PM,Tuesday
+1216,6/26/2025,Valeria Lottrington,Kopiko 78,Beverages,4,15,60,GCash,Pukekohe East,Niels Winspire,TRUE,151,SNS,Walk-In,2:06 PM,Thursday
+1217,11/20/2025,Tades Kornilov,Mineral Water,Beverages,6,20,120,Maya,Heishui,Karissa Vannacci,TRUE,110,SNS,Regular,2:10 AM,Thursday
+1218,1/13/2026,Charity Brocking,Oishi Prawn Crackers,Snacks,2,18,36,Cash,Pengshi,Leesa Dungay,TRUE,192,Savemore,Regular,3:15 PM,Tuesday
+1219,03/05/2026,Gabie Veneur,Corned Beef,Groceries,3,35,105,GCash,Jiangfeng,Aube Baldung,TRUE,71,SM,Regular,1:43 AM,Thursday
+1220,11/24/2025,Neel Faulo,Lucky Me Pancit Canton,Snacks,6,15,90,Cash,Xin’an,Mercie Bifield,FALSE,133,SM,Regular,3:30 PM,Monday
+1221,9/21/2025,Ivor Lowes,Coca-Cola 1.5L,Beverages,9,72,648,Maya,Svetogorsk,Timmy Orrah,FALSE,48,Savemore,Regular,5:26 AM,Sunday
+1222,04/06/2026,Richie Manchester,Piattos,Snacks,9,25,225,GCash,Santa Cruz del Quiché,Wyndham Shapland,TRUE,6,Walter,Walk-In,8:51 AM,Monday
+1223,11/07/2025,Marc Aizkovitch,Bear Brand Milk,Beverages,6,18,108,GCash,Karlskrona,Rhetta Dunning,FALSE,128,SNS,Walk-In,6:17 AM,Friday
+1224,04/03/2026,Justinian Sedgeworth,Nescafe Sachet,Beverages,6,8,48,GCash,Inuvik,Tersina Rawlison,FALSE,126,SM,Walk-In,4:02 AM,Friday
+1225,06/09/2025,Ben Naul,Surf Detergent,Personal Care,9,12,108,Maya,Catriló,Hervey Farrell,TRUE,197,SM,Walk-In,3:58 PM,Monday
+1226,09/06/2025,Callean Davidsen,Safeguard Soap,Personal Care,3,45,135,Cash,Petrivka,Geneva Gaytor,TRUE,112,Walter,Walk-In,8:51 PM,Saturday
+1227,03/01/2026,Theodore Golding,SkyFlakes,Snacks,5,10,50,Maya,Balyqshy,Elton Kinnin,FALSE,111,Walter,Regular,12:30 PM,Sunday
+1228,6/18/2025,Pru Checkley,Century Tuna,Groceries,1,38,38,Maya,Ngurenrejo,Josiah Fullom,TRUE,2,Walter,Walk-In,6:43 AM,Wednesday
+1229,11/26/2025,Carita Arguile,Rice 1kg,Groceries,3,58,174,Maya,Úštek,Tadd Laurand,FALSE,170,Walter,Walk-In,4:03 AM,Wednesday
+1230,8/27/2025,Jordain Gawen,Hotdog Pack,Groceries,6,95,570,Maya,Panggulan,Rheba Elvidge,TRUE,145,Walter,Regular,11:31 PM,Wednesday
+1231,10/14/2025,Alaine Alekhov,Eggs Dozen,Groceries,3,110,330,Cash,Buzdyak,Sosanna Caller,FALSE,152,Walter,Regular,3:24 AM,Tuesday
+1232,11/18/2025,Gery Devon,Yakult,Beverages,5,15,75,Maya,Makati City,Judd McKinlay,FALSE,144,SM,Regular,2:54 PM,Tuesday
+1233,10/02/2025,Felisha Currier,Milo Sachet,Beverages,3,12,36,GCash,Liushun,Wayne McCurtain,TRUE,1,Walter,Walk-In,4:01 PM,Thursday
+1234,1/28/2026,Emlynn Alessandrelli,Tender Juicy Hotdog,Groceries,5,120,600,Maya,Lubbock,Arel Greveson,FALSE,172,SNS,Walk-In,4:04 AM,Wednesday
+1235,10/11/2025,Quinton Tregenza,Palmolive Shampoo,Personal Care,7,7,49,Maya,Corujeira,Dulsea Fidler,FALSE,190,Savemore,Regular,10:49 AM,Saturday
+1236,11/01/2025,Des Widdall,Kopiko 78,Beverages,6,15,90,Maya,Dromiskin,Minne Brill,TRUE,29,Walter,Regular,7:35 PM,Saturday
+1237,2/27/2026,Nola Heck,Mineral Water,Beverages,7,20,140,Cash,Diaoluoshan,Reamonn Polglase,TRUE,108,SNS,Regular,3:16 AM,Friday
+1238,5/19/2025,Glenn Napolione,Oishi Prawn Crackers,Snacks,2,18,36,Maya,Rojas,Chevy Lanfer,FALSE,168,SNS,Walk-In,2:34 PM,Monday
+1239,5/31/2025,Teddi Eschelle,Corned Beef,Groceries,3,35,105,Cash,Foumbouni,Marlie Olivetta,TRUE,53,SM,Walk-In,7:24 AM,Saturday
+1240,3/21/2026,Symon Hutchens,Lucky Me Pancit Canton,Snacks,9,15,135,Cash,Kishkenekol’,Griff Vanichev,TRUE,200,Savemore,Regular,4:34 AM,Saturday
+1241,04/05/2026,Nixie Robathon,Coca-Cola 1.5L,Beverages,6,72,432,GCash,Kristiansand S,Launce Scutter,TRUE,127,SNS,Regular,9:09 AM,Sunday
+1242,1/18/2026,Mara Brandassi,Piattos,Snacks,1,25,25,Maya,Volgograd,Hale Crasford,TRUE,157,SM,Walk-In,5:15 PM,Sunday
+1243,10/27/2025,Traci McQuirter,Bear Brand Milk,Beverages,6,18,108,GCash,Mayfa‘ah,Violante Helbeck,FALSE,35,Savemore,Walk-In,6:31 AM,Monday
+1244,11/07/2025,Park Paulmann,Nescafe Sachet,Beverages,3,8,24,Cash,Prinza,Rossy Fingleton,TRUE,31,SM,Regular,1:41 AM,Friday
+1245,4/24/2026,Deina Chadburn,Surf Detergent,Personal Care,5,12,60,Maya,Kebonagung,Winslow MacCague,TRUE,184,Walter,Regular,5:50 AM,Friday
+1246,4/26/2026,Verena Gillino,Safeguard Soap,Personal Care,3,45,135,GCash,Xinji,Isabella Dissman,FALSE,4,Savemore,Walk-In,4:48 AM,Sunday
+1247,10/13/2025,Chen Cosgriff,SkyFlakes,Snacks,9,10,90,Maya,Szelków,Ophelie Pinkerton,FALSE,39,SM,Walk-In,3:17 AM,Monday
+1248,10/20/2025,Lelah Hunsworth,Century Tuna,Groceries,4,38,152,Maya,Molave,Yale Clemetts,TRUE,109,Walter,Walk-In,11:11 PM,Monday
+1249,5/26/2025,Gabey Wilcocks,Rice 1kg,Groceries,1,58,58,Cash,Brak,Worthy Potapczuk,FALSE,150,SM,Walk-In,7:13 AM,Monday
+1250,03/07/2026,Piotr Gallelli,Hotdog Pack,Groceries,2,95,190,GCash,Ramat Yishay,Gibby Stendell,FALSE,154,Walter,Walk-In,3:56 AM,Saturday
+1251,10/22/2025,Sheri Ginnell,Eggs Dozen,Groceries,9,110,990,GCash,Nam Can,Demetrius Mettericke,FALSE,17,SM,Walk-In,8:20 AM,Wednesday
+1252,6/16/2025,Mozelle Scotchmoor,Yakult,Beverages,10,15,150,Cash,Luhans’ke,Demetra Ovendale,TRUE,16,Walter,Regular,11:23 AM,Monday
+1253,03/09/2026,Ara Whannel,Milo Sachet,Beverages,2,12,24,Cash,Mat-i,Dame Marciskewski,TRUE,160,SNS,Walk-In,8:29 PM,Monday
+1254,6/19/2025,Miller Yerson,Tender Juicy Hotdog,Groceries,6,120,720,GCash,Dashi,Nananne Saddleton,TRUE,76,Walter,Walk-In,12:25 AM,Thursday
+1255,12/01/2025,Cortney Plaice,Palmolive Shampoo,Personal Care,6,7,42,GCash,Ketawang,Burton Treend,FALSE,142,Walter,Regular,11:12 AM,Monday
+1256,12/08/2025,Priscilla Adelman,Kopiko 78,Beverages,7,15,105,Cash,Hofors,Maggee Cowl,FALSE,101,SNS,Walk-In,1:21 AM,Monday
+1257,6/17/2025,Gabriellia Marnes,Mineral Water,Beverages,9,20,180,Maya,Ust-Kamenogorsk,Kai Koppen,FALSE,0,SNS,Regular,3:28 PM,Tuesday
+1258,1/29/2026,Leticia Huscroft,Oishi Prawn Crackers,Snacks,3,18,54,Maya,Pustomyty,Martin Probey,FALSE,12,SM,Walk-In,3:51 PM,Thursday
+1259,5/15/2025,Leyla Haining,Corned Beef,Groceries,9,35,315,Maya,Nikolayevsk,Dulcia Blanchard,TRUE,131,Walter,Regular,9:56 AM,Thursday
+1260,05/12/2026,Simone Benka,Lucky Me Pancit Canton,Snacks,3,15,45,GCash,Moroni,Ricard Danilchenko,FALSE,172,Savemore,Walk-In,5:27 AM,Tuesday
+1261,1/28/2026,Kippie Hasard,Coca-Cola 1.5L,Beverages,7,72,504,Cash,Lampitak,Nanon Musprat,FALSE,114,Walter,Regular,5:30 AM,Wednesday
+1262,9/25/2025,Lilllie Scholl,Piattos,Snacks,1,25,25,Cash,Menzel Jemil,Tana Dykins,FALSE,87,SM,Walk-In,10:11 PM,Thursday
+1263,08/05/2025,Tracey Toll,Bear Brand Milk,Beverages,6,18,108,Cash,Dazhou,Gabriello Hyman,TRUE,199,Savemore,Regular,8:52 PM,Tuesday
+1264,03/03/2026,Sven Northfield,Nescafe Sachet,Beverages,2,8,16,Cash,São Cristóvão,Madalena Daber,FALSE,71,Savemore,Walk-In,4:40 AM,Tuesday
+1265,05/01/2026,Lorne Rimbault,Surf Detergent,Personal Care,9,12,108,GCash,Ganyi,Delilah O'Sesnane,TRUE,162,Savemore,Walk-In,6:38 PM,Friday
+1266,10/08/2025,Lyon Goodoune,Safeguard Soap,Personal Care,8,45,360,GCash,Zhaowu,Prudi Petrillo,FALSE,145,SNS,Regular,5:54 PM,Wednesday
+1267,05/05/2026,Bentlee Grose,SkyFlakes,Snacks,5,10,50,Maya,London,Tova Robroe,FALSE,82,SNS,Walk-In,4:34 AM,Tuesday
+1268,5/15/2025,Elli Heelis,Century Tuna,Groceries,6,38,228,GCash,Xuancheng,Teddy Ivimey,FALSE,191,SNS,Regular,2:40 PM,Thursday
+1269,3/15/2026,Frankie Sayburn,Rice 1kg,Groceries,9,58,522,Maya,Jianshe,Honoria Duny,FALSE,0,Walter,Walk-In,4:01 AM,Sunday
+1270,09/05/2025,Randall Stirland,Hotdog Pack,Groceries,5,95,475,Cash,Arazane,Vasily MacShane,TRUE,192,SM,Regular,3:56 PM,Friday
+1271,4/20/2026,Stephi Tschirasche,Eggs Dozen,Groceries,8,110,880,Maya,Balucawi,Oralia Patridge,FALSE,32,Savemore,Walk-In,4:41 AM,Monday
+1272,2/17/2026,Doreen McCoy,Yakult,Beverages,4,15,60,GCash,Paris 08,Coreen Ricardo,FALSE,44,Savemore,Walk-In,10:02 AM,Tuesday
+1273,12/02/2025,Dehlia Peedell,Milo Sachet,Beverages,8,12,96,GCash,Piteå,Valentine Bosenworth,FALSE,105,SM,Walk-In,12:11 PM,Tuesday
+1274,02/05/2026,Rebekkah Billison,Tender Juicy Hotdog,Groceries,10,120,1200,GCash,Mahaplag,Noellyn Colquite,TRUE,136,Savemore,Walk-In,1:12 AM,Thursday
+1275,5/26/2025,Karlis Tocque,Palmolive Shampoo,Personal Care,2,7,14,Cash,Boniewo,Sidonia Wilber,FALSE,40,Savemore,Walk-In,8:28 AM,Monday
+1276,8/29/2025,Bertha Gallo,Kopiko 78,Beverages,6,15,90,Maya,Staraya Kulatka,Benita Hardiker,FALSE,52,SM,Walk-In,12:06 AM,Friday
+1277,01/10/2026,Curtice Fante,Mineral Water,Beverages,8,20,160,GCash,Coripata,Dee Vinden,FALSE,155,SNS,Walk-In,9:47 AM,Saturday
+1278,2/24/2026,Diego Durdy,Oishi Prawn Crackers,Snacks,8,18,144,GCash,Semirara,Reynolds Blofield,FALSE,73,Walter,Regular,4:31 PM,Tuesday
+1279,08/01/2025,Alaine Wykey,Corned Beef,Groceries,8,35,280,GCash,Strasbourg,Raffaello Abernethy,FALSE,183,SM,Regular,8:35 PM,Friday
+1280,6/30/2025,Phillis Perillio,Lucky Me Pancit Canton,Snacks,2,15,30,GCash,Lakhdenpokh’ya,Blythe Vail,FALSE,187,SM,Regular,8:22 AM,Monday
+1281,11/01/2025,Isaiah Kabos,Coca-Cola 1.5L,Beverages,4,72,288,GCash,Bettendorf,Melanie Oxlee,TRUE,59,SNS,Regular,9:21 AM,Saturday
+1282,12/29/2025,Aviva Blight,Piattos,Snacks,4,25,100,GCash,San Lorenzo,Diann Storr,TRUE,182,SM,Regular,9:06 PM,Monday
+1283,4/20/2026,Alonso Weymouth,Bear Brand Milk,Beverages,4,18,72,GCash,Piteå,Yanaton Skettles,TRUE,66,Walter,Walk-In,11:11 PM,Monday
+1284,11/12/2025,Brande Foulstone,Nescafe Sachet,Beverages,10,8,80,Cash,Limenária,Dwain Guiot,FALSE,187,SM,Walk-In,3:11 PM,Wednesday
+1285,11/27/2025,Gilli Jeromson,Surf Detergent,Personal Care,1,12,12,GCash,Dallas,Francene Veazey,TRUE,84,Walter,Regular,9:24 PM,Thursday
+1286,04/08/2026,Ester Ramsay,Safeguard Soap,Personal Care,8,45,360,Cash,Helsingborg,Meg McNicol,FALSE,128,Walter,Walk-In,9:20 AM,Wednesday
+1287,1/22/2026,Derron Alberts,SkyFlakes,Snacks,8,10,80,GCash,Anping,Henrik Pochon,TRUE,10,Walter,Regular,2:49 AM,Thursday
+1288,10/28/2025,Noelle Kerwood,Century Tuna,Groceries,3,38,114,Maya,Prostki,Irv Lassetter,TRUE,109,SM,Regular,11:26 AM,Tuesday
+1289,5/21/2025,Arman Raddenbury,Rice 1kg,Groceries,2,58,116,Maya,Tumu’ertai,Greta Addis,FALSE,16,SM,Walk-In,7:13 PM,Wednesday
+1290,08/03/2025,Charmine Poulden,Hotdog Pack,Groceries,9,95,855,GCash,Zlotniki Kujawskie,Elsy Cropp,FALSE,137,Savemore,Walk-In,10:05 PM,Sunday
+1291,8/13/2025,Jessika Harding,Eggs Dozen,Groceries,7,110,770,Maya,Outeiro,Conny Conklin,TRUE,113,Savemore,Regular,2:18 AM,Wednesday
+1292,2/20/2026,Carey Pauly,Yakult,Beverages,1,15,15,GCash,Kakegawa,Didi Dutchburn,TRUE,110,Savemore,Walk-In,12:34 AM,Friday
+1293,10/22/2025,Darline Marrian,Milo Sachet,Beverages,1,12,12,GCash,Zhongshan Donglu,Carena Cino,TRUE,73,SNS,Walk-In,9:46 AM,Wednesday
+1294,12/02/2025,Roch Roark,Tender Juicy Hotdog,Groceries,7,120,840,Maya,Syntul,Fabio Brittin,TRUE,72,SM,Regular,2:41 PM,Tuesday
+1295,07/06/2025,Meredith Bawle,Palmolive Shampoo,Personal Care,6,7,42,Maya,Bilaran,Nonnah Benedidick,FALSE,128,SNS,Regular,5:10 PM,Sunday
+1296,2/23/2026,Phedra Bazely,Kopiko 78,Beverages,7,15,105,Cash,Sovetakan,Modesty Lawly,TRUE,63,SM,Walk-In,11:18 AM,Monday
+1297,6/17/2025,Faunie Vescovo,Mineral Water,Beverages,7,20,140,Cash,Caucaguita,Saraann Gillbe,TRUE,189,Walter,Walk-In,1:16 AM,Tuesday
+1298,8/16/2025,Carola Bettanay,Oishi Prawn Crackers,Snacks,6,18,108,GCash,Yong’an,Bernhard Rickets,TRUE,53,Savemore,Walk-In,11:32 AM,Saturday
+1299,9/21/2025,Marjie Presman,Corned Beef,Groceries,7,35,245,Maya,Nijmegen,Reena Rorke,TRUE,198,Walter,Regular,3:37 PM,Sunday
+1300,9/19/2025,Britte Marns,Lucky Me Pancit Canton,Snacks,5,15,75,Cash,Ticaco,Daryn Kirsopp,TRUE,154,Savemore,Regular,9:21 AM,Friday
+1301,7/22/2025,Eran Satchell,Coca-Cola 1.5L,Beverages,3,72,216,Cash,Yatunpu,Carolus Pack,TRUE,139,SNS,Regular,12:33 PM,Tuesday
+1302,08/04/2025,Jessy Rookesby,Piattos,Snacks,4,25,100,GCash,Steblevë,Aubrette Pitbladdo,FALSE,186,Savemore,Regular,1:07 AM,Monday
+1303,9/27/2025,Skippy De Ferraris,Bear Brand Milk,Beverages,9,18,162,GCash,Shiyun,Leonid Rebillard,FALSE,123,Walter,Walk-In,2:27 PM,Saturday
+1304,7/30/2025,Dalston Vevers,Nescafe Sachet,Beverages,3,8,24,GCash,Kaédi,Cody Vasnev,TRUE,90,SNS,Regular,6:25 PM,Wednesday
+1305,2/22/2026,Haslett Reightley,Surf Detergent,Personal Care,10,12,120,Cash,Sródmiescie,Reynold Giametti,FALSE,137,Walter,Regular,6:42 PM,Sunday
+1306,4/17/2026,Eb Samms,Safeguard Soap,Personal Care,10,45,450,Maya,Layo,Madel Kaasmann,FALSE,118,SNS,Regular,6:37 AM,Friday
+1307,01/02/2026,Ade Yukhnevich,SkyFlakes,Snacks,5,10,50,Cash,Diez de Octubre,Kenneth McKechnie,TRUE,73,Savemore,Regular,10:53 PM,Friday
+1308,2/18/2026,Patricio Brannigan,Century Tuna,Groceries,8,38,304,Cash,Ipoh,Edd Cocozza,FALSE,88,SM,Regular,11:23 PM,Wednesday
+1309,09/07/2025,Bette Giffaut,Rice 1kg,Groceries,9,58,522,GCash,Kairouan,Meta Lafuente,TRUE,3,SM,Walk-In,12:04 PM,Sunday
+1310,1/20/2026,Lorianne Gardner,Hotdog Pack,Groceries,3,95,285,Cash,Dinjo,Madge Deinhard,TRUE,95,Walter,Regular,6:17 AM,Tuesday
+1311,7/22/2025,Franchot Filipson,Eggs Dozen,Groceries,6,110,660,Cash,Santiago,Tamra Hardwich,FALSE,161,SNS,Walk-In,8:39 AM,Tuesday
+1312,03/04/2026,Goldy Stych,Yakult,Beverages,5,15,75,Maya,Boissy-Saint-Léger,Pearla Peppin,TRUE,112,Savemore,Walk-In,10:22 PM,Wednesday
+1313,11/04/2025,Katrina Esser,Milo Sachet,Beverages,8,12,96,Maya,Parakanpanjang,Josi Fippe,FALSE,156,Walter,Walk-In,3:41 PM,Tuesday
+1314,05/03/2026,Cecelia Nelson,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Newport,Charlot Birtle,TRUE,95,Walter,Regular,1:51 AM,Sunday
+1315,12/29/2025,Ciel Hurley,Palmolive Shampoo,Personal Care,2,7,14,GCash,Caotang,Tadd Tustin,TRUE,40,Savemore,Walk-In,4:42 AM,Monday
+1316,8/15/2025,Kissie Growden,Kopiko 78,Beverages,1,15,15,GCash,Lüfeng,Lucita Gorick,TRUE,181,SNS,Regular,3:15 PM,Friday
+1317,5/13/2026,Bank Berg,Mineral Water,Beverages,5,20,100,GCash,Bromma,Vin Ord,TRUE,128,SM,Regular,10:34 AM,Wednesday
+1318,6/30/2025,Bill Salmoni,Oishi Prawn Crackers,Snacks,5,18,90,GCash,Barta‘ah ash Sharqiyah,Florinda Breeze,TRUE,27,Walter,Regular,8:28 PM,Monday
+1319,7/26/2025,Jard Farndell,Corned Beef,Groceries,7,35,245,GCash,Rudniki,Gualterio Havenhand,FALSE,26,SNS,Regular,5:01 AM,Saturday
+1320,08/09/2025,Katharine Kunzel,Lucky Me Pancit Canton,Snacks,10,15,150,GCash,Engel’-Yurt,Lexis Onslow,FALSE,97,Savemore,Walk-In,4:53 AM,Saturday
+1321,2/21/2026,Zach Towll,Coca-Cola 1.5L,Beverages,2,72,144,Maya,Nong Muang Khai,Diandra Langthorne,TRUE,174,SNS,Walk-In,12:25 PM,Saturday
+1322,05/10/2026,Robinet Nulty,Piattos,Snacks,8,25,200,Cash,Ndago,Ramsay Miller,FALSE,116,SM,Regular,8:05 AM,Sunday
+1323,2/18/2026,Toma Linnard,Bear Brand Milk,Beverages,4,18,72,Cash,Sagaing,Florida Radloff,FALSE,48,Walter,Walk-In,9:15 AM,Wednesday
+1324,2/25/2026,Jordan Beston,Nescafe Sachet,Beverages,4,8,32,GCash,Tubod,Ned Reeman,TRUE,68,SNS,Walk-In,4:20 PM,Wednesday
+1325,1/17/2026,Jennie Rominov,Surf Detergent,Personal Care,9,12,108,Cash,Pinheiro Machado,Nedi Hugill,TRUE,54,SNS,Regular,3:39 PM,Saturday
+1326,04/08/2026,Drucy Manoch,Safeguard Soap,Personal Care,7,45,315,Maya,Tshaneni,Cary Stollenbeck,FALSE,54,SM,Regular,2:07 PM,Wednesday
+1327,12/03/2025,Conrado Essery,SkyFlakes,Snacks,5,10,50,GCash,Kout na Šumave,Erwin Sains,TRUE,182,SNS,Walk-In,6:48 PM,Wednesday
+1328,05/12/2026,Kit Wixon,Century Tuna,Groceries,6,38,228,Maya,Smach Mean Chey,Hazel Waterfield,TRUE,36,Savemore,Walk-In,8:43 AM,Tuesday
+1329,11/19/2025,Portia Eskrick,Rice 1kg,Groceries,2,58,116,GCash,Linghu,Stacey Shaul,FALSE,99,Walter,Walk-In,4:48 AM,Wednesday
+1330,4/20/2026,Bernarr Webborn,Hotdog Pack,Groceries,2,95,190,Cash,Cikuya,Tara Westberg,TRUE,51,SNS,Walk-In,7:50 AM,Monday
+1331,03/05/2026,Julietta Piecha,Eggs Dozen,Groceries,2,110,220,GCash,Liboran,Brunhilda Deniset,FALSE,39,SNS,Walk-In,4:41 AM,Thursday
+1332,06/12/2025,Hortensia Stainson,Yakult,Beverages,4,15,60,GCash,Dokolo,Sibeal Spiller,FALSE,34,SM,Walk-In,1:32 AM,Thursday
+1333,1/19/2026,Chic Frany,Milo Sachet,Beverages,9,12,108,GCash,Kekeran,Guenevere Emmer,TRUE,139,SM,Walk-In,2:28 AM,Monday
+1334,8/28/2025,Ruddie Yakutin,Tender Juicy Hotdog,Groceries,7,120,840,GCash,Zuénoula,Yank Winwright,TRUE,127,Savemore,Walk-In,5:16 AM,Thursday
+1335,11/22/2025,Etta Titman,Palmolive Shampoo,Personal Care,8,7,56,Maya,Littleton,Claybourne Goosnell,FALSE,142,Walter,Walk-In,4:07 AM,Saturday
+1336,07/02/2025,Miguelita Pearn,Kopiko 78,Beverages,10,15,150,GCash,Bantar,Reed Vairow,TRUE,175,SM,Walk-In,1:03 AM,Wednesday
+1337,2/24/2026,Chadd Skellorne,Mineral Water,Beverages,7,20,140,GCash,Pallanchacra,Dorita Sanchis,FALSE,17,Savemore,Regular,8:29 PM,Tuesday
+1338,4/28/2026,Indira Wharton,Oishi Prawn Crackers,Snacks,2,18,36,GCash,Fort Worth,Whitby Puve,TRUE,199,Walter,Walk-In,6:50 AM,Tuesday
+1339,1/31/2026,Joelly Hursey,Corned Beef,Groceries,7,35,245,Cash,Boyeros,Arden Sappson,FALSE,151,SM,Walk-In,1:59 PM,Saturday
+1340,9/13/2025,Waverly Baldazzi,Lucky Me Pancit Canton,Snacks,10,15,150,GCash,Bzou,Rae Negal,TRUE,20,Walter,Regular,11:29 PM,Saturday
+1341,02/08/2026,Ynez Keesman,Coca-Cola 1.5L,Beverages,5,72,360,Maya,Trelleborg,Betteanne Abramsky,TRUE,49,SNS,Regular,10:36 AM,Sunday
+1342,07/06/2025,Martica Ten Broek,Piattos,Snacks,9,25,225,Cash,Adrasmon,Erin Odcroft,FALSE,95,SNS,Regular,8:23 PM,Sunday
+1343,4/17/2026,Timi Philbrick,Bear Brand Milk,Beverages,7,18,126,GCash,Anjo,Gaby Ianittello,TRUE,130,Savemore,Walk-In,8:58 PM,Friday
+1344,9/16/2025,Karoly Brokenbrow,Nescafe Sachet,Beverages,8,8,64,Cash,Tubarjal,Flo Lampert,TRUE,174,Savemore,Regular,4:56 AM,Tuesday
+1345,11/24/2025,Michail Pavlovsky,Surf Detergent,Personal Care,4,12,48,Cash,Laranjal Paulista,Crin Burne,TRUE,56,SM,Regular,4:37 PM,Monday
+1346,3/13/2026,Adria Sweet,Safeguard Soap,Personal Care,7,45,315,Cash,Kabul,Donnie Jacobbe,TRUE,94,Savemore,Regular,1:27 AM,Friday
+1347,12/23/2025,Berget Craister,SkyFlakes,Snacks,10,10,100,Cash,Cipeundeuy,Joann Arington,FALSE,103,Walter,Regular,10:29 PM,Tuesday
+1348,08/05/2025,Jarrod Zecchini,Century Tuna,Groceries,2,38,76,Cash,Marialva,Devlin Speck,TRUE,161,Walter,Walk-In,3:12 PM,Tuesday
+1349,6/27/2025,Chilton Mewhirter,Rice 1kg,Groceries,8,58,464,GCash,Aqqan,Rachele Vardey,TRUE,180,Walter,Walk-In,10:10 PM,Friday
+1350,4/16/2026,Roarke Brusby,Hotdog Pack,Groceries,9,95,855,GCash,Ilici,Laverna Keast,FALSE,52,SM,Regular,1:47 AM,Thursday
+1351,11/03/2025,Analiese MacCurtain,Eggs Dozen,Groceries,10,110,1100,GCash,Coyaima,Kristofor Blumsom,TRUE,90,Walter,Walk-In,7:11 AM,Monday
+1352,7/13/2025,Shirley Arlidge,Yakult,Beverages,8,15,120,GCash,Jinluo,Casandra Snedden,TRUE,105,Walter,Regular,1:16 AM,Sunday
+1353,1/22/2026,Catlee Pigott,Milo Sachet,Beverages,2,12,24,Cash,Jaguarari,Cookie Lackner,FALSE,45,Savemore,Regular,5:13 AM,Thursday
+1354,8/14/2025,Keane Mulvagh,Tender Juicy Hotdog,Groceries,10,120,1200,GCash,Huangbayi,Maddie Carren,TRUE,69,SM,Regular,12:11 AM,Thursday
+1355,9/16/2025,Aubrie Gowen,Palmolive Shampoo,Personal Care,1,7,7,Maya,Andongsari,Rick Cran,FALSE,105,Savemore,Regular,6:49 AM,Tuesday
+1356,11/06/2025,Saunder Noad,Kopiko 78,Beverages,6,15,90,Maya,Wushi,Randene Pulster,TRUE,200,SM,Regular,4:06 PM,Thursday
+1357,2/27/2026,Pansy McElane,Mineral Water,Beverages,10,20,200,Maya,Lagoa do Itaenga,Stacy Schriren,FALSE,124,Savemore,Walk-In,12:05 AM,Friday
+1358,10/10/2025,Caril Balaison,Oishi Prawn Crackers,Snacks,1,18,18,GCash,Ketangi,Mile Deare,TRUE,159,Savemore,Walk-In,2:37 AM,Friday
+1359,2/14/2026,Rosalinde Mateos,Corned Beef,Groceries,4,35,140,Cash,Pilaya,Mollie Nangle,TRUE,156,Walter,Walk-In,9:17 PM,Saturday
+1360,3/23/2026,Mischa Sloyan,Lucky Me Pancit Canton,Snacks,7,15,105,Maya,San Luis,Rhiamon Pirazzi,FALSE,95,Walter,Regular,2:09 AM,Monday
+1361,9/23/2025,Cathlene Jerke,Coca-Cola 1.5L,Beverages,4,72,288,Cash,Kamwenge,Kirsteni Sharphurst,FALSE,99,Savemore,Walk-In,5:46 PM,Tuesday
+1362,10/20/2025,Andras Cloughton,Piattos,Snacks,3,25,75,Maya,Corpus Christi,Ingemar Brellin,FALSE,122,SNS,Regular,6:26 AM,Monday
+1363,11/15/2025,Laverna Formby,Bear Brand Milk,Beverages,4,18,72,GCash,Zhangbang,Lurline Bunhill,TRUE,179,SNS,Walk-In,8:55 PM,Saturday
+1364,10/26/2025,Mickie Roiz,Nescafe Sachet,Beverages,5,8,40,GCash,Vacov,Sterling Keighley,FALSE,46,SM,Walk-In,4:47 PM,Sunday
+1365,10/14/2025,Theodora Emmett,Surf Detergent,Personal Care,3,12,36,Cash,Zagreb,Faythe Otterwell,TRUE,107,SNS,Regular,9:55 AM,Tuesday
+1366,1/14/2026,Jorge Poundsford,Safeguard Soap,Personal Care,6,45,270,Cash,Metsavan,Poppy Rae,TRUE,101,Savemore,Regular,4:32 AM,Wednesday
+1367,01/12/2026,Wheeler Thackston,SkyFlakes,Snacks,5,10,50,Maya,Shakiso,Linnell Casbon,TRUE,59,Savemore,Walk-In,6:38 AM,Monday
+1368,7/20/2025,Margret Summerbell,Century Tuna,Groceries,10,38,380,Maya,San Jose,Roda MacElholm,FALSE,146,Walter,Regular,4:32 PM,Sunday
+1369,01/05/2026,Odele Vanyatin,Rice 1kg,Groceries,3,58,174,GCash,Wete,Dominique Molson,FALSE,72,Savemore,Regular,7:09 PM,Monday
+1370,1/14/2026,Sheff Ungerer,Hotdog Pack,Groceries,7,95,665,GCash,Faruka,Shelby Gaylard,TRUE,118,SM,Regular,6:52 PM,Wednesday
+1371,04/08/2026,Korry Jentin,Eggs Dozen,Groceries,10,110,1100,Cash,Citambal,Levi Bravington,TRUE,136,Savemore,Walk-In,5:56 PM,Wednesday
+1372,8/25/2025,Arlin Hallor,Yakult,Beverages,4,15,60,GCash,Huerta Grande,Britt Jewes,TRUE,107,SM,Regular,5:35 AM,Monday
+1373,8/15/2025,Cass Bafford,Milo Sachet,Beverages,4,12,48,GCash,Zhicheng,Electra Franscioni,FALSE,52,Walter,Regular,2:39 AM,Friday
+1374,02/11/2026,Cris O'Cannavan,Tender Juicy Hotdog,Groceries,6,120,720,GCash,Blinsung,Luelle Paffitt,FALSE,189,SM,Walk-In,8:55 AM,Wednesday
+1375,3/27/2026,Allina Feathers,Palmolive Shampoo,Personal Care,8,7,56,Maya,Banjarbaru,Chariot Limprecht,TRUE,14,SM,Regular,12:51 PM,Friday
+1376,4/13/2026,Sadye Roome,Kopiko 78,Beverages,6,15,90,Cash,Neftegorsk,Benjie Ateridge,TRUE,57,Walter,Regular,4:37 PM,Monday
+1377,2/23/2026,Clayborn Haith,Mineral Water,Beverages,3,20,60,GCash,Lyubashivka,Rowland Storrock,TRUE,135,SNS,Walk-In,1:23 AM,Monday
+1378,9/17/2025,Faunie Mingardi,Oishi Prawn Crackers,Snacks,5,18,90,GCash,Fangzheng,Ramsay Skeels,FALSE,174,SNS,Regular,2:28 PM,Wednesday
+1379,06/07/2025,Marianne Wellington,Corned Beef,Groceries,2,35,70,Maya,Cuauhtemoc,Gardner Larkin,FALSE,65,Savemore,Regular,3:54 AM,Saturday
+1380,7/20/2025,Valle Bracegirdle,Lucky Me Pancit Canton,Snacks,1,15,15,GCash,Scinawa,Gladys Lawty,TRUE,40,Savemore,Walk-In,2:50 AM,Sunday
+1381,8/23/2025,Holden Heinrich,Coca-Cola 1.5L,Beverages,10,72,720,Maya,Al Jarra?i,Dale Wicken,TRUE,149,SNS,Regular,8:07 PM,Saturday
+1382,11/25/2025,Tye Lightwood,Piattos,Snacks,1,25,25,Cash,Jinxiang,Elwood Arnhold,TRUE,92,SNS,Walk-In,4:04 PM,Tuesday
+1383,10/29/2025,Merla Manville,Bear Brand Milk,Beverages,5,18,90,GCash,Pueblo Nuevo,Maynord Thurnham,TRUE,132,SM,Regular,6:38 PM,Wednesday
+1384,12/07/2025,Filia Gammie,Nescafe Sachet,Beverages,7,8,56,Cash,Aigínio,Mack Scinelli,FALSE,109,SM,Walk-In,2:55 AM,Sunday
+1385,1/22/2026,Bettye Daysh,Surf Detergent,Personal Care,8,12,96,Cash,Hamberang Sabrang,Wilow Machel,FALSE,154,SM,Walk-In,5:35 PM,Thursday
+1386,07/08/2025,Conchita Mohun,Safeguard Soap,Personal Care,9,45,405,Maya,Babakansari,Hewe Vittori,TRUE,90,SM,Regular,12:30 PM,Tuesday
+1387,5/14/2026,Tallie Frie,SkyFlakes,Snacks,9,10,90,Cash,Francisco I Madero,Nappie Tunnicliffe,TRUE,124,Walter,Regular,7:17 PM,Thursday
+1388,8/19/2025,Elenore Raoul,Century Tuna,Groceries,3,38,114,GCash,Changxingbao,Niels Reskelly,FALSE,169,Savemore,Regular,7:34 PM,Tuesday
+1389,12/21/2025,Fredrick Ainsby,Rice 1kg,Groceries,3,58,174,Maya,Dimitrovgrad,Agna Lowrey,FALSE,192,Walter,Walk-In,3:35 PM,Sunday
+1390,6/17/2025,Yolande Brellin,Hotdog Pack,Groceries,5,95,475,GCash,Ciervo Petiso,Onofredo Drinkel,FALSE,195,Walter,Regular,2:42 PM,Tuesday
+1391,1/23/2026,Tildie Doggart,Eggs Dozen,Groceries,9,110,990,Cash,Xijiao,Jacky Tille,TRUE,126,Savemore,Walk-In,2:55 PM,Friday
+1392,04/03/2026,Arturo Leaf,Yakult,Beverages,6,15,90,Maya,Telgawah,Ninnette Martino,FALSE,43,Walter,Regular,10:40 AM,Friday
+1393,05/07/2026,Kyrstin Buer,Milo Sachet,Beverages,1,12,12,Cash,Gafargaon,Shela Marshallsay,FALSE,81,SM,Regular,8:22 AM,Thursday
+1394,08/08/2025,Ingar Vaud,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Sumbergayam,Clarisse Bottell,FALSE,172,Savemore,Walk-In,10:33 AM,Friday
+1395,5/16/2025,Gasper Antcliff,Palmolive Shampoo,Personal Care,10,7,70,Cash,Xin’an,Lin Chalcot,FALSE,168,SM,Walk-In,4:40 PM,Friday
+1396,8/20/2025,Harris Greenhough,Kopiko 78,Beverages,5,15,75,Cash,Chiang Khan,Mark Beinisch,TRUE,124,SM,Regular,6:00 AM,Wednesday
+1397,10/14/2025,Diane-marie Barke,Mineral Water,Beverages,8,20,160,Maya,Huangcun,Hollyanne By,TRUE,149,SNS,Regular,3:31 PM,Tuesday
+1398,07/04/2025,Creight Maulin,Oishi Prawn Crackers,Snacks,7,18,126,Maya,Ngluwuk,Fiann Gercken,TRUE,4,Savemore,Regular,11:33 PM,Friday
+1399,9/30/2025,Bernadina Cherrie,Corned Beef,Groceries,8,35,280,Maya,Kalapagenep,Mahala Downing,FALSE,47,Walter,Walk-In,11:45 AM,Tuesday
+1400,12/11/2025,Lorin Turfs,Lucky Me Pancit Canton,Snacks,3,15,45,GCash,Duli,Robbi Costellow,TRUE,90,SM,Regular,4:31 AM,Thursday
+1401,11/19/2025,Fredi Dumbar,Coca-Cola 1.5L,Beverages,1,72,72,Maya,Cikiwul Satu,Daniella Leneham,TRUE,108,Walter,Walk-In,1:56 AM,Wednesday
+1402,07/07/2025,Anita Hatter,Piattos,Snacks,4,25,100,Cash,Želiv,Hannis Easterby,FALSE,25,SNS,Regular,9:02 PM,Monday
+1403,12/09/2025,Kipp Wakeford,Bear Brand Milk,Beverages,9,18,162,GCash,Krajan,Waldon Waterhouse,TRUE,50,SNS,Walk-In,7:31 AM,Tuesday
+1404,7/29/2025,Elisabeth Thompsett,Nescafe Sachet,Beverages,10,8,80,GCash,Lokea,Jermaine Bicker,TRUE,196,Savemore,Regular,9:18 PM,Tuesday
+1405,5/23/2025,Arri Sneddon,Surf Detergent,Personal Care,4,12,48,Maya,Aquidauana,Britte Breadmore,TRUE,39,SNS,Walk-In,12:36 AM,Friday
+1406,9/26/2025,Joseito Wearden,Safeguard Soap,Personal Care,10,45,450,GCash,San Antonio Ilotenango,Merle Surmeir,FALSE,47,SNS,Regular,3:18 PM,Friday
+1407,7/14/2025,Lurlene Stork,SkyFlakes,Snacks,1,10,10,Cash,Shidu,Etta Gipp,TRUE,77,Savemore,Regular,7:41 PM,Monday
+1408,11/15/2025,Juanita Impson,Century Tuna,Groceries,8,38,304,Cash,Seixezelo,Ardra Forlong,FALSE,114,Walter,Regular,10:12 AM,Saturday
+1409,2/22/2026,Carmon Leppington,Rice 1kg,Groceries,2,58,116,Cash,Soweto,Ivan Ferrieri,TRUE,90,Savemore,Walk-In,3:15 AM,Sunday
+1410,12/06/2025,Fergus Atlee,Hotdog Pack,Groceries,10,95,950,Cash,Makoba,Sabra Thorrold,TRUE,86,Walter,Regular,9:20 AM,Saturday
+1411,1/30/2026,Franchot Mackriell,Eggs Dozen,Groceries,1,110,110,GCash,Kungsör,Hastings Kira,FALSE,158,SNS,Regular,12:03 AM,Friday
+1412,10/14/2025,Derril Mellsop,Yakult,Beverages,5,15,75,Maya,Richmond,Edy Meredith,FALSE,86,Walter,Regular,6:34 AM,Tuesday
+1413,2/17/2026,Jasmin Botten,Milo Sachet,Beverages,1,12,12,GCash,Makueni,Lana Shelmerdine,TRUE,57,Savemore,Walk-In,1:50 PM,Tuesday
+1414,12/18/2025,Waverly Trimbey,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Birni N Konni,Karlik Tabart,TRUE,48,Walter,Regular,9:20 AM,Thursday
+1415,3/25/2026,Melodee Lawlings,Palmolive Shampoo,Personal Care,2,7,14,GCash,Soltanabad,Catrina Grunwald,TRUE,152,SM,Walk-In,1:28 PM,Wednesday
+1416,8/30/2025,Dame Eltune,Kopiko 78,Beverages,1,15,15,Maya,Douane,Hermina Rothermel,FALSE,193,Savemore,Regular,11:18 AM,Saturday
+1417,01/02/2026,Katharine Karslake,Mineral Water,Beverages,10,20,200,Maya,Novoshakhtinsk,Carmella Slogrove,FALSE,33,Walter,Walk-In,8:43 AM,Friday
+1418,7/21/2025,Cinnamon Belone,Oishi Prawn Crackers,Snacks,7,18,126,GCash,Charlotte,Zelig Wadesworth,FALSE,76,SM,Regular,7:30 AM,Monday
+1419,8/25/2025,Wilfrid Oldmeadow,Corned Beef,Groceries,5,35,175,GCash,Nanterre,Bobbye Feldfisher,TRUE,72,Walter,Regular,4:34 PM,Monday
+1420,08/04/2025,Briney Mantram,Lucky Me Pancit Canton,Snacks,5,15,75,Cash,Cherëmushki,Stefan McLorinan,TRUE,194,Savemore,Walk-In,2:41 AM,Monday
+1421,10/13/2025,Yetty MacKessock,Coca-Cola 1.5L,Beverages,2,72,144,Maya,Évreux,Aliza MacAscaidh,FALSE,19,SM,Walk-In,9:22 PM,Monday
+1422,11/06/2025,Cass Kipling,Piattos,Snacks,1,25,25,Maya,Kristiansand S,Fabien Maydway,TRUE,107,SNS,Regular,10:53 AM,Thursday
+1423,6/27/2025,Yvor Beneyto,Bear Brand Milk,Beverages,4,18,72,Cash,Ibagué,Chicky Ramard,TRUE,27,Savemore,Walk-In,8:21 AM,Friday
+1424,4/30/2026,Jill Taffie,Nescafe Sachet,Beverages,3,8,24,Cash,Bicos,Catharina Christall,FALSE,5,SNS,Walk-In,7:17 AM,Thursday
+1425,3/17/2026,Peyter Feron,Surf Detergent,Personal Care,1,12,12,Maya,Taphan Hin,Barbi Dumpleton,TRUE,137,SM,Walk-In,3:04 AM,Tuesday
+1426,6/28/2025,Biddy Hagard,Safeguard Soap,Personal Care,10,45,450,GCash,Boavista,Mellie Kirkebye,TRUE,81,Savemore,Regular,1:38 PM,Saturday
+1427,01/01/2026,Dion Robottham,SkyFlakes,Snacks,7,10,70,Cash,Kobuleti,Hester Dewer,FALSE,156,SNS,Regular,12:58 PM,Thursday
+1428,5/31/2025,Lynnell Aldred,Century Tuna,Groceries,10,38,380,Maya,Tayturka,Artemus Cheer,TRUE,43,Walter,Walk-In,8:53 AM,Saturday
+1429,11/09/2025,Chloris Shellshear,Rice 1kg,Groceries,9,58,522,Maya,General Lavalle,Giffer Allewell,FALSE,146,Walter,Walk-In,1:49 PM,Sunday
+1430,3/26/2026,Hermy Lys,Hotdog Pack,Groceries,5,95,475,GCash,Haunubenak,Teodorico Laker,FALSE,5,SM,Walk-In,9:23 PM,Thursday
+1431,12/20/2025,Camala Fergie,Eggs Dozen,Groceries,10,110,1100,GCash,Villeurbanne,Matthiew Linger,FALSE,91,SM,Regular,3:33 AM,Saturday
+1432,06/10/2025,Terry Le - Count,Yakult,Beverages,9,15,135,Cash,Frýdlant,Ignace Maytum,TRUE,4,Savemore,Regular,1:28 PM,Tuesday
+1433,6/24/2025,Chris Verrechia,Milo Sachet,Beverages,3,12,36,Maya,Huashi,Annora Peris,FALSE,28,SM,Regular,5:09 PM,Tuesday
+1434,7/21/2025,Joycelin Phette,Tender Juicy Hotdog,Groceries,10,120,1200,Maya,Komprachcice,Berkley Treadwell,FALSE,30,SNS,Regular,1:40 PM,Monday
+1435,1/29/2026,Gerhardt Barnewell,Palmolive Shampoo,Personal Care,7,7,49,Maya,Toulouse,Dagmar Justham,TRUE,133,Walter,Walk-In,10:06 PM,Thursday
+1436,7/25/2025,Verge Gress,Kopiko 78,Beverages,4,15,60,Cash,Tongjiaxi,Leigha Andrieux,TRUE,172,Savemore,Walk-In,1:56 PM,Friday
+1437,06/04/2025,Roy Hellmore,Mineral Water,Beverages,7,20,140,GCash,Longsheng,Modestine McGorley,FALSE,80,SNS,Regular,6:26 PM,Wednesday
+1438,8/27/2025,Gwendolyn Strain,Oishi Prawn Crackers,Snacks,8,18,144,Maya,Dougang,Percival Fritz,TRUE,92,Walter,Regular,8:56 AM,Wednesday
+1439,8/18/2025,Lynnette Ingyon,Corned Beef,Groceries,4,35,140,GCash,Fangqiang,Dallis Worcs,FALSE,173,Walter,Regular,11:59 AM,Monday
+1440,8/18/2025,Adrianna Lafond,Lucky Me Pancit Canton,Snacks,2,15,30,GCash,Lubniewice,Karrie Beaulieu,TRUE,82,SNS,Regular,2:54 PM,Monday
+1441,11/13/2025,Tomasine Fredi,Coca-Cola 1.5L,Beverages,4,72,288,Maya,Xinglin,Corrie Ludwikiewicz,FALSE,69,Walter,Walk-In,8:16 PM,Thursday
+1442,01/10/2026,Ware Moyer,Piattos,Snacks,5,25,125,GCash,Watuagung,Jacklin Pearcy,FALSE,88,SM,Regular,11:33 PM,Saturday
+1443,08/10/2025,Humfrid Roskeilly,Bear Brand Milk,Beverages,2,18,36,Maya,Xinjie,Yorgo Jolliss,TRUE,175,SM,Regular,10:13 PM,Sunday
+1444,07/05/2025,Holly Brend,Nescafe Sachet,Beverages,8,8,64,Maya,Nizhniy Chir,Kaleb Fell,FALSE,51,Walter,Regular,2:23 AM,Saturday
+1445,12/23/2025,Joellyn Seeking,Surf Detergent,Personal Care,1,12,12,Maya,Uva,Johnathon Elton,TRUE,145,Walter,Regular,6:46 PM,Tuesday
+1446,2/16/2026,Seka Salerno,Safeguard Soap,Personal Care,1,45,45,Cash,Indulang,Vivyan Warlaw,TRUE,165,Walter,Walk-In,11:13 AM,Monday
+1447,1/16/2026,Cookie Shortt,SkyFlakes,Snacks,4,10,40,GCash,Washington,Hope Titta,FALSE,99,SM,Walk-In,10:56 PM,Friday
+1448,10/18/2025,Teodoor Gregore,Century Tuna,Groceries,6,38,228,Cash,Xinjiang,Beverlie Najara,FALSE,89,Walter,Regular,9:44 AM,Saturday
+1449,08/04/2025,Madelin Bowen,Rice 1kg,Groceries,5,58,290,GCash,Chlewiska,Rubie Moakes,TRUE,136,Walter,Regular,11:18 AM,Monday
+1450,06/03/2025,Sheffie Clampett,Hotdog Pack,Groceries,1,95,95,GCash,Clermont-Ferrand,Jacklin McCahey,FALSE,109,Walter,Regular,2:59 PM,Tuesday
+1451,7/29/2025,Mandy Woolstenholmes,Eggs Dozen,Groceries,4,110,440,Maya,Paris 14,Tamra Medforth,TRUE,115,SNS,Regular,1:38 PM,Tuesday
+1452,02/01/2026,Jorey Wrintmore,Yakult,Beverages,6,15,90,GCash,Barguzin,Kearney Kenney,TRUE,30,SM,Walk-In,1:32 AM,Sunday
+1453,3/16/2026,Morton Nayer,Milo Sachet,Beverages,4,12,48,GCash,Chengnan,Beaufort Kearney,TRUE,142,Walter,Walk-In,6:26 AM,Monday
+1454,9/21/2025,Ax Wrathall,Tender Juicy Hotdog,Groceries,9,120,1080,Cash,Granja,Skelly Postlethwaite,TRUE,0,Savemore,Regular,9:37 AM,Sunday
+1455,04/08/2026,Ferne McGaugie,Palmolive Shampoo,Personal Care,5,7,35,Cash,Narew,Lorenzo Fishbourne,FALSE,118,SNS,Regular,1:26 PM,Wednesday
+1456,08/01/2025,Noel Lionel,Kopiko 78,Beverages,6,15,90,Cash,Weiguo,Jory Langman,TRUE,200,SNS,Regular,5:14 AM,Friday
+1457,09/06/2025,Uri Skinley,Mineral Water,Beverages,6,20,120,Cash,Delvinë,Cleon McClancy,FALSE,7,SM,Regular,1:54 PM,Saturday
+1458,2/26/2026,Malcolm Kellert,Oishi Prawn Crackers,Snacks,5,18,90,GCash,Noveleta,Reinhold Ganning,TRUE,93,SNS,Regular,6:53 AM,Thursday
+1459,5/31/2025,Amabelle Stallard,Corned Beef,Groceries,7,35,245,Cash,Verkhn’odniprovs’k,Darb Braben,FALSE,36,SNS,Regular,5:38 AM,Saturday
+1460,12/07/2025,Ailene Rodson,Lucky Me Pancit Canton,Snacks,8,15,120,Maya,Fuman,Brandy Best,TRUE,107,SNS,Walk-In,6:27 AM,Sunday
+1461,3/31/2026,Cathie Queyos,Coca-Cola 1.5L,Beverages,7,72,504,GCash,Takayama,Fanni Cullum,TRUE,111,Savemore,Walk-In,9:15 AM,Tuesday
+1462,11/14/2025,Magdalene Friedank,Piattos,Snacks,9,25,225,Cash,Muyaka,Robinett Read,FALSE,9,Savemore,Walk-In,12:47 AM,Friday
+1463,02/01/2026,Freddie Snewin,Bear Brand Milk,Beverages,9,18,162,GCash,Gorichevo,Dora Haimes,FALSE,147,SM,Regular,8:17 PM,Sunday
+1464,1/26/2026,Andie Franssen,Nescafe Sachet,Beverages,1,8,8,Cash,Al Majaridah,Lynnea Izard,FALSE,117,Savemore,Walk-In,1:56 PM,Monday
+1465,01/12/2026,Raul Burchfield,Surf Detergent,Personal Care,9,12,108,Cash,Tengah,Ladonna Aylesbury,FALSE,84,SM,Regular,11:10 PM,Monday
+1466,3/14/2026,Bab Pittoli,Safeguard Soap,Personal Care,8,45,360,GCash,Kimry,Lonnie Cottis,FALSE,48,Walter,Walk-In,9:51 AM,Saturday
+1467,1/27/2026,Ashly McCurdy,SkyFlakes,Snacks,1,10,10,GCash,Combita,Georgeanna Penrose,TRUE,62,SNS,Walk-In,1:10 PM,Tuesday
+1468,11/19/2025,Candida Dudden,Century Tuna,Groceries,8,38,304,GCash,Svislach,Christiana Massie,TRUE,195,Savemore,Walk-In,7:48 AM,Wednesday
+1469,09/03/2025,Damiano Abrahamson,Rice 1kg,Groceries,8,58,464,Maya,Xinmin,Gladi Ropp,TRUE,14,SM,Walk-In,7:28 AM,Wednesday
+1470,09/06/2025,Kristy Coggell,Hotdog Pack,Groceries,10,95,950,GCash,Sukumo,Davie Trowsdale,TRUE,194,SM,Walk-In,3:23 AM,Saturday
+1471,12/08/2025,Jonell Fermin,Eggs Dozen,Groceries,5,110,550,GCash,Al Qamsiyah,Kailey McDermott-Row,FALSE,39,SM,Walk-In,5:18 AM,Monday
+1472,07/05/2025,Angelle Littlejohn,Yakult,Beverages,5,15,75,Cash,Mosrentgen,Bride O'Brien,TRUE,164,SM,Regular,2:09 AM,Saturday
+1473,4/24/2026,Kimball Gouny,Milo Sachet,Beverages,5,12,60,Maya,Jinggongqiao,Ingemar Jordin,FALSE,153,SM,Regular,8:28 PM,Friday
+1474,8/13/2025,Rae Nockles,Tender Juicy Hotdog,Groceries,3,120,360,Maya,Vardenik,Micheal Gregon,TRUE,179,Walter,Regular,11:01 AM,Wednesday
+1475,11/06/2025,Cash Goffe,Palmolive Shampoo,Personal Care,10,7,70,GCash,Jinanten,Herby Howman,TRUE,192,SM,Walk-In,10:02 AM,Thursday
+1476,5/27/2025,Neely Seaman,Kopiko 78,Beverages,4,15,60,GCash,Cama Juan,Emmy Leverage,FALSE,148,Savemore,Walk-In,10:55 PM,Tuesday
+1477,11/01/2025,Stormy Crean,Mineral Water,Beverages,10,20,200,Cash,Tiling,Jourdain McTrustam,TRUE,90,Walter,Regular,8:27 AM,Saturday
+1478,10/04/2025,Duky Myderscough,Oishi Prawn Crackers,Snacks,3,18,54,Maya,Almendra,Gloriana Kidman,TRUE,175,Savemore,Regular,5:00 PM,Saturday
+1479,02/06/2026,Vincenz Trood,Corned Beef,Groceries,1,35,35,GCash,Pagedangan,Pearl Sanbrooke,FALSE,183,SNS,Walk-In,2:00 AM,Friday
+1480,07/05/2025,Carmelita Cuddon,Lucky Me Pancit Canton,Snacks,7,15,105,Maya,Khulo,Analiese McGruar,TRUE,24,SM,Regular,5:41 PM,Saturday
+1481,10/11/2025,Heywood Moylan,Coca-Cola 1.5L,Beverages,6,72,432,GCash,Vincennes,Yorgo Moro,TRUE,21,SM,Walk-In,4:12 AM,Saturday
+1482,11/06/2025,Carlina Fonso,Piattos,Snacks,1,25,25,Cash,Agía Foteiní,Buffy Twigger,FALSE,91,Walter,Walk-In,1:33 PM,Thursday
+1483,11/26/2025,Aurilia Garvin,Bear Brand Milk,Beverages,2,18,36,Cash,Jinglou,Alisha Leech,TRUE,18,SNS,Walk-In,1:57 PM,Wednesday
+1484,5/17/2025,Merrilee Desseine,Nescafe Sachet,Beverages,4,8,32,Cash,Ejidal,Lila Eckly,TRUE,159,SM,Regular,3:27 PM,Saturday
+1485,9/26/2025,Laurianne Dukelow,Surf Detergent,Personal Care,9,12,108,GCash,Yvetot,Shelba Jeanneau,FALSE,197,Savemore,Walk-In,4:49 PM,Friday
+1486,12/11/2025,Juliette Sanchiz,Safeguard Soap,Personal Care,8,45,360,GCash,Wirodayan,Nancy Thirtle,FALSE,138,SM,Regular,11:59 AM,Thursday
+1487,2/16/2026,Georgi McClymont,SkyFlakes,Snacks,9,10,90,Maya,Kaset Wisai,Ulrikaumeko Macknish,TRUE,99,Savemore,Regular,1:07 PM,Monday
+1488,05/03/2026,Neilla Chidwick,Century Tuna,Groceries,3,38,114,Cash,Pio Duran,Priscella Knappen,TRUE,51,SNS,Walk-In,11:18 PM,Sunday
+1489,4/18/2026,Guss Cesaric,Rice 1kg,Groceries,9,58,522,Maya,Terneuzen,Neville Allsobrook,FALSE,50,Walter,Walk-In,7:11 AM,Saturday
+1490,9/22/2025,Lisha Heams,Hotdog Pack,Groceries,7,95,665,GCash,Razan,Lotti Hellyer,TRUE,96,Walter,Regular,12:54 AM,Monday
+1491,05/10/2026,Jory Wallentin,Eggs Dozen,Groceries,4,110,440,GCash,Dayr as Sudan,Davine Carriage,TRUE,139,Savemore,Regular,6:17 AM,Sunday
+1492,9/27/2025,Connor Duffitt,Yakult,Beverages,4,15,60,Cash,Sondo,Terrijo Tidcomb,TRUE,30,Walter,Walk-In,9:21 AM,Saturday
+1493,08/10/2025,Eziechiele Jouhandeau,Milo Sachet,Beverages,5,12,60,Maya,Albi,Alard Egginson,TRUE,44,SM,Regular,8:59 PM,Sunday
+1494,10/25/2025,Blair Strodder,Tender Juicy Hotdog,Groceries,4,120,480,Cash,Jorowaru Daya,Franz Bromell,FALSE,128,SNS,Regular,3:37 AM,Saturday
+1495,8/30/2025,Maggy Halse,Palmolive Shampoo,Personal Care,9,7,63,Maya,Arari,Ethelbert Penwell,FALSE,1,SM,Walk-In,4:13 AM,Saturday
+1496,08/12/2025,Selby Yeardsley,Kopiko 78,Beverages,7,15,105,Maya,Utarapasar,Ludwig Cuttles,FALSE,171,SM,Regular,8:54 PM,Tuesday
+1497,07/01/2025,Alyda Campe,Mineral Water,Beverages,8,20,160,Maya,Luwingu,Appolonia Gregorio,FALSE,122,Walter,Regular,6:58 AM,Tuesday
+1498,08/01/2025,Tally Redish,Oishi Prawn Crackers,Snacks,1,18,18,Cash,Capalayan,Darla Bontoft,FALSE,108,SNS,Walk-In,9:14 AM,Friday
+1499,12/22/2025,Zitella Jepensen,Corned Beef,Groceries,6,35,210,Cash,Tapon,Chickie Sleeman,FALSE,36,Walter,Regular,9:06 PM,Monday
+1500,2/24/2026,Vonni Conkling,Lucky Me Pancit Canton,Snacks,10,15,150,GCash,Jisegumen,Zaria Wearden,TRUE,9,Walter,Regular,5:58 PM,Tuesday
+1501,4/21/2026,Reggi Kintzel,Coca-Cola 1.5L,Beverages,3,72,216,Cash,Knoxville,Dominique Girton,FALSE,28,SNS,Regular,7:01 PM,Tuesday
+1502,12/15/2025,Carry Lattin,Piattos,Snacks,3,25,75,Cash,New-Richmond,Bondon Hollier,TRUE,8,Walter,Walk-In,11:19 AM,Monday
+1503,10/29/2025,Gaylor Cuddehy,Bear Brand Milk,Beverages,4,18,72,Maya,Tanamiting,Karin Windus,TRUE,193,Walter,Regular,6:29 AM,Wednesday
+1504,8/23/2025,Neel Jubb,Nescafe Sachet,Beverages,10,8,80,GCash,Mingfeng,Rosette Roarty,TRUE,182,SM,Regular,11:53 PM,Saturday
+1505,10/14/2025,Faina Seeman,Surf Detergent,Personal Care,2,12,24,Maya,Talanga,Vladimir MacMenamy,TRUE,48,SNS,Walk-In,7:42 AM,Tuesday
+1506,11/03/2025,Boonie Frere,Safeguard Soap,Personal Care,3,45,135,Cash,Puksoozero,Nat Cake,TRUE,157,SM,Walk-In,8:48 PM,Monday
+1507,1/22/2026,Delinda Clementet,SkyFlakes,Snacks,9,10,90,Cash,Peshtera,Hana Couper,FALSE,141,SNS,Regular,5:22 AM,Thursday
+1508,3/13/2026,Griffin MacEveley,Century Tuna,Groceries,6,38,228,Cash,Kafachan,Killy Symons,TRUE,6,Walter,Regular,2:29 AM,Friday
+1509,5/28/2025,Manda Worden,Rice 1kg,Groceries,10,58,580,GCash,Touba,Ty Paladino,FALSE,15,Walter,Walk-In,5:05 AM,Wednesday
+1510,04/09/2026,Mal Hacksby,Hotdog Pack,Groceries,5,95,475,Cash,Balun,Chuck Bows,FALSE,178,SNS,Regular,7:00 AM,Thursday
+1511,1/26/2026,Kenon Nafziger,Eggs Dozen,Groceries,8,110,880,Maya,Gravatá,Cecilio Dorot,FALSE,107,Savemore,Walk-In,11:52 AM,Monday
+1512,01/07/2026,Lenard Dillamore,Yakult,Beverages,3,15,45,Cash,San Remigio,Lindsy Osman,TRUE,160,Savemore,Regular,3:51 AM,Wednesday
+1513,4/28/2026,De witt Birdis,Milo Sachet,Beverages,9,12,108,GCash,Dagushan,Craggy Skokoe,FALSE,63,Walter,Regular,1:53 PM,Tuesday
+1514,06/12/2025,Bertie Sibbet,Tender Juicy Hotdog,Groceries,1,120,120,Cash,Tarnowskie Góry,Abbie Colwell,TRUE,41,Walter,Regular,10:13 AM,Thursday
+1515,05/06/2026,Shanan Alday,Palmolive Shampoo,Personal Care,9,7,63,Maya,København,Cristie Benford,FALSE,141,SM,Walk-In,2:57 AM,Wednesday
+1516,06/12/2025,Gleda MacCleay,Kopiko 78,Beverages,10,15,150,Cash,São Luís do Quitunde,Valina Philipsson,FALSE,24,SM,Regular,9:59 AM,Thursday
+1517,1/14/2026,Jervis Father,Mineral Water,Beverages,2,20,40,Cash,Barão de Cocais,Wynne O'Longain,TRUE,151,SNS,Walk-In,1:30 PM,Wednesday
+1518,1/22/2026,Neville Marchenko,Oishi Prawn Crackers,Snacks,1,18,18,Cash,Baqim as Suq,Batsheva Mauvin,TRUE,77,Walter,Walk-In,3:51 PM,Thursday
+1519,11/17/2025,Hilario Cregan,Corned Beef,Groceries,9,35,315,Maya,High Point,Corabella Rengger,TRUE,132,SM,Walk-In,9:28 PM,Monday
+1520,02/05/2026,Ganny Curror,Lucky Me Pancit Canton,Snacks,6,15,90,Cash,Suponevo,Abigael Griffiths,TRUE,193,SM,Walk-In,2:39 PM,Thursday
+1521,12/10/2025,Philippine Wherton,Coca-Cola 1.5L,Beverages,5,72,360,Maya,Kanggye-si,Randi Candlin,FALSE,7,Walter,Regular,12:51 PM,Wednesday
+1522,6/29/2025,Horten Philipson,Piattos,Snacks,5,25,125,GCash,Raciazek,Codie Colliford,FALSE,154,Walter,Regular,4:32 PM,Sunday
+1523,4/28/2026,Mable Milmoe,Bear Brand Milk,Beverages,7,18,126,Maya,Mishixiang,Wynne Clemmen,FALSE,94,SNS,Regular,8:27 AM,Tuesday
+1524,3/14/2026,Viviana Leverington,Nescafe Sachet,Beverages,4,8,32,Cash,Anjia,Bourke Bearn,TRUE,71,Savemore,Walk-In,7:31 PM,Saturday
+1525,12/19/2025,Noellyn Kintzel,Surf Detergent,Personal Care,6,12,72,Cash,Dundbürd,Northrup Mirams,FALSE,69,Walter,Walk-In,1:40 PM,Friday
+1526,05/11/2026,Kirbee Benford,Safeguard Soap,Personal Care,4,45,180,Cash,Starigrad,Odessa Esgate,FALSE,65,SNS,Regular,5:28 AM,Monday
+1527,04/12/2026,Silvester Gallimore,SkyFlakes,Snacks,9,10,90,Cash,Maintirano,Sharla Spraging,TRUE,176,SNS,Walk-In,11:42 AM,Sunday
+1528,2/28/2026,Patty Areles,Century Tuna,Groceries,3,38,114,Maya,Dalgan,Ferdinande Benning,FALSE,188,SM,Walk-In,5:54 AM,Saturday
+1529,8/29/2025,Angus Lessmare,Rice 1kg,Groceries,4,58,232,Cash,Marseille,Ronalda Louth,TRUE,57,Walter,Regular,4:21 AM,Friday
+1530,2/16/2026,Deanne Tardiff,Hotdog Pack,Groceries,7,95,665,Maya,Kafr Kanna,Sherline Feitosa,FALSE,12,SNS,Walk-In,6:39 AM,Monday
+1531,08/06/2025,Quintana Callacher,Eggs Dozen,Groceries,3,110,330,Maya,New-Richmond,Kania Annandale,FALSE,175,Walter,Regular,1:10 PM,Wednesday
+1532,08/07/2025,Sonny Filewood,Yakult,Beverages,6,15,90,Cash,Nürnberg,Krysta Dutt,FALSE,195,SM,Regular,11:41 AM,Thursday
+1533,3/29/2026,Isa Aggs,Milo Sachet,Beverages,3,12,36,Maya,Orimattila,Antoine Shucksmith,TRUE,168,SNS,Walk-In,1:20 AM,Sunday
+1534,1/14/2026,Barny Beetles,Tender Juicy Hotdog,Groceries,3,120,360,Maya,Santulhão,Mahala Winscomb,FALSE,157,Savemore,Regular,4:08 PM,Wednesday
+1535,01/08/2026,Auria Bilton,Palmolive Shampoo,Personal Care,2,7,14,Maya,Huangdao,Meryl Harbour,TRUE,130,SM,Regular,3:21 PM,Thursday
+1536,9/23/2025,Allie Polgreen,Kopiko 78,Beverages,5,15,75,Cash,Kamennogorsk,Cammy Welsby,TRUE,154,SM,Regular,3:07 AM,Tuesday
+1537,04/05/2026,Emelen Kermitt,Mineral Water,Beverages,4,20,80,GCash,Piskivka,Claire Finnie,FALSE,179,Savemore,Regular,2:09 AM,Sunday
+1538,05/08/2026,Amie Skells,Oishi Prawn Crackers,Snacks,4,18,72,Maya,Mancagahar,Salomon Dulson,TRUE,18,SM,Walk-In,7:29 AM,Friday
+1539,05/10/2026,Carlynn Sautter,Corned Beef,Groceries,8,35,280,GCash,Devesa,Oralla Thackham,FALSE,113,SNS,Regular,5:13 AM,Sunday
+1540,10/14/2025,Bamby Skeldinge,Lucky Me Pancit Canton,Snacks,9,15,135,Maya,Enrekang,Robinia Goncaves,FALSE,8,Savemore,Walk-In,2:10 AM,Tuesday
+1541,3/30/2026,Harli Petasch,Coca-Cola 1.5L,Beverages,3,72,216,Cash,Stobrec,Cirilo Edy,FALSE,155,Savemore,Walk-In,11:23 AM,Monday
+1542,05/07/2026,Gloriana Holt,Piattos,Snacks,4,25,100,GCash,Onueke,Meade Gagan,FALSE,108,SM,Regular,12:14 AM,Thursday
+1543,10/05/2025,Henrie Crass,Bear Brand Milk,Beverages,3,18,54,GCash,Sibiti,Nikki Presman,TRUE,19,SNS,Walk-In,2:30 AM,Sunday
+1544,3/18/2026,Melita Cumbers,Nescafe Sachet,Beverages,3,8,24,Cash,Všenory,Brigg Amsberger,TRUE,81,SNS,Walk-In,9:39 PM,Wednesday
+1545,5/21/2025,Janine McAllister,Surf Detergent,Personal Care,9,12,108,Maya,Wucheng,Tobin Cartman,TRUE,160,SNS,Walk-In,2:51 PM,Wednesday
+1546,11/27/2025,Phylys Blue,Safeguard Soap,Personal Care,3,45,135,Cash,Al Jamimah,Jordan Rigglesford,FALSE,99,SM,Walk-In,1:22 AM,Thursday
+1547,3/16/2026,Patsy Fransoni,SkyFlakes,Snacks,3,10,30,Cash,Lillehammer,Raquel Flaunier,TRUE,161,Walter,Walk-In,11:56 AM,Monday
+1548,09/11/2025,Melamie Faldo,Century Tuna,Groceries,7,38,266,Maya,Juren,Andy Chable,FALSE,83,SNS,Walk-In,1:48 PM,Thursday
+1549,08/12/2025,Sandro Hengoed,Rice 1kg,Groceries,7,58,406,Cash,Belén,Gregory MacMeekan,TRUE,152,Walter,Walk-In,6:41 AM,Tuesday
+1550,11/18/2025,Alejandro Vautrey,Hotdog Pack,Groceries,10,95,950,Cash,Bonak,Derrik Labarre,TRUE,123,SM,Walk-In,11:43 PM,Tuesday
+1551,11/14/2025,Randell McConnel,Eggs Dozen,Groceries,10,110,1100,Cash,Sulo,Warde Matis,FALSE,183,Walter,Regular,4:42 PM,Friday
+1552,3/15/2026,Trstram Giriardelli,Yakult,Beverages,1,15,15,GCash,Alvalade,Niven Hymans,FALSE,120,SNS,Regular,9:48 PM,Sunday
+1553,11/20/2025,Tim Defew,Milo Sachet,Beverages,1,12,12,GCash,Woro,Josee Havesides,TRUE,78,Walter,Walk-In,8:37 AM,Thursday
+1554,06/06/2025,Lilias Dodamead,Tender Juicy Hotdog,Groceries,6,120,720,Cash,João Alfredo,Karolina Stammirs,TRUE,33,Savemore,Regular,3:10 AM,Friday
+1555,12/10/2025,Elsinore Thirst,Palmolive Shampoo,Personal Care,6,7,42,Cash,Pamotan,Olivia Houseman,FALSE,192,Savemore,Regular,7:56 PM,Wednesday
+1556,3/21/2026,Gennifer Benettelli,Kopiko 78,Beverages,8,15,120,Maya,Devitsa,Eadmund Lantuff,TRUE,149,Savemore,Walk-In,7:20 AM,Saturday
+1557,10/18/2025,Maximo Lassey,Mineral Water,Beverages,1,20,20,Cash,Bayangol,Darya Goodhand,FALSE,192,Savemore,Walk-In,11:08 PM,Saturday
+1558,6/14/2025,Robinet Pryde,Oishi Prawn Crackers,Snacks,9,18,162,GCash,Jinshanzui,Tessa Hayworth,FALSE,122,Walter,Walk-In,2:43 PM,Saturday
+1559,3/31/2026,Corbet Fullerd,Corned Beef,Groceries,2,35,70,Maya,Patabog,Meaghan Manjot,TRUE,20,SM,Walk-In,10:15 AM,Tuesday
+1560,02/04/2026,Karrie Sindle,Lucky Me Pancit Canton,Snacks,6,15,90,Cash,Kalapadua,Abbot Hammelberg,TRUE,128,Savemore,Regular,7:56 PM,Wednesday
+1561,02/01/2026,Desirae Cluatt,Coca-Cola 1.5L,Beverages,7,72,504,Maya,Soweto,Goran Ducker,TRUE,111,Walter,Regular,5:45 PM,Sunday
+1562,1/28/2026,Oneida McDell,Piattos,Snacks,8,25,200,Maya,Chifeng,Georgia Close,TRUE,166,SNS,Walk-In,3:39 AM,Wednesday
+1563,12/17/2025,Hermione Cunney,Bear Brand Milk,Beverages,3,18,54,GCash,Akron,Catriona Leist,TRUE,28,Savemore,Walk-In,4:04 PM,Wednesday
+1564,7/23/2025,Reggie Vere,Nescafe Sachet,Beverages,3,8,24,Maya,Chantilly,Catina Norcutt,FALSE,126,SNS,Regular,11:43 PM,Wednesday
+1565,10/03/2025,Adrianna MacCroary,Surf Detergent,Personal Care,10,12,120,Maya,Kajar,Maureen Happer,FALSE,172,Savemore,Walk-In,8:29 AM,Friday
+1566,01/10/2026,Siobhan Costerd,Safeguard Soap,Personal Care,9,45,405,Cash,Ñuñoa,Taddeo Langeley,FALSE,85,SNS,Walk-In,11:34 PM,Saturday
+1567,09/12/2025,Morry Dominique,SkyFlakes,Snacks,1,10,10,Maya,Travesía,Osgood Torri,FALSE,122,Walter,Regular,12:53 AM,Friday
+1568,4/13/2026,Iago Iorillo,Century Tuna,Groceries,3,38,114,GCash,Bintawan,Chelsy Clymo,FALSE,65,Walter,Regular,2:58 AM,Monday
+1569,11/15/2025,Vilma Tune,Rice 1kg,Groceries,1,58,58,GCash,Shuikou,Herbie Engelmann,FALSE,132,SM,Walk-In,12:59 AM,Saturday
+1570,06/09/2025,Lezley Petty,Hotdog Pack,Groceries,7,95,665,GCash,Yanchi,Ethelbert Monni,FALSE,145,Savemore,Regular,3:54 AM,Monday
+1571,11/23/2025,Trixi Tresise,Eggs Dozen,Groceries,6,110,660,Cash,Mashava,Rachelle Yezafovich,TRUE,27,SNS,Regular,1:24 PM,Sunday
+1572,8/20/2025,Ramon Linford,Yakult,Beverages,9,15,135,Maya,Vällingby,Rafferty Rizzelli,TRUE,144,Walter,Regular,6:47 AM,Wednesday
+1573,3/26/2026,Ibbie McGarvey,Milo Sachet,Beverages,8,12,96,Cash,Xiadingjia,Kiley Edghinn,FALSE,163,SNS,Regular,6:42 AM,Thursday
+1574,7/26/2025,Creight Kernaghan,Tender Juicy Hotdog,Groceries,9,120,1080,GCash,Boliney,Dex Denver,TRUE,60,SNS,Regular,5:57 PM,Saturday
+1575,05/08/2026,Neala Camocke,Palmolive Shampoo,Personal Care,4,7,28,Cash,Wuyang,Wayne Nerger,FALSE,39,Savemore,Regular,2:35 AM,Friday
+1576,02/12/2026,Iona Currier,Kopiko 78,Beverages,8,15,120,GCash,Soukkouma,Quint Deeman,TRUE,68,Savemore,Walk-In,12:04 PM,Thursday
+1577,1/16/2026,Margie Howick,Mineral Water,Beverages,8,20,160,Maya,Damborice,Daisy Gamett,TRUE,21,SNS,Regular,8:52 PM,Friday
+1578,8/15/2025,Tamara Hayland,Oishi Prawn Crackers,Snacks,4,18,72,Maya,Aleksandrovskiy Zavod,Caron Meeron,FALSE,52,SNS,Walk-In,9:08 PM,Friday
+1579,7/23/2025,Lindie Grave,Corned Beef,Groceries,6,35,210,GCash,Vilar do Pinheiro,Myrna Iacovides,TRUE,138,SNS,Walk-In,3:20 AM,Wednesday
+1580,01/10/2026,Emlynn Morfield,Lucky Me Pancit Canton,Snacks,6,15,90,GCash,Velké Hoštice,Kristyn MacKaile,FALSE,88,Walter,Walk-In,4:20 PM,Saturday
+1581,12/07/2025,Wyndham Edmans,Coca-Cola 1.5L,Beverages,5,72,360,Cash,Quellouno,Katalin Pardy,FALSE,185,SNS,Walk-In,10:55 PM,Sunday
+1582,08/05/2025,Gilberta Yve,Piattos,Snacks,5,25,125,Cash,Pu’an,Lotti Haggarth,TRUE,46,SM,Walk-In,1:01 AM,Tuesday
+1583,04/12/2026,Ashley Cooksey,Bear Brand Milk,Beverages,3,18,54,Cash,Pamanukan,Victor Gatley,TRUE,125,SM,Regular,6:02 PM,Sunday
+1584,1/13/2026,Dur Classen,Nescafe Sachet,Beverages,1,8,8,Cash,Rozhniv,Dorotea Wardhough,FALSE,64,SM,Walk-In,4:50 PM,Tuesday
+1585,11/05/2025,Heinrik MacCrachen,Surf Detergent,Personal Care,1,12,12,Cash,Aviá Terai,Evan Swadling,FALSE,184,Walter,Walk-In,5:10 PM,Wednesday
+1586,08/10/2025,Del Echallie,Safeguard Soap,Personal Care,4,45,180,Maya,Talospatang,Bartlet MacIllrick,FALSE,62,SM,Walk-In,4:18 PM,Sunday
+1587,04/06/2026,Stephana Lamyman,SkyFlakes,Snacks,1,10,10,Maya,18 de Marzo,Celina McCuthais,TRUE,183,SM,Regular,6:20 AM,Monday
+1588,11/17/2025,Ursuline Baud,Century Tuna,Groceries,9,38,342,GCash,Pasco,Felita Stratford,FALSE,130,Walter,Walk-In,1:34 PM,Monday
+1589,03/12/2026,Daphene Rattenbury,Rice 1kg,Groceries,5,58,290,Cash,Al Fayyum,Aggy Fairham,TRUE,141,SNS,Regular,2:33 PM,Thursday
+1590,06/08/2025,Thea Motion,Hotdog Pack,Groceries,8,95,760,Cash,Dadapan,Jabez Brereton,FALSE,187,SNS,Walk-In,1:10 AM,Sunday
+1591,1/24/2026,Marita Gummow,Eggs Dozen,Groceries,2,110,220,GCash,Monki,Elwira Alner,FALSE,45,SM,Regular,9:39 PM,Saturday
+1592,12/30/2025,Rory Rennicks,Yakult,Beverages,5,15,75,GCash,Dagang,Zorine Luetkemeyer,TRUE,18,SM,Walk-In,11:05 PM,Tuesday
+1593,12/06/2025,Ainslie Smalles,Milo Sachet,Beverages,8,12,96,Maya,Umeå,Bron Janicek,TRUE,178,Walter,Regular,1:00 PM,Saturday
+1594,1/18/2026,Clementine Pinchbeck,Tender Juicy Hotdog,Groceries,9,120,1080,GCash,Šoštanj,Anabal Shurville,FALSE,106,Walter,Regular,12:54 PM,Sunday
+1595,5/28/2025,Rae Jeanin,Palmolive Shampoo,Personal Care,4,7,28,GCash,Seremban,Shanna Mauchline,FALSE,131,Walter,Regular,8:35 PM,Wednesday
+1596,9/18/2025,Cecilio Shuter,Kopiko 78,Beverages,1,15,15,Cash,Luso,Alasteir Keeler,TRUE,27,Savemore,Regular,9:18 PM,Thursday
+1597,8/27/2025,Modestine Catenot,Mineral Water,Beverages,10,20,200,GCash,Ugbokpo,Constantine Youell,TRUE,148,SM,Regular,6:56 PM,Wednesday
+1598,3/13/2026,Tyler Spikings,Oishi Prawn Crackers,Snacks,5,18,90,Cash,Tiraspol,Zsazsa Runsey,FALSE,46,Walter,Regular,3:34 AM,Friday
+1599,05/10/2026,Peterus O'Fielly,Corned Beef,Groceries,10,35,350,Maya,Bílina Kyselka,Roderigo Brayley,FALSE,119,SM,Regular,11:08 PM,Sunday
+1600,02/11/2026,Constancy Undy,Lucky Me Pancit Canton,Snacks,3,15,45,Maya,Angkimang,Kassi Guile,FALSE,21,Walter,Regular,11:32 PM,Wednesday
+1601,09/11/2025,Evangeline Sandeman,Coca-Cola 1.5L,Beverages,10,72,720,GCash,Ichinoseki,Nate Galey,TRUE,120,Walter,Walk-In,8:53 AM,Thursday
+1602,9/16/2025,Brew Felgat,Piattos,Snacks,9,25,225,Maya,Évreux,Wanids Janjic,TRUE,94,Savemore,Regular,3:29 PM,Tuesday
+1603,09/08/2025,Lettie Matthensen,Bear Brand Milk,Beverages,10,18,180,Cash,Tonkino,Sauveur Chastanet,FALSE,66,Savemore,Walk-In,7:35 PM,Monday
+1604,11/07/2025,Sid Edworthy,Nescafe Sachet,Beverages,1,8,8,GCash,Santa Praxedes,Nikos Aarons,TRUE,111,Savemore,Regular,9:34 AM,Friday
+1605,12/11/2025,Etan Wernham,Surf Detergent,Personal Care,4,12,48,Maya,Dong’an,Ingemar Gladdis,TRUE,181,Walter,Walk-In,7:38 AM,Thursday
+1606,02/07/2026,Zarah Soulsby,Safeguard Soap,Personal Care,9,45,405,GCash,???????,Aubert O'Hallihane,FALSE,50,SM,Walk-In,5:08 AM,Saturday
+1607,02/11/2026,Chloe Gillyett,SkyFlakes,Snacks,10,10,100,Cash,Curvelo,Sybille Ratazzi,FALSE,0,Walter,Regular,4:05 AM,Wednesday
+1608,9/14/2025,Vita Lowery,Century Tuna,Groceries,2,38,76,GCash,Sho’rchi,Aleta Sircombe,TRUE,18,Savemore,Walk-In,9:31 AM,Sunday
+1609,12/09/2025,Blondell Eadington,Rice 1kg,Groceries,7,58,406,GCash,Hodkovicky,Blancha Gricks,TRUE,192,SNS,Walk-In,6:17 PM,Tuesday
+1610,12/03/2025,Eloise Cossentine,Hotdog Pack,Groceries,1,95,95,Cash,Yingchuan,Robers Inglefield,TRUE,122,Walter,Regular,9:30 AM,Wednesday
+1611,11/18/2025,Ivette Hennemann,Eggs Dozen,Groceries,5,110,550,Maya,Thanatpin,Esmaria Walker,TRUE,123,Walter,Regular,8:25 PM,Tuesday
+1612,04/09/2026,Lia Yannikov,Yakult,Beverages,6,15,90,GCash,Opol,Lexine McGloin,FALSE,144,Walter,Walk-In,12:20 AM,Thursday
+1613,1/26/2026,Bibi Cockhill,Milo Sachet,Beverages,4,12,48,GCash,Ivry-sur-Seine,Roxane Inkle,FALSE,188,SM,Walk-In,9:46 AM,Monday
+1614,1/18/2026,Fred Ritelli,Tender Juicy Hotdog,Groceries,2,120,240,Maya,Yirga ‘Alem,Rasla Adds,FALSE,188,Savemore,Walk-In,10:47 AM,Sunday
+1615,07/04/2025,Nita Ivashkin,Palmolive Shampoo,Personal Care,1,7,7,Cash,San Juan,Abra Epperson,TRUE,72,SM,Regular,12:10 AM,Friday
+1616,03/02/2026,Gussi Bignal,Kopiko 78,Beverages,5,15,75,Maya,Nanyang,Elsinore Cottrill,TRUE,5,SNS,Walk-In,10:45 AM,Monday
+1617,11/02/2025,Cary Gooddy,Mineral Water,Beverages,3,20,60,Maya,Sundsvall,Hobart Olivo,FALSE,30,SNS,Regular,5:43 AM,Sunday
+1618,09/08/2025,Yance Paladino,Oishi Prawn Crackers,Snacks,4,18,72,Maya,Doloplazy,Devondra Yeowell,TRUE,177,Walter,Regular,5:19 AM,Monday
+1619,02/11/2026,Sarah Edgson,Corned Beef,Groceries,6,35,210,GCash,Volksrust,Luci Clothier,FALSE,171,SM,Regular,9:59 PM,Wednesday
+1620,4/15/2026,Kiri Kaindl,Lucky Me Pancit Canton,Snacks,4,15,60,GCash,Huakoulongtan,Dena Jarrel,FALSE,106,Savemore,Walk-In,11:10 PM,Wednesday
+1621,7/30/2025,Lydon Hatliff,Coca-Cola 1.5L,Beverages,10,72,720,Cash,Yangiyul,Kippie Asken,FALSE,162,Savemore,Regular,4:06 AM,Wednesday
+1622,10/22/2025,Morty Tanton,Piattos,Snacks,5,25,125,GCash,Aramecina,Loni Blakeston,FALSE,148,SNS,Regular,7:37 PM,Wednesday
+1623,3/18/2026,Modestia Macek,Bear Brand Milk,Beverages,4,18,72,Cash,Tongxing,Anson Bisterfeld,TRUE,14,Walter,Regular,9:13 AM,Wednesday
+1624,4/28/2026,Ingaborg Wilkin,Nescafe Sachet,Beverages,9,8,72,Maya,Gensi,David Mitchely,TRUE,88,SNS,Regular,5:19 PM,Tuesday
+1625,6/28/2025,Rubetta Janc,Surf Detergent,Personal Care,9,12,108,Cash,Nartkala,Papagena Nuscha,TRUE,192,SM,Walk-In,9:57 PM,Saturday
+1626,08/11/2025,Lynne Trematick,Safeguard Soap,Personal Care,6,45,270,Maya,Malikisi,Viviana Robbeke,FALSE,142,SNS,Regular,12:22 PM,Monday
+1627,10/29/2025,Corrie Hayes,SkyFlakes,Snacks,8,10,80,Maya,Nisí,Alexandra Tejero,TRUE,46,SM,Walk-In,7:41 PM,Wednesday
+1628,11/15/2025,Hilary Blunkett,Century Tuna,Groceries,9,38,342,Cash,Morioka-shi,Elton Cathery,FALSE,50,SM,Walk-In,9:21 PM,Saturday
+1629,02/09/2026,Drucill Berthot,Rice 1kg,Groceries,5,58,290,GCash,Aristóbulo del Valle,Ado Brounsell,TRUE,160,Walter,Regular,2:02 AM,Monday
+1630,03/04/2026,Lionel Wais,Hotdog Pack,Groceries,5,95,475,GCash,Trun,Aubert Leinthall,TRUE,56,SNS,Walk-In,10:45 AM,Wednesday
+1631,09/01/2025,Sybille Adie,Eggs Dozen,Groceries,9,110,990,Cash,Tolitoli,Powell Duthy,FALSE,41,SNS,Walk-In,6:15 AM,Monday
+1632,4/23/2026,Dorrie Kiellor,Yakult,Beverages,7,15,105,Cash,Dek’emhare,Kelley Kraut,TRUE,49,SNS,Regular,3:00 PM,Thursday
+1633,8/25/2025,Xylina Brewis,Milo Sachet,Beverages,1,12,12,Maya,Chengguan,Adrien Dugget,TRUE,184,SM,Walk-In,3:47 AM,Monday
+1634,07/01/2025,Glynda Levett,Tender Juicy Hotdog,Groceries,6,120,720,Maya,Orichi,Dinah Ruane,TRUE,90,Walter,Walk-In,1:36 AM,Tuesday
+1635,3/28/2026,George Lorenzo,Palmolive Shampoo,Personal Care,3,7,21,GCash,Toritama,Meridith Layton,TRUE,80,Savemore,Regular,9:46 AM,Saturday
+1636,1/16/2026,Agna Bernette,Kopiko 78,Beverages,4,15,60,GCash,Yangping,Karlens Malec,FALSE,70,SNS,Walk-In,4:46 PM,Friday
+1637,1/23/2026,Hoebart Erbain,Mineral Water,Beverages,3,20,60,GCash,Wangfu,Bentlee Siccombe,FALSE,194,Savemore,Walk-In,12:25 PM,Friday
+1638,01/01/2026,Starlene Theobold,Oishi Prawn Crackers,Snacks,3,18,54,Maya,Divandarreh,Quintana Shewen,FALSE,66,SM,Regular,9:18 PM,Thursday
+1639,04/03/2026,Roma Ottery,Corned Beef,Groceries,1,35,35,GCash,Dijon,Hester Vaughton,FALSE,85,SM,Walk-In,12:51 PM,Friday
+1640,10/24/2025,Christean Bullivant,Lucky Me Pancit Canton,Snacks,4,15,60,Cash,Roma,Wendye Berard,FALSE,104,Walter,Walk-In,4:41 PM,Friday
+1641,02/12/2026,Stanford Hixley,Coca-Cola 1.5L,Beverages,8,72,576,GCash,Ake-Eze,Talia Corkell,TRUE,44,Walter,Walk-In,1:43 PM,Thursday
+1642,04/02/2026,Barbara-anne House,Piattos,Snacks,7,25,175,Maya,Beauharnois,Fredelia Splaven,TRUE,111,Savemore,Regular,6:35 PM,Thursday
+1643,06/01/2025,Arabela MacPeake,Bear Brand Milk,Beverages,4,18,72,Maya,Rappang,Mannie Greggs,TRUE,102,SNS,Walk-In,2:09 AM,Sunday
+1644,10/11/2025,Fey Mews,Nescafe Sachet,Beverages,6,8,48,GCash,Hostos,Shaun Guslon,TRUE,155,SM,Walk-In,6:57 AM,Saturday
+1645,12/30/2025,Nikoletta Matityahu,Surf Detergent,Personal Care,9,12,108,Cash,Agrela,Sherlock Espinosa,TRUE,83,SNS,Regular,12:29 AM,Tuesday
+1646,03/07/2026,Debor McClean,Safeguard Soap,Personal Care,5,45,225,Cash,Derviçian,Henryetta Ewestace,FALSE,141,SNS,Regular,9:35 PM,Saturday
+1647,06/05/2025,Evita Peploe,SkyFlakes,Snacks,5,10,50,Maya,Giv'on HaHadasha,Lynnet Hardes,TRUE,11,Savemore,Regular,7:30 PM,Thursday
+1648,9/30/2025,Anna-maria Allatt,Century Tuna,Groceries,8,38,304,Cash,Garoua Boulaï,Madelena Kibel,TRUE,98,SNS,Regular,5:48 AM,Tuesday
+1649,07/01/2025,Craig Jillitt,Rice 1kg,Groceries,2,58,116,Cash,Vacoas,Willetta Grieveson,FALSE,45,Walter,Walk-In,11:36 AM,Tuesday
+1650,12/25/2025,Darla Splain,Hotdog Pack,Groceries,3,95,285,GCash,Xinqiao,Sven Gregersen,TRUE,26,SM,Regular,5:17 AM,Thursday
+1651,01/01/2026,Christian Cleevely,Eggs Dozen,Groceries,5,110,550,Maya,Berdorf,Tedi Lukasen,TRUE,62,Walter,Regular,3:44 PM,Thursday
+1652,09/04/2025,Johnathan Kobierski,Yakult,Beverages,6,15,90,Maya,Vin’kivtsi,Blakeley Billham,FALSE,164,Savemore,Walk-In,2:59 AM,Thursday
+1653,09/12/2025,Rossie Jaulmes,Milo Sachet,Beverages,6,12,72,Maya,Sinyavino,Allister Wildgoose,FALSE,118,Savemore,Walk-In,6:24 AM,Friday
+1654,8/20/2025,Alverta Stranaghan,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Rodotópi,Dionne Titherington,FALSE,126,SNS,Regular,10:08 AM,Wednesday
+1655,02/01/2026,Winne Dolan,Palmolive Shampoo,Personal Care,9,7,63,Cash,Tidaholm,Natalya Cargill,FALSE,160,SM,Walk-In,6:26 AM,Sunday
+1656,3/26/2026,Trent Tuppeny,Kopiko 78,Beverages,9,15,135,GCash,Xinglong,Ole Rotlauf,TRUE,105,SNS,Walk-In,4:50 AM,Thursday
+1657,5/22/2025,Leisha Cowmeadow,Mineral Water,Beverages,1,20,20,Maya,P’rimorsk’oe,Nicholle Lewis,TRUE,43,SNS,Walk-In,1:07 AM,Thursday
+1658,06/06/2025,Justen Jonuzi,Oishi Prawn Crackers,Snacks,2,18,36,Maya,Xinle,Odetta Rayner,FALSE,110,Walter,Walk-In,9:04 PM,Friday
+1659,03/07/2026,Hedwiga Nafzger,Corned Beef,Groceries,6,35,210,Maya,Tamaki,John Wardhaw,FALSE,70,SNS,Regular,12:39 AM,Saturday
+1660,01/08/2026,Blancha Gladyer,Lucky Me Pancit Canton,Snacks,7,15,105,Maya,Dungloe,Corrinne Cicco,FALSE,45,SNS,Walk-In,11:14 AM,Thursday
+1661,10/17/2025,Maggy Ive,Coca-Cola 1.5L,Beverages,9,72,648,Cash,Mangqu,Kerwinn Alpin,FALSE,51,SM,Regular,5:41 AM,Friday
+1662,6/29/2025,Alejoa Durbann,Piattos,Snacks,3,25,75,Cash,Hearst,Paco Mayger,TRUE,183,SM,Walk-In,9:48 AM,Sunday
+1663,12/28/2025,Husain Runnalls,Bear Brand Milk,Beverages,2,18,36,GCash,Hamburg,Mandel Klainer,TRUE,58,Walter,Walk-In,8:04 AM,Sunday
+1664,4/18/2026,Joe Vannini,Nescafe Sachet,Beverages,2,8,16,Maya,Yasenskaya,Kev Bernardes,FALSE,163,Savemore,Walk-In,9:53 AM,Saturday
+1665,7/19/2025,Jessalin Filippov,Surf Detergent,Personal Care,3,12,36,Cash,Beni,Daphne Zywicki,TRUE,164,Savemore,Regular,2:45 AM,Saturday
+1666,06/04/2025,Arnold O'Corrin,Safeguard Soap,Personal Care,4,45,180,GCash,Aozou,Rhodia Leech,FALSE,100,Walter,Walk-In,11:49 AM,Wednesday
+1667,12/20/2025,Normie Oakley,SkyFlakes,Snacks,7,10,70,Cash,Tsagaan-Olom,Camey Warwick,FALSE,65,Walter,Walk-In,8:46 PM,Saturday
+1668,07/06/2025,Sergei Lansdowne,Century Tuna,Groceries,9,38,342,Maya,Lökbatan,Danya Dulany,TRUE,59,SM,Walk-In,11:07 PM,Sunday
+1669,1/16/2026,Lars Lindwasser,Rice 1kg,Groceries,7,58,406,Maya,Xiaojinkou,Lek Sarch,TRUE,98,SNS,Regular,8:45 AM,Friday
+1670,11/13/2025,Grannie Clabburn,Hotdog Pack,Groceries,4,95,380,GCash,Chãos,Susanna Dahill,FALSE,131,Walter,Regular,4:28 AM,Thursday
+1671,12/06/2025,Harlan Hugonnet,Eggs Dozen,Groceries,3,110,330,Maya,Suez,Tim McGahern,TRUE,183,Walter,Regular,2:06 AM,Saturday
+1672,05/01/2026,Christoforo Nan Carrow,Yakult,Beverages,3,15,45,Maya,Nguigmi,Natalya Beadnall,FALSE,173,Walter,Regular,1:10 PM,Friday
+1673,10/23/2025,Verla Chiverstone,Milo Sachet,Beverages,10,12,120,Cash,Songshan,Obadias Banghe,TRUE,1,Savemore,Walk-In,1:54 PM,Thursday
+1674,4/25/2026,Tedman Davenhall,Tender Juicy Hotdog,Groceries,8,120,960,Maya,Maguilling,Pierette McCorkindale,TRUE,3,Walter,Regular,8:27 PM,Saturday
+1675,5/24/2025,Florentia Fante,Palmolive Shampoo,Personal Care,7,7,49,Maya,Metulla,Kirk Scryne,FALSE,21,Walter,Walk-In,10:11 AM,Saturday
+1676,12/11/2025,Shaylynn Peggrem,Kopiko 78,Beverages,1,15,15,GCash,Petroúpolis,Beatrisa Dockerty,TRUE,103,Walter,Regular,11:23 AM,Thursday
+1677,4/14/2026,Bartlett Daltry,Mineral Water,Beverages,5,20,100,Cash,Sungai Raya,Celine Bygreaves,TRUE,3,SM,Regular,4:44 AM,Tuesday
+1678,12/20/2025,Johannes Triner,Oishi Prawn Crackers,Snacks,10,18,180,Cash,Espinal,Lilias Berecloth,FALSE,144,Savemore,Regular,5:33 AM,Saturday
+1679,7/23/2025,Leigh Lowrance,Corned Beef,Groceries,8,35,280,Maya,Liangshuihe,Terri-jo Boissieux,TRUE,170,SNS,Regular,11:17 AM,Wednesday
+1680,12/19/2025,Evvie Veall,Lucky Me Pancit Canton,Snacks,6,15,90,GCash,Umanggudang,Betsey Bento,TRUE,147,Walter,Regular,4:56 AM,Friday
+1681,6/28/2025,Antoinette Bisatt,Coca-Cola 1.5L,Beverages,2,72,144,GCash,Siennica Rózana,Mata Spofford,TRUE,86,SM,Walk-In,5:02 PM,Saturday
+1682,3/14/2026,Brig Bear,Piattos,Snacks,8,25,200,Maya,Dongxi,Virgilio Parkeson,FALSE,27,Walter,Regular,4:10 AM,Saturday
+1683,01/04/2026,Camey Sinden,Bear Brand Milk,Beverages,4,18,72,Maya,Fonte,Janine Watkiss,FALSE,185,Savemore,Regular,6:05 PM,Sunday
+1684,4/23/2026,Base Smedmoor,Nescafe Sachet,Beverages,9,8,72,Cash,Arteche,Alie Jones,FALSE,19,SM,Regular,9:32 AM,Thursday
+1685,02/06/2026,Yolanda Earley,Surf Detergent,Personal Care,10,12,120,GCash,Angers,Gabbi Adaway,TRUE,124,Savemore,Regular,10:57 PM,Friday
+1686,6/26/2025,Tobin Coveny,Safeguard Soap,Personal Care,5,45,225,Cash,Trairi,Allix Binnall,TRUE,165,SM,Walk-In,3:39 PM,Thursday
+1687,1/19/2026,Glenn McLagain,SkyFlakes,Snacks,7,10,70,Maya,Conroe,Barty Ochterlony,FALSE,194,SNS,Walk-In,7:47 PM,Monday
+1688,12/17/2025,Ozzie Stiffell,Century Tuna,Groceries,6,38,228,Cash,Chenzui,Barnard Nugent,FALSE,181,SM,Regular,6:43 PM,Wednesday
+1689,02/04/2026,Cindelyn Bernaciak,Rice 1kg,Groceries,3,58,174,Cash,Sol’-Iletsk,Winny Matejovsky,TRUE,53,SNS,Walk-In,1:21 AM,Wednesday
+1690,9/22/2025,Keriann Judron,Hotdog Pack,Groceries,1,95,95,GCash,Calape,Edith Challis,FALSE,193,SM,Regular,10:36 AM,Monday
+1691,5/26/2025,Abigail Stiggers,Eggs Dozen,Groceries,9,110,990,Maya,Dongting,Padriac Guillain,TRUE,75,Walter,Regular,11:44 PM,Monday
+1692,2/13/2026,Nichole Beardsley,Yakult,Beverages,4,15,60,Cash,Ayotupas,Cherri Zambon,TRUE,183,SNS,Regular,4:02 PM,Friday
+1693,07/02/2025,Clementina Zellick,Milo Sachet,Beverages,6,12,72,Cash,Planovskoye,Pandora Stain,FALSE,172,SNS,Walk-In,2:54 PM,Wednesday
+1694,4/13/2026,Benetta de Clerk,Tender Juicy Hotdog,Groceries,9,120,1080,Cash,Ina,Carine Davidov,FALSE,132,SM,Walk-In,9:28 PM,Monday
+1695,1/23/2026,Penn Rigeby,Palmolive Shampoo,Personal Care,6,7,42,Maya,Senanga,Amberly Ballach,FALSE,36,SNS,Regular,6:53 AM,Friday
+1696,8/27/2025,Celestia Brideoke,Kopiko 78,Beverages,10,15,150,Cash,Düsseldorf,Xerxes Sheriff,TRUE,46,Walter,Regular,1:43 PM,Wednesday
+1697,06/07/2025,Mart Wahncke,Mineral Water,Beverages,10,20,200,GCash,Ordynskoye,Warner Guidini,FALSE,38,Walter,Walk-In,1:07 PM,Saturday
+1698,11/03/2025,Karry Davidovsky,Oishi Prawn Crackers,Snacks,9,18,162,GCash,Gaotuan,Iorgo Lote,FALSE,170,SM,Walk-In,1:25 PM,Monday
+1699,12/22/2025,Alfie Bockler,Corned Beef,Groceries,9,35,315,GCash,Ad Dann,Marris Wardesworth,FALSE,34,Savemore,Regular,9:01 AM,Monday
+1700,3/14/2026,Renelle Tsar,Lucky Me Pancit Canton,Snacks,4,15,60,GCash,Staryy Urukh,Morganne Nucci,TRUE,84,SNS,Regular,4:28 AM,Saturday
+1701,4/22/2026,Xenos Greenan,Coca-Cola 1.5L,Beverages,2,72,144,Maya,Winschoten,Annadiane Simanek,FALSE,4,Walter,Regular,8:06 PM,Wednesday
+1702,09/01/2025,Nathalia Bennett,Piattos,Snacks,3,25,75,GCash,Safakulevo,Mickey Ridge,FALSE,118,Walter,Regular,2:25 AM,Monday
+1703,03/09/2026,Zelma Bagniuk,Bear Brand Milk,Beverages,9,18,162,Cash,Zamora,Maximilianus Freeland,FALSE,52,SNS,Regular,2:18 PM,Monday
+1704,1/23/2026,Evita Tunbridge,Nescafe Sachet,Beverages,6,8,48,Cash,Lomme,Ivar Siward,TRUE,101,Savemore,Walk-In,5:06 AM,Friday
+1705,01/08/2026,Avie Akker,Surf Detergent,Personal Care,6,12,72,Cash,Srostki,Goldina Worswick,FALSE,131,Savemore,Walk-In,12:01 PM,Thursday
+1706,02/08/2026,Madge Krammer,Safeguard Soap,Personal Care,9,45,405,GCash,Milicz,Pauly Casillas,FALSE,173,SNS,Regular,9:53 PM,Sunday
+1707,03/11/2026,Benoit Pawlowicz,SkyFlakes,Snacks,2,10,20,Cash,Delft,Erroll Plumstead,TRUE,17,SNS,Regular,11:41 PM,Wednesday
+1708,11/20/2025,Tova Kubalek,Century Tuna,Groceries,5,38,190,Maya,Quintã,Guglielmo Sprake,FALSE,15,SNS,Walk-In,4:43 PM,Thursday
+1709,10/29/2025,Langston Samber,Rice 1kg,Groceries,7,58,406,GCash,Concordia,Stanton Imlach,TRUE,181,Savemore,Regular,11:13 AM,Wednesday
+1710,1/24/2026,Bengt Khristyukhin,Hotdog Pack,Groceries,8,95,760,Maya,Derviçian,Bevan D'Agostini,FALSE,150,SM,Walk-In,4:55 PM,Saturday
+1711,05/05/2026,Lurlene Freckleton,Eggs Dozen,Groceries,9,110,990,GCash,Sarvabad,Mellicent Houlson,TRUE,56,Walter,Regular,7:35 PM,Tuesday
+1712,01/01/2026,Lira Jestico,Yakult,Beverages,4,15,60,Cash,Yuanjiazhuang,Karita Lapthorn,FALSE,196,SNS,Walk-In,7:41 AM,Thursday
+1713,8/22/2025,Yevette Whitelock,Milo Sachet,Beverages,5,12,60,GCash,Tuwiri Wetan,Delora Geddis,FALSE,75,Savemore,Regular,5:20 PM,Friday
+1714,03/02/2026,Cyrill Cudby,Tender Juicy Hotdog,Groceries,8,120,960,Cash,Ibarreta,Barbie Giraudat,FALSE,187,SM,Regular,3:46 AM,Monday
+1715,1/17/2026,Twyla Shinfield,Palmolive Shampoo,Personal Care,7,7,49,Cash,Lospalos,Ingaberg Davion,TRUE,191,SM,Regular,1:56 PM,Saturday
+1716,12/20/2025,Kassi Dast,Kopiko 78,Beverages,7,15,105,GCash,Tsagaan-Owoo,Nikolia Whitsey,TRUE,119,Savemore,Walk-In,1:30 AM,Saturday
+1717,7/26/2025,Thia Banaszczyk,Mineral Water,Beverages,10,20,200,GCash,Tarangnan,Aluin Cartlidge,TRUE,112,SM,Walk-In,11:25 AM,Saturday
+1718,01/12/2026,Pippo Pfeffel,Oishi Prawn Crackers,Snacks,7,18,126,GCash,Lingcheng,Alyosha Stobart,TRUE,180,SM,Regular,11:07 AM,Monday
+1719,7/18/2025,Rex Pauli,Corned Beef,Groceries,5,35,175,GCash,Beausejour,Blondelle Esland,TRUE,142,SNS,Walk-In,10:56 PM,Friday
+1720,4/26/2026,Ingra Iliffe,Lucky Me Pancit Canton,Snacks,3,15,45,GCash,Bells Corners,Dickie Shotter,FALSE,186,Walter,Walk-In,10:23 PM,Sunday
+1721,3/30/2026,Nobie Slight,Coca-Cola 1.5L,Beverages,6,72,432,Cash,Kapsan-up,Estele Simenet,TRUE,157,Walter,Regular,11:48 AM,Monday
+1722,3/22/2026,Finlay Lavelle,Piattos,Snacks,7,25,175,Cash,Gryfów Slaski,Hendrik Hempshall,FALSE,88,Savemore,Walk-In,4:15 AM,Sunday
+1723,3/28/2026,Gizela Deeley,Bear Brand Milk,Beverages,10,18,180,Maya,Sundbyberg,Hedwiga Whistan,TRUE,1,SNS,Walk-In,3:20 AM,Saturday
+1724,10/17/2025,Claire Booley,Nescafe Sachet,Beverages,1,8,8,Cash,Oklahoma City,Roslyn Dowdney,FALSE,166,Walter,Walk-In,1:54 PM,Friday
+1725,10/13/2025,Lucky Elsy,Surf Detergent,Personal Care,8,12,96,GCash,Šluknov,Alvira Wadforth,FALSE,153,Walter,Regular,12:16 PM,Monday
+1726,05/06/2026,Jasun Figures,Safeguard Soap,Personal Care,4,45,180,Cash,Béthune,Natale Robeiro,FALSE,172,Savemore,Walk-In,7:24 AM,Wednesday
+1727,8/17/2025,Weston de Clerq,SkyFlakes,Snacks,2,10,20,Cash,Phoenix,Yanaton Salters,FALSE,178,SNS,Walk-In,10:35 PM,Sunday
+1728,1/16/2026,Odille Kuna,Century Tuna,Groceries,6,38,228,GCash,Rinang,Bob West-Frimley,TRUE,119,Savemore,Regular,1:15 AM,Friday
+1729,05/01/2026,Frances Powe,Rice 1kg,Groceries,8,58,464,Cash,El Zapote,Deborah Brazel,FALSE,147,SNS,Regular,2:56 PM,Friday
+1730,6/17/2025,Ariel Ianniello,Hotdog Pack,Groceries,1,95,95,Cash,Muff,Curt Zavattero,TRUE,41,SM,Regular,12:38 AM,Tuesday
+1731,03/06/2026,Ricoriki Whitehorne,Eggs Dozen,Groceries,10,110,1100,Cash,Gucheng,Gilbert Colebrook,TRUE,96,Walter,Regular,4:45 AM,Friday
+1732,1/17/2026,Cad Blick,Yakult,Beverages,8,15,120,GCash,Dzhalilabad,Wendell Eagger,TRUE,98,Walter,Regular,8:53 AM,Saturday
+1733,5/26/2025,Kalil MacCleod,Milo Sachet,Beverages,7,12,84,Cash,Fengshuling,Dar Kemet,FALSE,83,SM,Regular,1:31 AM,Monday
+1734,04/09/2026,Norri Milliken,Tender Juicy Hotdog,Groceries,6,120,720,Cash,Fu’an,Lon Gibbs,FALSE,157,SNS,Walk-In,8:04 PM,Thursday
+1735,6/14/2025,Laryssa Tedridge,Palmolive Shampoo,Personal Care,7,7,49,GCash,Seget,Lilla Macbeth,TRUE,15,Savemore,Walk-In,11:31 AM,Saturday
+1736,11/17/2025,Jacintha Offell,Kopiko 78,Beverages,6,15,90,GCash,Rehoboth,Tracie Greensmith,FALSE,85,Walter,Walk-In,4:23 AM,Monday
+1737,3/13/2026,Roxanne de Chastelain,Mineral Water,Beverages,6,20,120,GCash,Petrópolis,Donna Tate,TRUE,112,Walter,Regular,10:52 AM,Friday
+1738,11/06/2025,Aldin Cantwell,Oishi Prawn Crackers,Snacks,6,18,108,Maya,Islamey,Nikaniki Behrend,TRUE,189,SNS,Walk-In,12:32 AM,Thursday
+1739,6/16/2025,Marjorie Crowthe,Corned Beef,Groceries,4,35,140,Maya,Rondonópolis,Junie Karoly,TRUE,42,Walter,Walk-In,11:01 AM,Monday
+1740,2/15/2026,Emmy Goodrick,Lucky Me Pancit Canton,Snacks,2,15,30,GCash,Lugouqiao,Lazaro Garrit,TRUE,12,SNS,Walk-In,5:46 AM,Sunday
+1741,2/24/2026,Daniele Banes,Coca-Cola 1.5L,Beverages,5,72,360,GCash,Th? Tr?n Hát Lót,Collen Buxy,TRUE,150,Walter,Walk-In,1:26 PM,Tuesday
+1742,4/17/2026,Keven Beaty,Piattos,Snacks,2,25,50,Cash,Sayama,Floyd Mc Carroll,TRUE,97,Walter,Walk-In,9:30 PM,Friday
+1743,06/02/2025,Fanchette Demaid,Bear Brand Milk,Beverages,4,18,72,GCash,Montecarlo,Quintus Duffield,FALSE,189,SNS,Regular,4:55 AM,Monday
+1744,6/30/2025,Kiele Riquet,Nescafe Sachet,Beverages,1,8,8,Cash,Cabaret,Tobiah Haggett,FALSE,137,Walter,Walk-In,2:17 AM,Monday
+1745,10/11/2025,Yovonnda Buney,Surf Detergent,Personal Care,2,12,24,Cash,Capela,Loren Tommen,TRUE,113,SM,Regular,7:28 PM,Saturday
+1746,11/06/2025,Heidi Robberecht,Safeguard Soap,Personal Care,6,45,270,Maya,Oullins,Bertha Grent,FALSE,64,Walter,Regular,10:09 PM,Thursday
+1747,10/07/2025,Guinna Arnell,SkyFlakes,Snacks,7,10,70,Cash,Biên Hòa,Chanda Binning,FALSE,159,Walter,Regular,10:13 AM,Tuesday
+1748,12/09/2025,Gearalt Guillou,Century Tuna,Groceries,4,38,152,Cash,Puksoozero,Teri Lydden,TRUE,156,SM,Regular,8:57 PM,Tuesday
+1749,1/13/2026,Brian Slaney,Rice 1kg,Groceries,3,58,174,GCash,Rokytne,Neddy Lyngsted,FALSE,111,SNS,Walk-In,7:05 AM,Tuesday
+1750,6/13/2025,Mattias Hackett,Hotdog Pack,Groceries,9,95,855,Maya,Ryazan’,Ramona Gerriessen,FALSE,162,Savemore,Regular,12:05 AM,Friday
+1751,08/10/2025,Vance Bisgrove,Eggs Dozen,Groceries,1,110,110,Cash,Cikoneng,Burton Culpin,TRUE,164,SM,Regular,5:33 PM,Sunday
+1752,3/21/2026,Aleta Davitt,Yakult,Beverages,5,15,75,GCash,Kampene,Gardener Stephen,TRUE,168,Savemore,Regular,9:29 PM,Saturday
+1753,2/20/2026,Verla Upchurch,Milo Sachet,Beverages,6,12,72,Maya,Perovo,Amity Ackenson,TRUE,166,Walter,Walk-In,2:49 PM,Friday
+1754,09/02/2025,Nevile Giampietro,Tender Juicy Hotdog,Groceries,1,120,120,Maya,Oslo,Nora Oliphant,TRUE,84,SM,Walk-In,10:00 AM,Tuesday
+1755,10/01/2025,Alfreda Sabati,Palmolive Shampoo,Personal Care,3,7,21,Maya,Gazimurskiy Zavod,Appolonia Lowe,TRUE,21,SM,Walk-In,3:52 PM,Wednesday
+1756,8/22/2025,Ginelle Glabach,Kopiko 78,Beverages,1,15,15,Maya,Concordia,Mag Broxap,TRUE,27,SM,Walk-In,10:18 PM,Friday
+1757,12/02/2025,Davine Pates,Mineral Water,Beverages,5,20,100,Maya,Sofádes,Nissa Novis,TRUE,23,Walter,Regular,12:05 AM,Tuesday
+1758,3/30/2026,Emelyne Sebring,Oishi Prawn Crackers,Snacks,5,18,90,Cash,Nevers,Liane Tracy,TRUE,142,Savemore,Walk-In,5:10 AM,Monday
+1759,5/19/2025,Mattias Moran,Corned Beef,Groceries,4,35,140,Maya,Peicheng,Hasheem Temblett,FALSE,198,Walter,Regular,3:37 PM,Monday
+1760,8/20/2025,Jarvis Plait,Lucky Me Pancit Canton,Snacks,1,15,15,Cash,Oslo,Maudie Painswick,TRUE,181,SNS,Walk-In,11:29 PM,Wednesday
+1761,02/01/2026,Gerik Speedin,Coca-Cola 1.5L,Beverages,6,72,432,GCash,Bandhagen,Lorrie Witherden,FALSE,89,Walter,Regular,12:49 AM,Sunday
+1762,06/08/2025,Bax Gowland,Piattos,Snacks,6,25,150,Maya,Zlotniki Kujawskie,Trix Fleay,TRUE,151,SNS,Regular,1:23 AM,Sunday
+1763,2/23/2026,Maximilianus Martins,Bear Brand Milk,Beverages,5,18,90,Cash,Itatiba,Rog Pridham,FALSE,72,Savemore,Regular,4:43 PM,Monday
+1764,9/18/2025,Abigale Bisp,Nescafe Sachet,Beverages,5,8,40,GCash,Quatro Barras,Francene Durward,FALSE,124,SNS,Walk-In,7:17 AM,Thursday
+1765,03/08/2026,Lyndsey Atkins,Surf Detergent,Personal Care,3,12,36,Cash,Nartkala,Wake Boles,TRUE,97,SNS,Regular,3:50 AM,Sunday
+1766,11/05/2025,Datha Hayden,Safeguard Soap,Personal Care,2,45,90,GCash,Las Carreras,Ferdie Bolam,TRUE,168,Walter,Regular,9:55 AM,Wednesday
+1767,12/19/2025,Lea Dunmore,SkyFlakes,Snacks,4,10,40,Cash,Wangda,Gideon Jerrom,TRUE,14,Walter,Regular,12:40 PM,Friday
+1768,02/02/2026,Jordanna Munt,Century Tuna,Groceries,6,38,228,GCash,Shanhaiguan,Josey Rodrig,FALSE,168,SM,Walk-In,9:07 AM,Monday
+1769,05/08/2026,Prudy Siuda,Rice 1kg,Groceries,4,58,232,GCash,Kang-neung,Con Delahunty,FALSE,122,Savemore,Walk-In,6:04 AM,Friday
+1770,7/22/2025,Andeee Olwen,Hotdog Pack,Groceries,5,95,475,Cash,Barra,Albertina Jowsey,TRUE,119,Walter,Walk-In,3:00 AM,Tuesday
+1771,11/11/2025,Shaw Barkes,Eggs Dozen,Groceries,9,110,990,Maya,Klang,Minette Chorlton,TRUE,14,Walter,Walk-In,10:57 PM,Tuesday
+1772,08/08/2025,Eimile Jorn,Yakult,Beverages,2,15,30,Maya,Qatanah,Morganne Waitland,FALSE,90,Savemore,Regular,3:20 AM,Friday
+1773,11/12/2025,Perl Tolumello,Milo Sachet,Beverages,9,12,108,GCash,Setun’,Major Staining,TRUE,7,SNS,Regular,8:53 AM,Wednesday
+1774,10/07/2025,Morlee Beese,Tender Juicy Hotdog,Groceries,6,120,720,GCash,Ginebra,Foster Audus,TRUE,32,SM,Regular,8:12 AM,Tuesday
+1775,4/26/2026,Codie Reskelly,Palmolive Shampoo,Personal Care,1,7,7,Cash,Attard,Chad Ayrton,TRUE,29,SNS,Regular,7:49 PM,Sunday
+1776,01/08/2026,Sandie Feitosa,Kopiko 78,Beverages,7,15,105,GCash,Kurchatov,Jermaine Bugby,TRUE,194,Savemore,Walk-In,3:58 PM,Thursday
+1777,5/13/2026,Elberta Yurevich,Mineral Water,Beverages,1,20,20,GCash,Shenkou,Abigale Creane,FALSE,174,Savemore,Walk-In,3:03 AM,Wednesday
+1778,10/31/2025,Tommy Garron,Oishi Prawn Crackers,Snacks,4,18,72,Cash,Yangcheng,Lars Malthouse,FALSE,178,SM,Walk-In,8:08 AM,Friday
+1779,5/17/2025,Ethyl Matula,Corned Beef,Groceries,6,35,210,Maya,Salamá,Levon Beeck,FALSE,195,Walter,Walk-In,9:25 PM,Saturday
+1780,3/31/2026,Nelia Hurley,Lucky Me Pancit Canton,Snacks,5,15,75,Maya,Muliang,Jolene Jannequin,TRUE,146,SNS,Regular,5:03 PM,Tuesday
+1781,12/20/2025,Doloritas Luppitt,Coca-Cola 1.5L,Beverages,3,72,216,GCash,Prudentópolis,Ursuline Bulfit,FALSE,195,Walter,Regular,4:45 PM,Saturday
+1782,9/14/2025,Clair Lismore,Piattos,Snacks,4,25,100,Cash,Yimamu,Elfrida Overshott,FALSE,75,Savemore,Regular,12:20 AM,Sunday
+1783,2/21/2026,Trenna Bindin,Bear Brand Milk,Beverages,9,18,162,Cash,Pérama,Camilla Porritt,TRUE,140,Savemore,Walk-In,11:16 PM,Saturday
+1784,6/21/2025,Jackson Bushill,Nescafe Sachet,Beverages,10,8,80,Cash,Beizhouzi,Carleton Memmory,TRUE,169,SM,Walk-In,9:51 PM,Saturday
+1785,03/04/2026,El Ovise,Surf Detergent,Personal Care,10,12,120,GCash,Taiping,Ariel Jachimiak,FALSE,48,Walter,Walk-In,12:27 AM,Wednesday
+1786,9/16/2025,Robyn Arboine,Safeguard Soap,Personal Care,5,45,225,GCash,Wierzchowo,Engelbert Gilston,TRUE,168,SM,Walk-In,12:21 PM,Tuesday
+1787,08/01/2025,Adham Christoforou,SkyFlakes,Snacks,6,10,60,Maya,Bangonay,Maudie Lampitt,FALSE,54,SNS,Walk-In,5:22 PM,Friday
+1788,8/31/2025,Vanni Beardshaw,Century Tuna,Groceries,4,38,152,Maya,Kaeng Khoi,Pansie Rintoul,TRUE,127,SNS,Walk-In,5:55 PM,Sunday
+1789,07/11/2025,Chastity Pickersail,Rice 1kg,Groceries,3,58,174,Cash,Potrero Grande,Gray Petrasch,FALSE,192,SNS,Regular,4:06 AM,Friday
+1790,12/24/2025,Janel Renhard,Hotdog Pack,Groceries,7,95,665,Maya,Lakateng,Raine Bagworth,FALSE,63,SNS,Regular,2:09 AM,Wednesday
+1791,12/15/2025,Chic Wofenden,Eggs Dozen,Groceries,4,110,440,Cash,Tumpukrenteng,Genovera Cockshut,FALSE,104,Savemore,Regular,12:36 AM,Monday
+1792,3/31/2026,Corbett Onion,Yakult,Beverages,7,15,105,Maya,Jönköping,Rosamund Peeke-Vout,FALSE,106,Savemore,Regular,2:26 PM,Tuesday
+1793,03/03/2026,Almeta Cattenach,Milo Sachet,Beverages,10,12,120,Maya,Tres Arroyos,Sibelle McPeice,FALSE,188,SNS,Walk-In,2:31 PM,Tuesday
+1794,10/22/2025,Ebenezer Kleinsmuntz,Tender Juicy Hotdog,Groceries,10,120,1200,GCash,Dongxin,Jemie O'Dare,TRUE,70,Walter,Regular,5:31 PM,Wednesday
+1795,7/25/2025,Samaria Ksandra,Palmolive Shampoo,Personal Care,9,7,63,GCash,Rosebank,Friedrick Cancellor,TRUE,77,SNS,Walk-In,12:44 AM,Friday
+1796,01/09/2026,Daile Dalgleish,Kopiko 78,Beverages,9,15,135,Maya,Qinglin,Danyette Offner,FALSE,1,Savemore,Regular,10:50 AM,Friday
+1797,01/04/2026,Becky Rudwell,Mineral Water,Beverages,2,20,40,GCash,Khadyzhensk,Vin Ragot,TRUE,27,Savemore,Regular,9:31 AM,Sunday
+1798,12/15/2025,Erminie Howieson,Oishi Prawn Crackers,Snacks,10,18,180,GCash,Queimados,Giselbert Bulcroft,TRUE,125,Savemore,Walk-In,6:19 PM,Monday
+1799,11/27/2025,Linnea Featherstonhalgh,Corned Beef,Groceries,9,35,315,Cash,Selishche,Evonne MacKeeg,FALSE,74,Walter,Regular,1:34 AM,Thursday
+1800,8/24/2025,Jenifer Rembrant,Lucky Me Pancit Canton,Snacks,3,15,45,Cash,Rossosh’,Bram Ewbanke,FALSE,70,Walter,Regular,11:27 PM,Sunday
+1801,11/08/2025,Alastair Whittles,Coca-Cola 1.5L,Beverages,1,72,72,GCash,Al Bawiti,Phelia Szreter,TRUE,47,SM,Regular,7:16 AM,Saturday
+1802,11/15/2025,Dolorita Shann,Piattos,Snacks,6,25,150,Maya,Dhanot,Clemente Emmer,TRUE,88,SNS,Walk-In,7:45 PM,Saturday
+1803,11/25/2025,Lucine Lippard,Bear Brand Milk,Beverages,9,18,162,GCash,Carora,Godfrey Featherstone,TRUE,83,SNS,Walk-In,10:39 AM,Tuesday
+1804,08/09/2025,Rachel Joselson,Nescafe Sachet,Beverages,6,8,48,Cash,Tengqiao,Pinchas Goodlet,TRUE,67,Walter,Walk-In,10:34 AM,Saturday
+1805,10/05/2025,Ric Tethacot,Surf Detergent,Personal Care,2,12,24,Maya,Laborie,Janos Saltwell,FALSE,23,SNS,Walk-In,1:48 PM,Sunday
+1806,2/28/2026,Heida Tousey,Safeguard Soap,Personal Care,9,45,405,GCash,Pamungguan,Patty Parton,FALSE,182,SNS,Walk-In,12:26 PM,Saturday
+1807,1/18/2026,Mellie Kynforth,SkyFlakes,Snacks,8,10,80,Cash,Monte Redondo,Trev Wade,FALSE,190,Walter,Walk-In,7:25 AM,Sunday
+1808,6/28/2025,Elisha Swinn,Century Tuna,Groceries,10,38,380,Cash,Buzen,Flemming Uppett,FALSE,79,Savemore,Walk-In,5:46 PM,Saturday
+1809,10/06/2025,Sophey Eagger,Rice 1kg,Groceries,8,58,464,Cash,Apaga,Rip Luckcuck,TRUE,11,SM,Regular,6:27 PM,Monday
+1810,6/21/2025,Karissa Elleton,Hotdog Pack,Groceries,6,95,570,GCash,Caacupé,Elenore Louthe,FALSE,178,SM,Regular,5:53 PM,Saturday
+1811,01/06/2026,Muhammad Thomelin,Eggs Dozen,Groceries,5,110,550,GCash,Hewa,Candida Barlie,FALSE,72,SM,Walk-In,5:10 AM,Tuesday
+1812,10/30/2025,Danyette Clench,Yakult,Beverages,4,15,60,Maya,Nazyvayevsk,Morena O'Sharkey,TRUE,53,Walter,Walk-In,2:18 PM,Thursday
+1813,2/28/2026,Addy Crowth,Milo Sachet,Beverages,7,12,84,GCash,Ossora,Andriana Crabtree,TRUE,168,SM,Walk-In,9:45 PM,Saturday
+1814,4/15/2026,Brennen Treweek,Tender Juicy Hotdog,Groceries,9,120,1080,Maya,Emnambithi-Ladysmith,Carlotta Delete,FALSE,23,Walter,Regular,9:48 PM,Wednesday
+1815,3/31/2026,Adora Barff,Palmolive Shampoo,Personal Care,10,7,70,Maya,Prawdzinski,Franky Hefford,TRUE,161,Savemore,Regular,9:50 AM,Tuesday
+1816,5/15/2025,Dalenna Bispham,Kopiko 78,Beverages,2,15,30,Cash,Komga,Fabian Casaccia,FALSE,145,SNS,Regular,8:07 PM,Thursday
+1817,08/05/2025,Diena Klementz,Mineral Water,Beverages,6,20,120,Maya,Grand Rapids,Orsa Whannel,FALSE,67,Walter,Regular,10:21 PM,Tuesday
+1818,8/15/2025,Wolfgang Fido,Oishi Prawn Crackers,Snacks,7,18,126,GCash,Yangping,Keelia Tuttiett,TRUE,56,SM,Walk-In,4:59 PM,Friday
+1819,4/19/2026,Preston Walsham,Corned Beef,Groceries,2,35,70,Maya,Annecy,Nil Maroney,TRUE,89,SNS,Regular,7:07 PM,Sunday
+1820,9/26/2025,Cthrine Hertwell,Lucky Me Pancit Canton,Snacks,8,15,120,Maya,Nancy,Sidonia Rait,FALSE,58,Savemore,Regular,1:23 PM,Friday
+1821,03/10/2026,Guglielmo Koeppe,Coca-Cola 1.5L,Beverages,6,72,432,Maya,Oeiras,Abigail Beeho,FALSE,75,SM,Regular,1:46 AM,Tuesday
+1822,07/08/2025,Ardenia Praill,Piattos,Snacks,10,25,250,GCash,Kolindrós,Lisa Elloway,TRUE,13,Savemore,Walk-In,8:34 PM,Tuesday
+1823,9/27/2025,Devon Dodge,Bear Brand Milk,Beverages,2,18,36,Maya,Hasilpur,Evin Alcalde,TRUE,167,SM,Walk-In,10:01 AM,Saturday
+1824,2/26/2026,Feodor Seaman,Nescafe Sachet,Beverages,4,8,32,Maya,Timbuktu,Berk Drabble,FALSE,76,SNS,Regular,7:53 AM,Thursday
+1825,1/27/2026,Bogart Dearan,Surf Detergent,Personal Care,8,12,96,Cash,Otofuke,Chantalle Ethridge,TRUE,83,Walter,Walk-In,9:56 AM,Tuesday
+1826,1/22/2026,Giacomo Iannuzzi,Safeguard Soap,Personal Care,8,45,360,GCash,Su’ao,Rebeka Rait,TRUE,177,SNS,Regular,11:45 AM,Thursday
+1827,5/31/2025,Aimil Eastup,SkyFlakes,Snacks,8,10,80,Maya,Ladushkin,Woodman Benettolo,TRUE,82,SNS,Walk-In,5:05 AM,Saturday
+1828,05/11/2026,Zia Ocheltree,Century Tuna,Groceries,9,38,342,GCash,Villeneuve-sur-Lot,Carlen Bault,TRUE,113,Savemore,Walk-In,3:47 PM,Monday
+1829,05/06/2026,Maighdiln Elesander,Rice 1kg,Groceries,4,58,232,Maya,Shisandaogou,Judd Schuricke,FALSE,12,SNS,Regular,8:04 AM,Wednesday
+1830,9/25/2025,Jerrylee Lob,Hotdog Pack,Groceries,4,95,380,Cash,Arinos,Mordy Moir,FALSE,159,SM,Regular,5:35 PM,Thursday
+1831,8/22/2025,Lorette Mallock,Eggs Dozen,Groceries,4,110,440,GCash,Zhoinda,Ike Hambidge,FALSE,101,Walter,Regular,6:54 PM,Friday
+1832,10/07/2025,Aristotle Domengue,Yakult,Beverages,9,15,135,GCash,Sanshengyuan,Prudence Jouanot,FALSE,181,Walter,Regular,11:03 AM,Tuesday
+1833,01/09/2026,Elenore Stiegars,Milo Sachet,Beverages,7,12,84,Cash,Sidomulyo,Adele Pardon,FALSE,187,SM,Regular,9:02 PM,Friday
+1834,5/24/2025,Hilly Walworche,Tender Juicy Hotdog,Groceries,4,120,480,GCash,Oebai,Jecho Hollyman,FALSE,73,Savemore,Regular,10:10 AM,Saturday
+1835,1/22/2026,Meredith Maberley,Palmolive Shampoo,Personal Care,10,7,70,GCash,Cheongsong gun,Krishna Cockshut,TRUE,101,SNS,Walk-In,4:25 PM,Thursday
+1836,2/18/2026,Miquela Gorring,Kopiko 78,Beverages,8,15,120,Maya,Carcassonne,Lola Logsdale,FALSE,139,Savemore,Walk-In,10:34 AM,Wednesday
+1837,02/07/2026,Lind Gunton,Mineral Water,Beverages,7,20,140,Cash,Jadowniki,Taite Empleton,FALSE,52,Savemore,Walk-In,7:06 PM,Saturday
+1838,09/06/2025,Whitney Hebner,Oishi Prawn Crackers,Snacks,7,18,126,GCash,Lahan Sai,Ertha Grigorio,TRUE,35,Walter,Walk-In,10:00 PM,Saturday
+1839,12/17/2025,Kerby Rilton,Corned Beef,Groceries,1,35,35,GCash,Zielonka,Sherlocke Dargue,TRUE,27,SNS,Walk-In,7:38 PM,Wednesday
+1840,05/11/2026,Janet Edsell,Lucky Me Pancit Canton,Snacks,7,15,105,GCash,Shangdian,Cherry Tweed,TRUE,123,SM,Regular,1:39 AM,Monday
+1841,9/13/2025,Obidiah Tomsett,Coca-Cola 1.5L,Beverages,1,72,72,GCash,Denver,Regan Baguley,FALSE,115,Walter,Regular,12:37 AM,Saturday
+1842,3/27/2026,Sandor Eagles,Piattos,Snacks,5,25,125,Maya,Älvdalen,Glyn Dorrian,TRUE,58,SM,Walk-In,8:01 PM,Friday
+1843,02/08/2026,Cindi Spencer,Bear Brand Milk,Beverages,6,18,108,GCash,Baizhang,Leia Prout,FALSE,131,Savemore,Regular,9:40 AM,Sunday
+1844,06/12/2025,Paton Frankland,Nescafe Sachet,Beverages,2,8,16,Maya,Palestina de los Altos,Thurstan Jarrelt,TRUE,178,SNS,Walk-In,6:33 AM,Thursday
+1845,10/06/2025,Melantha Insull,Surf Detergent,Personal Care,5,12,60,Cash,Yangce,Alva Lushey,TRUE,177,SM,Walk-In,8:13 AM,Monday
+1846,12/08/2025,Thorpe Hacksby,Safeguard Soap,Personal Care,9,45,405,GCash,Cravinhos,Carmella Bowlas,TRUE,129,Savemore,Regular,6:10 PM,Monday
+1847,7/13/2025,Hermina Hoopper,SkyFlakes,Snacks,9,10,90,Maya,Rezé,Angelita Handes,FALSE,132,SNS,Regular,12:21 AM,Sunday
+1848,05/01/2026,Jeanne Atwel,Century Tuna,Groceries,10,38,380,GCash,Pimenta Bueno,Cornie Sellar,TRUE,107,SNS,Walk-In,8:03 PM,Friday
+1849,10/23/2025,Mirelle Hoyt,Rice 1kg,Groceries,8,58,464,Cash,Haykashen,Tremain Abbott,FALSE,138,SNS,Walk-In,9:23 AM,Thursday
+1850,10/11/2025,Ivory Capelle,Hotdog Pack,Groceries,2,95,190,Maya,Viçosa,Richardo Gubbin,FALSE,131,SNS,Walk-In,9:09 AM,Saturday
+1851,2/22/2026,Gearalt Jehan,Eggs Dozen,Groceries,3,110,330,GCash,Biguo,Ruby Evitts,TRUE,97,Walter,Walk-In,4:38 AM,Sunday
+1852,03/12/2026,Mendie Dinkin,Yakult,Beverages,6,15,90,GCash,Pamedilan,Tamera Friday,FALSE,113,SNS,Regular,12:58 PM,Thursday
+1853,8/20/2025,Alene Legister,Milo Sachet,Beverages,3,12,36,Cash,Santo Isidro,Ruthe Roch,TRUE,130,Savemore,Regular,12:09 PM,Wednesday
+1854,2/13/2026,Christabella Braizier,Tender Juicy Hotdog,Groceries,8,120,960,Cash,Rouen,Haywood Longridge,TRUE,178,Savemore,Walk-In,12:29 AM,Friday
+1855,8/23/2025,Sidonia Ondrich,Palmolive Shampoo,Personal Care,4,7,28,Cash,Sunduk,Wolf Pacitti,TRUE,101,Walter,Regular,8:57 AM,Saturday
+1856,7/26/2025,Montague Speeks,Kopiko 78,Beverages,4,15,60,Maya,Tyrnyauz,Calvin Golston,FALSE,127,SM,Regular,11:01 AM,Saturday
+1857,6/30/2025,Sheena Banaszewski,Mineral Water,Beverages,5,20,100,Cash,Sirnaresmi,Gavra Warman,FALSE,113,Walter,Regular,11:14 AM,Monday
+1858,12/12/2025,Fanya Summerlad,Oishi Prawn Crackers,Snacks,8,18,144,Maya,Balogo,Lionello Mill,FALSE,31,SNS,Regular,4:19 AM,Friday
+1859,10/08/2025,Alane Wilcox,Corned Beef,Groceries,10,35,350,GCash,Lipovci,Thorvald Grasha,FALSE,166,Savemore,Walk-In,12:43 PM,Wednesday
+1860,08/11/2025,York Schooling,Lucky Me Pancit Canton,Snacks,3,15,45,Cash,Kuçovë,Bobbi Logsdale,FALSE,107,SM,Walk-In,10:23 AM,Monday
+1861,9/30/2025,Zak Bruneau,Coca-Cola 1.5L,Beverages,4,72,288,GCash,Nart,Grange Parry,TRUE,30,SM,Walk-In,12:22 AM,Tuesday
+1862,04/12/2026,Elmo Reddihough,Piattos,Snacks,1,25,25,Cash,Dongtou,Jecho Sydney,TRUE,104,Walter,Walk-In,6:49 AM,Sunday
+1863,09/11/2025,Doris Blinkhorn,Bear Brand Milk,Beverages,9,18,162,Maya,Rukem,Jillene Gange,FALSE,67,Savemore,Regular,11:20 AM,Thursday
+1864,2/23/2026,Creighton Robers,Nescafe Sachet,Beverages,6,8,48,Maya,Yuantan,Bar Varley,TRUE,184,SNS,Walk-In,10:09 PM,Monday
+1865,10/29/2025,Keene Fleckney,Surf Detergent,Personal Care,5,12,60,Maya,Rana,Catriona Anstead,TRUE,157,SNS,Walk-In,10:25 PM,Wednesday
+1866,05/09/2026,Evangelina Garter,Safeguard Soap,Personal Care,2,45,90,GCash,Ystad,Willy Biggen,FALSE,90,SNS,Walk-In,5:48 AM,Saturday
+1867,5/18/2025,Vanni Chapellow,SkyFlakes,Snacks,6,10,60,Maya,Novalja,Aubry Auton,FALSE,61,Walter,Walk-In,10:28 AM,Sunday
+1868,2/22/2026,Dom Hartill,Century Tuna,Groceries,10,38,380,Cash,Stykkishólmur,Andrea Dwerryhouse,FALSE,35,Savemore,Walk-In,7:07 AM,Sunday
+1869,7/26/2025,Hildagarde Mattersey,Rice 1kg,Groceries,7,58,406,GCash,Torslanda,Fin Comizzoli,FALSE,133,SNS,Regular,1:03 PM,Saturday
+1870,01/02/2026,Wiley Ferns,Hotdog Pack,Groceries,9,95,855,Maya,Donostia-San Sebastian,Gustave Howsin,FALSE,170,Savemore,Walk-In,5:45 PM,Friday
+1871,2/27/2026,Vannie Josefer,Eggs Dozen,Groceries,6,110,660,Maya,Auxerre,Randell Blyden,FALSE,69,SNS,Walk-In,5:33 AM,Friday
+1872,1/18/2026,Teodora Keast,Yakult,Beverages,4,15,60,Cash,Lianhua,Artur Puttrell,TRUE,156,Walter,Regular,2:54 AM,Sunday
+1873,06/01/2025,Vicki Groundwater,Milo Sachet,Beverages,5,12,60,Maya,Luo’ao,Shelden Daubeny,FALSE,51,SNS,Regular,10:30 AM,Sunday
+1874,12/06/2025,Emilie Gulston,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Taizhou,Coral Cresar,TRUE,82,Savemore,Regular,7:18 PM,Saturday
+1875,3/24/2026,Corbin Bridgewater,Palmolive Shampoo,Personal Care,3,7,21,GCash,Cabanaconde,Shannah Scopes,TRUE,0,Savemore,Walk-In,8:04 PM,Tuesday
+1876,1/17/2026,Jere Bollum,Kopiko 78,Beverages,8,15,120,Maya,Ecroignard,Fay Calderonello,FALSE,90,Walter,Walk-In,1:41 PM,Saturday
+1877,05/10/2026,Madelle Batterson,Mineral Water,Beverages,7,20,140,Maya,Longquan,Nolly Jones,FALSE,126,SNS,Walk-In,12:54 AM,Sunday
+1878,04/01/2026,Torey Pardey,Oishi Prawn Crackers,Snacks,5,18,90,GCash,Bobowo,Winfield Sogg,TRUE,134,SM,Regular,9:03 PM,Wednesday
+1879,9/22/2025,Earl Worsam,Corned Beef,Groceries,7,35,245,Cash,Montreuil,Waneta Greenroad,FALSE,149,SM,Regular,11:23 PM,Monday
+1880,06/07/2025,Kenton Danilchev,Lucky Me Pancit Canton,Snacks,7,15,105,GCash,Lindavista,Forest Grinley,TRUE,136,Savemore,Walk-In,4:08 AM,Saturday
+1881,4/24/2026,Marchelle Coupar,Coca-Cola 1.5L,Beverages,10,72,720,Maya,Khanpur,Bob Bidder,TRUE,167,SM,Regular,10:09 AM,Friday
+1882,01/04/2026,Gilligan O' Meara,Piattos,Snacks,9,25,225,GCash,Andalucía,Solomon Aishford,FALSE,79,SNS,Regular,7:14 PM,Sunday
+1883,06/08/2025,Sophie Hugonneau,Bear Brand Milk,Beverages,10,18,180,Cash,Ikang,Peria Poundsford,TRUE,187,Walter,Regular,2:16 PM,Sunday
+1884,5/22/2025,Sidoney Arnow,Nescafe Sachet,Beverages,2,8,16,Cash,Minji,Emmye McKeighen,TRUE,144,Walter,Regular,11:32 AM,Thursday
+1885,7/13/2025,Tessy Smithe,Surf Detergent,Personal Care,3,12,36,Cash,Kotabumi,Jolie Nelligan,TRUE,32,Walter,Regular,7:24 AM,Sunday
+1886,06/09/2025,Tine Stellino,Safeguard Soap,Personal Care,4,45,180,Cash,Uherské Hradište,Gerrie Cordes,TRUE,61,Savemore,Walk-In,9:42 AM,Monday
+1887,7/28/2025,Christian Grime,SkyFlakes,Snacks,9,10,90,GCash,Ping’an,Susann Kiddey,FALSE,186,SM,Regular,1:13 AM,Monday
+1888,6/21/2025,Essie Hayer,Century Tuna,Groceries,1,38,38,GCash,Buan,Shellie Bertl,TRUE,118,Walter,Regular,7:58 PM,Saturday
+1889,06/01/2025,Sabina Houndson,Rice 1kg,Groceries,2,58,116,Maya,Colquechaca,Pierrette Penfold,FALSE,134,Savemore,Walk-In,9:51 AM,Sunday
+1890,09/01/2025,Mozes Benditt,Hotdog Pack,Groceries,1,95,95,Cash,Kangar,Cindelyn Fibbens,FALSE,187,Savemore,Regular,7:28 PM,Monday
+1891,11/02/2025,Prentice Sired,Eggs Dozen,Groceries,2,110,220,Cash,Sukamaju,Chrotoem Linke,TRUE,74,SNS,Regular,7:31 PM,Sunday
+1892,9/29/2025,Marylin De Vaux,Yakult,Beverages,10,15,150,GCash,Aso,Florri Charters,TRUE,91,Walter,Regular,12:05 PM,Monday
+1893,1/21/2026,Rosalinde Ibbotson,Milo Sachet,Beverages,8,12,96,GCash,Candelaria,Bennett Sirette,TRUE,43,Walter,Walk-In,4:22 AM,Wednesday
+1894,1/14/2026,Jaymee Meany,Tender Juicy Hotdog,Groceries,5,120,600,Cash,Sanyang,Nora Rendell,TRUE,71,SM,Walk-In,8:36 PM,Wednesday
+1895,9/22/2025,Galen Vigar,Palmolive Shampoo,Personal Care,5,7,35,Cash,Várzea de Sintra,Erich Neller,FALSE,95,SM,Walk-In,10:20 AM,Monday
+1896,10/26/2025,Elyssa Bredgeland,Kopiko 78,Beverages,4,15,60,Maya,Las Vegas,Allyn Blabie,TRUE,104,Walter,Regular,9:44 AM,Sunday
+1897,7/31/2025,Terri Fyrth,Mineral Water,Beverages,9,20,180,GCash,Ochobo,Algernon Draijer,FALSE,188,SNS,Regular,11:23 PM,Thursday
+1898,1/23/2026,Marlee Ferber,Oishi Prawn Crackers,Snacks,1,18,18,Cash,Jipijapa,Blanche MacCurlye,FALSE,81,SNS,Walk-In,12:43 PM,Friday
+1899,4/28/2026,Kendell Fairpool,Corned Beef,Groceries,3,35,105,GCash,Voloshka,Verge Fawdry,TRUE,142,Walter,Walk-In,7:56 AM,Tuesday
+1900,6/29/2025,Cami Seater,Lucky Me Pancit Canton,Snacks,1,15,15,Cash,Lewisporte,Brittni Carnalan,TRUE,93,SNS,Walk-In,12:29 AM,Sunday
+1901,10/31/2025,Valina Sodory,Coca-Cola 1.5L,Beverages,1,72,72,Maya,Kunashak,Katherina Reburn,TRUE,152,SNS,Regular,7:35 PM,Friday
+1902,8/27/2025,Merrick Bonnell,Piattos,Snacks,2,25,50,Cash,Tsalgar,Rodrique Casbourne,TRUE,79,SM,Walk-In,6:21 PM,Wednesday
+1903,07/02/2025,Stacy Pipping,Bear Brand Milk,Beverages,7,18,126,GCash,Santa Maria,Philbert Raimbauld,TRUE,35,Walter,Walk-In,4:25 PM,Wednesday
+1904,07/09/2025,Grace Tolputt,Nescafe Sachet,Beverages,8,8,64,Cash,El Corozal,Mohammed Blakiston,TRUE,84,Walter,Walk-In,1:56 PM,Wednesday
+1905,11/21/2025,Paten Heugle,Surf Detergent,Personal Care,7,12,84,Maya,Voskhod,Kingsly Bawme,FALSE,181,SM,Regular,9:29 AM,Friday
+1906,08/03/2025,Garrek Fodden,Safeguard Soap,Personal Care,6,45,270,Maya,Xieyang,Consalve Beals,TRUE,131,SNS,Regular,3:33 AM,Sunday
+1907,05/09/2026,Marleah Colliss,SkyFlakes,Snacks,6,10,60,Maya,Rybnoye,Wallie Ayre,FALSE,130,Walter,Walk-In,9:30 AM,Saturday
+1908,8/14/2025,Ertha Capey,Century Tuna,Groceries,10,38,380,Cash,Tempel,Monty Dummigan,TRUE,30,SM,Walk-In,6:22 AM,Thursday
+1909,10/02/2025,Felisha Mackilpatrick,Rice 1kg,Groceries,4,58,232,Cash,Rathangan,Ibby Braidwood,TRUE,171,Walter,Walk-In,10:54 AM,Thursday
+1910,02/02/2026,Mollie Tyt,Hotdog Pack,Groceries,8,95,760,Maya,Great Neck,Doralin Grasner,TRUE,24,SM,Regular,6:23 PM,Monday
+1911,6/15/2025,Gerti Surman,Eggs Dozen,Groceries,6,110,660,Cash,Pasadena,Celinka McKall,FALSE,99,SNS,Walk-In,1:56 PM,Sunday
+1912,01/02/2026,Jay Lovart,Yakult,Beverages,5,15,75,GCash,Darayya,Putnem Bootton,FALSE,195,SNS,Walk-In,11:09 AM,Friday
+1913,04/01/2026,Meagan Trahair,Milo Sachet,Beverages,8,12,96,GCash,General José de San Martín,Karil Harfoot,FALSE,41,Savemore,Regular,6:12 AM,Wednesday
+1914,1/15/2026,Cointon Rayburn,Tender Juicy Hotdog,Groceries,5,120,600,Maya,Ar Rudayyif,Irvin Gilardengo,TRUE,123,Savemore,Walk-In,4:34 AM,Thursday
+1915,9/28/2025,Nev Attock,Palmolive Shampoo,Personal Care,1,7,7,Cash,Tunjë,Elvis Silkston,TRUE,196,SNS,Walk-In,12:56 AM,Sunday
+1916,07/09/2025,Guendolen McCurt,Kopiko 78,Beverages,5,15,75,Cash,Yatsushiro,Andi Gogan,TRUE,47,Walter,Walk-In,11:40 AM,Wednesday
+1917,7/14/2025,Lorianne Elleray,Mineral Water,Beverages,8,20,160,GCash,Maba,Sullivan Aldhous,TRUE,156,SNS,Walk-In,11:39 AM,Monday
+1918,6/13/2025,Darda Speek,Oishi Prawn Crackers,Snacks,4,18,72,Cash,Xihu,Gwendolyn Ofer,TRUE,57,SM,Regular,4:21 AM,Friday
+1919,3/28/2026,Rouvin Lindmark,Corned Beef,Groceries,2,35,70,GCash,Kulase,Else Itzkin,FALSE,169,Walter,Regular,7:24 PM,Saturday
+1920,12/26/2025,Sergent Goldston,Lucky Me Pancit Canton,Snacks,3,15,45,Cash,Balekersukamaju,Eugenius Weekly,FALSE,55,Walter,Walk-In,6:23 PM,Friday
+1921,8/18/2025,Blithe Courtenay,Coca-Cola 1.5L,Beverages,2,72,144,Maya,Los Cóndores,Carleton Pigrome,TRUE,158,SM,Walk-In,3:00 AM,Monday
+1922,5/24/2025,Margarethe Malkie,Piattos,Snacks,2,25,50,Maya,Postupice,Brannon Salvadori,FALSE,162,SM,Regular,10:10 AM,Saturday
+1923,3/19/2026,Herby Pabelik,Bear Brand Milk,Beverages,6,18,108,Maya,Santa Marta,Mickie Grieveson,TRUE,55,Savemore,Walk-In,3:31 AM,Thursday
+1924,11/20/2025,Kile Mikalski,Nescafe Sachet,Beverages,8,8,64,GCash,Nubma,Patti Schuelcke,FALSE,100,SNS,Walk-In,10:25 AM,Thursday
+1925,03/03/2026,Natassia Hesbrook,Surf Detergent,Personal Care,7,12,84,Cash,Tujing,Gracia Gilyott,TRUE,54,SNS,Walk-In,1:13 AM,Tuesday
+1926,01/06/2026,Grover Toler,Safeguard Soap,Personal Care,9,45,405,GCash,Nanfeng,Addy Moakes,FALSE,134,SNS,Walk-In,8:22 PM,Tuesday
+1927,10/30/2025,Brianne Krout,SkyFlakes,Snacks,10,10,100,GCash,Laowobao,Deana Isworth,FALSE,74,Walter,Walk-In,6:43 PM,Thursday
+1928,3/23/2026,Devon Allibone,Century Tuna,Groceries,4,38,152,Cash,Kikinda,Ernesta Miliffe,TRUE,150,Walter,Walk-In,10:57 AM,Monday
+1929,11/08/2025,Jocelyne MacDonagh,Rice 1kg,Groceries,2,58,116,GCash,Drammen,Gino Harriday,FALSE,110,Walter,Regular,6:47 PM,Saturday
+1930,10/22/2025,Damon Preston,Hotdog Pack,Groceries,6,95,570,GCash,Tovarkovskiy,Charity Ackwood,FALSE,170,Walter,Regular,8:08 AM,Wednesday
+1931,8/30/2025,Leeanne Kerridge,Eggs Dozen,Groceries,3,110,330,GCash,Maranura,Sher Maybery,FALSE,66,SNS,Walk-In,1:48 AM,Saturday
+1932,05/03/2026,Jere Bester,Yakult,Beverages,7,15,105,GCash,Idrija,Edee Riby,FALSE,15,SM,Walk-In,6:25 AM,Sunday
+1933,9/16/2025,Lebbie Sakins,Milo Sachet,Beverages,8,12,96,Cash,San Carlos de Bariloche,Joanna Norwell,TRUE,143,SNS,Walk-In,8:57 PM,Tuesday
+1934,2/14/2026,Kamillah Ashling,Tender Juicy Hotdog,Groceries,2,120,240,GCash,Kemil,Vania Cooke,FALSE,55,SM,Walk-In,11:31 AM,Saturday
+1935,6/18/2025,Gilberto Dodworth,Palmolive Shampoo,Personal Care,4,7,28,GCash,Xuefeng,Waldemar Stenning,TRUE,125,Savemore,Walk-In,6:42 PM,Wednesday
+1936,5/21/2025,Gwenette Frape,Kopiko 78,Beverages,8,15,120,Cash,Ekasapta,Stacee Gulliver,TRUE,29,Walter,Walk-In,3:01 PM,Wednesday
+1937,2/16/2026,Tuesday Megainey,Mineral Water,Beverages,1,20,20,GCash,Magetlegar,Sophia Libbey,TRUE,163,Savemore,Walk-In,7:21 PM,Monday
+1938,11/22/2025,Jacobo Garretts,Oishi Prawn Crackers,Snacks,4,18,72,GCash,Zuoxi,Ines Swadling,TRUE,98,Walter,Regular,10:25 AM,Saturday
+1939,8/22/2025,Corette Beney,Corned Beef,Groceries,10,35,350,Maya,Gornje Moštre,Sheryl Calken,FALSE,184,SNS,Walk-In,9:21 AM,Friday
+1940,5/22/2025,Louise Murcutt,Lucky Me Pancit Canton,Snacks,5,15,75,Cash,Rouen,Lidia Pitkethly,FALSE,81,Savemore,Walk-In,6:04 PM,Thursday
+1941,10/23/2025,Evonne Pfeiffer,Coca-Cola 1.5L,Beverages,5,72,360,Maya,Tebluru,Justus Stainson,FALSE,189,Savemore,Walk-In,6:03 PM,Thursday
+1942,6/18/2025,Richie Dugdale,Piattos,Snacks,5,25,125,Cash,Wujing,Bobby Dolphin,FALSE,87,SNS,Walk-In,5:04 PM,Wednesday
+1943,2/28/2026,Gwen Longhorne,Bear Brand Milk,Beverages,3,18,54,Cash,Pompéu,Lizette Brittle,TRUE,170,SNS,Walk-In,3:13 PM,Saturday
+1944,08/11/2025,Dallas Shortell,Nescafe Sachet,Beverages,10,8,80,GCash,Nuevitas,Tandi Skeel,FALSE,24,Savemore,Walk-In,9:35 AM,Monday
+1945,05/12/2026,Helena Lawles,Surf Detergent,Personal Care,3,12,36,Cash,Chikeng,Donia Walkowski,FALSE,58,Walter,Regular,12:34 AM,Tuesday
+1946,3/17/2026,Blithe Alpe,Safeguard Soap,Personal Care,4,45,180,Maya,Sarzedo,Thedrick Brammar,TRUE,48,Savemore,Regular,7:09 AM,Tuesday
+1947,06/05/2025,Sidonnie Woolf,SkyFlakes,Snacks,10,10,100,Cash,Bang Pakong,Judy Cesco,FALSE,137,Walter,Walk-In,9:34 PM,Thursday
+1948,12/19/2025,Mahalia Rekes,Century Tuna,Groceries,6,38,228,Cash,Altanbulag,Addie Soff,TRUE,8,SM,Walk-In,12:04 PM,Friday
+1949,7/25/2025,Rheta Kitteridge,Rice 1kg,Groceries,2,58,116,Maya,"Coruña, A",Hyman Arnecke,FALSE,75,SNS,Regular,7:13 PM,Friday
+1950,10/23/2025,Nadean Tuny,Hotdog Pack,Groceries,8,95,760,Maya,Patabog,Athene Hampstead,TRUE,72,Walter,Regular,7:22 AM,Thursday
+1951,6/16/2025,Angeli Haggart,Eggs Dozen,Groceries,1,110,110,GCash,San Cristobal,Masha Comar,TRUE,145,Walter,Regular,1:01 AM,Monday
+1952,4/21/2026,Sophronia Grasser,Yakult,Beverages,8,15,120,Cash,Bantu,Xymenes Hailes,FALSE,56,Savemore,Regular,10:16 PM,Tuesday
+1953,09/11/2025,Kikelia Lafay,Milo Sachet,Beverages,6,12,72,GCash,Lopatinskiy,Clarisse Lilbourne,TRUE,47,Savemore,Walk-In,8:08 PM,Thursday
+1954,9/28/2025,Weider Ambage,Tender Juicy Hotdog,Groceries,4,120,480,GCash,Monte Azul Paulista,Virginia Giveen,TRUE,105,SM,Regular,9:11 PM,Sunday
+1955,10/09/2025,Shirleen Stearn,Palmolive Shampoo,Personal Care,2,7,14,GCash,Villa Cañás,Fiann Swatridge,FALSE,46,SM,Walk-In,2:56 AM,Thursday
+1956,9/26/2025,Roberto Shanley,Kopiko 78,Beverages,1,15,15,Maya,Marseille,Grover Mollatt,FALSE,175,Savemore,Walk-In,4:46 AM,Friday
+1957,6/24/2025,Donovan Skipsea,Mineral Water,Beverages,7,20,140,Maya,Orlovka,Shandee Edden,FALSE,105,Savemore,Regular,9:47 PM,Tuesday
+1958,9/17/2025,Caryn Lansley,Oishi Prawn Crackers,Snacks,5,18,90,Cash,Picassinos,Isis Malins,TRUE,90,Savemore,Walk-In,2:36 PM,Wednesday
+1959,9/27/2025,Patrizio Vennard,Corned Beef,Groceries,7,35,245,GCash,High Prairie,Callie Borchardt,FALSE,163,SM,Regular,4:59 PM,Saturday
+1960,11/21/2025,Rutter Harmes,Lucky Me Pancit Canton,Snacks,4,15,60,GCash,Arnhem,Correy Blaxley,FALSE,86,Walter,Regular,10:11 AM,Friday
+1961,1/28/2026,Morna Morby,Coca-Cola 1.5L,Beverages,7,72,504,Maya,Shagonar,Nike Boig,FALSE,66,Walter,Regular,9:28 AM,Wednesday
+1962,10/27/2025,Teresita Hurton,Piattos,Snacks,3,25,75,Cash,Mapulo,Nellie Imlen,FALSE,172,SM,Walk-In,5:02 AM,Monday
+1963,08/01/2025,Darda Vicioso,Bear Brand Milk,Beverages,5,18,90,Maya,Lüyang,Fonz Meneghelli,FALSE,8,Walter,Regular,12:13 PM,Friday
+1964,12/06/2025,Granville Benzing,Nescafe Sachet,Beverages,7,8,56,Cash,Xiabuji,Wiatt MacNeill,FALSE,78,Savemore,Regular,8:19 AM,Saturday
+1965,11/14/2025,Alta Cholton,Surf Detergent,Personal Care,7,12,84,Cash,Lysá nad Labem,Cherie Soldan,FALSE,74,SM,Walk-In,5:18 AM,Friday
+1966,2/25/2026,Winna Abel,Safeguard Soap,Personal Care,5,45,225,GCash,Cergy-Pontoise,Rowland Handes,FALSE,139,Walter,Walk-In,4:49 PM,Wednesday
+1967,8/30/2025,Bradney Tarquini,SkyFlakes,Snacks,9,10,90,Maya,Piraquara,Darcie Schusterl,FALSE,121,SM,Walk-In,1:34 PM,Saturday
+1968,2/15/2026,Rusty Whates,Century Tuna,Groceries,10,38,380,GCash,Kajisara,Jake Chaize,FALSE,53,SNS,Walk-In,6:20 PM,Sunday
+1969,10/15/2025,Phillip Anstead,Rice 1kg,Groceries,3,58,174,GCash,Penalva,Austina Middlemass,FALSE,149,SM,Walk-In,12:58 PM,Wednesday
+1970,7/27/2025,Kinny Instone,Hotdog Pack,Groceries,6,95,570,Cash,Gangu Chengguanzhen,Errick Jorn,TRUE,143,SM,Walk-In,7:13 AM,Sunday
+1971,9/23/2025,Pacorro Batthew,Eggs Dozen,Groceries,10,110,1100,Maya,Shakhtars’k,Colby M'Quharge,TRUE,57,Savemore,Walk-In,5:49 PM,Tuesday
+1972,7/19/2025,Cher Skoggings,Yakult,Beverages,5,15,75,Maya,Gubeikou,Billie Conybear,FALSE,190,Walter,Walk-In,9:22 AM,Saturday
+1973,4/16/2026,Jewell Bullan,Milo Sachet,Beverages,4,12,48,GCash,Lyon,Dorita Faithfull,TRUE,32,SNS,Regular,8:48 PM,Thursday
+1974,11/27/2025,Mallorie Corgenvin,Tender Juicy Hotdog,Groceries,1,120,120,Maya,San Juan,Shari Bazoche,TRUE,16,Walter,Walk-In,2:26 AM,Thursday
+1975,1/24/2026,Adolpho Ashplant,Palmolive Shampoo,Personal Care,1,7,7,Maya,Orange Farm,Porty McTague,TRUE,138,Walter,Walk-In,5:18 AM,Saturday
+1976,9/18/2025,Evin Birkmyre,Kopiko 78,Beverages,4,15,60,GCash,Conceição da Barra,Fernandina Renak,FALSE,34,SM,Walk-In,8:30 AM,Thursday
+1977,6/16/2025,Annabela Ramble,Mineral Water,Beverages,4,20,80,Maya,Chlapowo,Sigrid Dietsche,TRUE,157,Walter,Regular,2:43 PM,Monday
+1978,08/10/2025,Hillie Wride,Oishi Prawn Crackers,Snacks,10,18,180,Maya,Chaoyang,Monique Winkle,TRUE,194,Walter,Regular,2:21 AM,Sunday
+1979,2/13/2026,Charmane Ricciardiello,Corned Beef,Groceries,10,35,350,GCash,Hengliang,Gil Freeland,TRUE,96,Walter,Regular,8:12 PM,Friday
+1980,6/23/2025,Gwenora Cattle,Lucky Me Pancit Canton,Snacks,2,15,30,GCash,Zhiqu,Raphael Mayhead,FALSE,40,SM,Walk-In,2:37 PM,Monday
+1981,12/29/2025,Franky Vanderplas,Coca-Cola 1.5L,Beverages,7,72,504,Maya,Imus,Domingo Atte-Stone,FALSE,157,Walter,Walk-In,12:05 AM,Monday
+1982,8/26/2025,Lydia Vasilchenko,Piattos,Snacks,1,25,25,GCash,Hegarmanah,Aubree Petriello,TRUE,166,Savemore,Regular,7:52 AM,Tuesday
+1983,11/10/2025,Tessa Wimbush,Bear Brand Milk,Beverages,8,18,144,Maya,Baijiang,Berkeley Howorth,TRUE,0,SM,Regular,8:42 PM,Monday
+1984,09/06/2025,Nathanael Land,Nescafe Sachet,Beverages,9,8,72,Maya,Starokorsunskaya,Dominique Purchon,FALSE,54,SM,Walk-In,8:28 PM,Saturday
+1985,12/21/2025,Tucky Gullick,Surf Detergent,Personal Care,6,12,72,Maya,North Shore,Valerie Della Scala,TRUE,41,SM,Regular,4:55 AM,Sunday
+1986,03/04/2026,Kerrin Cockcroft,Safeguard Soap,Personal Care,7,45,315,GCash,Bangjun,Windham Taylot,FALSE,132,SNS,Walk-In,5:44 AM,Wednesday
+1987,7/18/2025,Kerrie MacArdle,SkyFlakes,Snacks,6,10,60,GCash,Yanwang,Nadean Chantrell,TRUE,90,SM,Walk-In,3:27 AM,Friday
+1988,11/04/2025,Roxana Paolacci,Century Tuna,Groceries,1,38,38,Cash,Ingarö,Magnum Lago,FALSE,126,SNS,Walk-In,8:30 AM,Tuesday
+1989,09/05/2025,Xenia Cobbald,Rice 1kg,Groceries,3,58,174,Maya,Adil Makmur,Bryant Mallebone,TRUE,131,Walter,Walk-In,3:53 AM,Friday
+1990,9/15/2025,Gan Hazell,Hotdog Pack,Groceries,6,95,570,Maya,Ballsh,Tanny Windle,FALSE,134,SM,Regular,10:06 PM,Monday
+1991,03/08/2026,Goober Dovidian,Eggs Dozen,Groceries,10,110,1100,Maya,Saiki,Germana Morat,FALSE,113,SM,Walk-In,11:26 AM,Sunday
+1992,09/01/2025,Eugine Reace,Yakult,Beverages,8,15,120,Cash,Dingli,Benny Rampton,FALSE,149,SM,Walk-In,8:09 PM,Monday
+1993,6/21/2025,Lark Hay,Milo Sachet,Beverages,4,12,48,GCash,Torino,Alard Dorre,FALSE,91,SNS,Regular,3:47 PM,Saturday
+1994,10/10/2025,Dory Chalfain,Tender Juicy Hotdog,Groceries,8,120,960,GCash,Paterson,Kameko Klemenz,TRUE,145,SNS,Regular,9:55 PM,Friday
+1995,10/05/2025,Hubert Mathevet,Palmolive Shampoo,Personal Care,1,7,7,GCash,Xiluodu,Amos Burriss,FALSE,185,Walter,Walk-In,3:36 PM,Sunday
+1996,11/18/2025,Lowe Chilcotte,Kopiko 78,Beverages,3,15,45,GCash,Longka,Lizette Nutter,FALSE,112,SM,Walk-In,4:53 PM,Tuesday
+1997,3/30/2026,Alia Fayer,Mineral Water,Beverages,3,20,60,GCash,Vroutek,Morissa Ashford,FALSE,89,SM,Regular,1:15 AM,Monday
+1998,5/14/2026,Zaneta Whyke,Oishi Prawn Crackers,Snacks,6,18,108,Maya,Grodków,Lanny Pluthero,TRUE,142,Walter,Regular,2:18 PM,Thursday
+1999,6/30/2025,Tracie Pocknell,Corned Beef,Groceries,6,35,210,Maya,Kebon,Jonell Roscamp,FALSE,23,Walter,Walk-In,6:41 PM,Monday
+2000,08/03/2025,Keary Bocking,Lucky Me Pancit Canton,Snacks,3,15,45,GCash,Quebo,Corri Artharg,TRUE,167,SM,Regular,9:34 PM,Sunday
